@@ -1,0 +1,501 @@
+outlet_id,franchise_id,outlet_name,address,city,state,pincode,status
+O0001,F001,Royal Biryani House - Civil Lines,"156, Civil Lines",Hyderabad,Telangana,493385,Active
+O0002,F001,Royal Biryani House - Ring Road,"277, Ring Road",Chandigarh,Chandigarh,401795,Active
+O0003,F001,Royal Biryani House - Indirapuram,"197, Indirapuram",Delhi,Delhi,549948,Active
+O0004,F001,Royal Biryani House - Central Market,"163, Central Market",Hyderabad,Telangana,531099,Active
+O0005,F001,Royal Biryani House - Sector 18,"72, Sector 18",Hyderabad,Telangana,316114,Active
+O0006,F001,Royal Biryani House - Main Market,"287, Main Market",Indore,Madhya Pradesh,330212,Active
+O0007,F001,Royal Biryani House - City Centre,"36, City Centre",Noida,Uttar Pradesh,434220,Active
+O0008,F001,Royal Biryani House - Vaibhav Khand,"243, Vaibhav Khand",Hyderabad,Telangana,258486,Active
+O0009,F001,Royal Biryani House - Vaibhav Khand,"260, Vaibhav Khand",Pune,Maharashtra,462723,Active
+O0010,F001,Royal Biryani House - Station Road,"27, Station Road",Mumbai,Maharashtra,481869,Active
+O0011,F002,Hyderabadi Zaika - Gomti Nagar,"297, Gomti Nagar",Bengaluru,Karnataka,115409,Active
+O0012,F002,Hyderabadi Zaika - Sector 50,"286, Sector 50",Lucknow,Uttar Pradesh,334231,Warning
+O0013,F002,Hyderabadi Zaika - Gomti Nagar,"30, Gomti Nagar",Hyderabad,Telangana,390180,Active
+O0014,F002,Hyderabadi Zaika - Indirapuram,"285, Indirapuram",Jaipur,Rajasthan,669030,Active
+O0015,F002,Hyderabadi Zaika - Raj Nagar,"158, Raj Nagar",Ghaziabad,Uttar Pradesh,474718,Active
+O0016,F002,Hyderabadi Zaika - Sector 50,"295, Sector 50",Mumbai,Maharashtra,395819,Active
+O0017,F002,Hyderabadi Zaika - Central Market,"179, Central Market",Delhi,Delhi,130149,Active
+O0018,F002,Hyderabadi Zaika - MG Road,"28, MG Road",Jaipur,Rajasthan,317923,Active
+O0019,F002,Hyderabadi Zaika - Ring Road,"249, Ring Road",Noida,Uttar Pradesh,131666,Active
+O0020,F002,Hyderabadi Zaika - Mall Road,"71, Mall Road",Hyderabad,Telangana,532590,Active
+O0021,F003,Nawab's Kitchen - Vaibhav Khand,"201, Vaibhav Khand",Kolkata,West Bengal,302190,Active
+O0022,F003,Nawab's Kitchen - Sector 62,"57, Sector 62",Jaipur,Rajasthan,332707,Active
+O0023,F003,Nawab's Kitchen - Raj Nagar,"162, Raj Nagar",Hyderabad,Telangana,441520,Active
+O0024,F003,Nawab's Kitchen - Civil Lines,"48, Civil Lines",Kochi,Kerala,436983,Active
+O0025,F003,Nawab's Kitchen - Civil Lines,"246, Civil Lines",Ahmedabad,Gujarat,188662,Active
+O0026,F003,Nawab's Kitchen - Mall Road,"124, Mall Road",Hyderabad,Telangana,345863,Active
+O0027,F003,Nawab's Kitchen - Station Road,"84, Station Road",Jaipur,Rajasthan,419580,Active
+O0028,F003,Nawab's Kitchen - MG Road,"202, MG Road",Kochi,Kerala,620114,Active
+O0029,F003,Nawab's Kitchen - Main Market,"228, Main Market",Pune,Maharashtra,191160,Warning
+O0030,F003,Nawab's Kitchen - Indirapuram,"118, Indirapuram",Chandigarh,Chandigarh,616402,Active
+O0031,F004,Biryani Darbar - Gomti Nagar,"15, Gomti Nagar",Lucknow,Uttar Pradesh,654677,Active
+O0032,F004,Biryani Darbar - Vaibhav Khand,"169, Vaibhav Khand",Kochi,Kerala,287328,Warning
+O0033,F004,Biryani Darbar - Indirapuram,"161, Indirapuram",Hyderabad,Telangana,495828,Active
+O0034,F004,Biryani Darbar - Indirapuram,"156, Indirapuram",Chandigarh,Chandigarh,564890,Active
+O0035,F004,Biryani Darbar - Sector 50,"266, Sector 50",Kolkata,West Bengal,220638,Active
+O0036,F004,Biryani Darbar - Station Road,"284, Station Road",Lucknow,Uttar Pradesh,297435,Active
+O0037,F004,Biryani Darbar - Vaibhav Khand,"259, Vaibhav Khand",Bengaluru,Karnataka,253825,Active
+O0038,F004,Biryani Darbar - MG Road,"7, MG Road",Bengaluru,Karnataka,418531,Active
+O0039,F004,Biryani Darbar - Vaibhav Khand,"240, Vaibhav Khand",Delhi,Delhi,463732,Active
+O0040,F004,Biryani Darbar - Sector 18,"137, Sector 18",Lucknow,Uttar Pradesh,213329,Active
+O0041,F005,Spice Route Kitchen - Sector 18,"15, Sector 18",Indore,Madhya Pradesh,228294,Active
+O0042,F005,Spice Route Kitchen - Raj Nagar,"105, Raj Nagar",Kochi,Kerala,213482,Active
+O0043,F005,Spice Route Kitchen - Vaibhav Khand,"14, Vaibhav Khand",Patna,Bihar,587481,Active
+O0044,F005,Spice Route Kitchen - City Centre,"114, City Centre",Chandigarh,Chandigarh,141386,Active
+O0045,F005,Spice Route Kitchen - Sector 50,"220, Sector 50",Chandigarh,Chandigarh,171181,Active
+O0046,F005,Spice Route Kitchen - Indirapuram,"276, Indirapuram",Delhi,Delhi,385082,Active
+O0047,F005,Spice Route Kitchen - Main Market,"298, Main Market",Mumbai,Maharashtra,546885,Active
+O0048,F005,Spice Route Kitchen - Main Market,"174, Main Market",Delhi,Delhi,194847,Active
+O0049,F005,Spice Route Kitchen - Central Market,"18, Central Market",Patna,Bihar,408665,Active
+O0050,F005,Spice Route Kitchen - Gomti Nagar,"66, Gomti Nagar",Noida,Uttar Pradesh,674533,Active
+O0051,F006,Delhi Tadka - MG Road,"146, MG Road",Kochi,Kerala,574037,Active
+O0052,F006,Delhi Tadka - Sector 50,"216, Sector 50",Lucknow,Uttar Pradesh,435601,Active
+O0053,F006,Delhi Tadka - Gomti Nagar,"66, Gomti Nagar",Bengaluru,Karnataka,334007,Active
+O0054,F006,Delhi Tadka - Station Road,"78, Station Road",Chandigarh,Chandigarh,418088,Active
+O0055,F006,Delhi Tadka - Main Market,"199, Main Market",Bengaluru,Karnataka,658745,Active
+O0056,F006,Delhi Tadka - Sector 62,"287, Sector 62",Kochi,Kerala,259587,Active
+O0057,F006,Delhi Tadka - City Centre,"163, City Centre",Hyderabad,Telangana,627132,Active
+O0058,F006,Delhi Tadka - Raj Nagar,"209, Raj Nagar",Kochi,Kerala,179049,Active
+O0059,F006,Delhi Tadka - City Centre,"78, City Centre",Ghaziabad,Uttar Pradesh,357075,Active
+O0060,F006,Delhi Tadka - Main Market,"227, Main Market",Mumbai,Maharashtra,636223,Active
+O0061,F007,Punjab Rasoi - Indirapuram,"254, Indirapuram",Jaipur,Rajasthan,372820,Active
+O0062,F007,Punjab Rasoi - Sector 18,"63, Sector 18",Mumbai,Maharashtra,461274,Active
+O0063,F007,Punjab Rasoi - Sector 50,"264, Sector 50",Pune,Maharashtra,506589,Active
+O0064,F007,Punjab Rasoi - City Centre,"152, City Centre",Noida,Uttar Pradesh,186354,Active
+O0065,F007,Punjab Rasoi - Central Market,"237, Central Market",Kochi,Kerala,446958,Active
+O0066,F007,Punjab Rasoi - Ring Road,"137, Ring Road",Ghaziabad,Uttar Pradesh,433283,Active
+O0067,F007,Punjab Rasoi - City Centre,"295, City Centre",Mumbai,Maharashtra,648963,Active
+O0068,F007,Punjab Rasoi - Sector 50,"132, Sector 50",Pune,Maharashtra,358649,Active
+O0069,F007,Punjab Rasoi - Vaibhav Khand,"190, Vaibhav Khand",Hyderabad,Telangana,567352,Active
+O0070,F007,Punjab Rasoi - Raj Nagar,"208, Raj Nagar",Noida,Uttar Pradesh,323257,Active
+O0071,F008,Mughal Kitchen - Sector 18,"292, Sector 18",Delhi,Delhi,173004,Active
+O0072,F008,Mughal Kitchen - MG Road,"207, MG Road",Ahmedabad,Gujarat,553725,Active
+O0073,F008,Mughal Kitchen - Raj Nagar,"231, Raj Nagar",Indore,Madhya Pradesh,280235,Active
+O0074,F008,Mughal Kitchen - Indirapuram,"107, Indirapuram",Lucknow,Uttar Pradesh,490386,Active
+O0075,F008,Mughal Kitchen - Indirapuram,"118, Indirapuram",Indore,Madhya Pradesh,508183,Active
+O0076,F008,Mughal Kitchen - Indirapuram,"182, Indirapuram",Ahmedabad,Gujarat,634933,Active
+O0077,F008,Mughal Kitchen - MG Road,"227, MG Road",Kolkata,West Bengal,202125,Active
+O0078,F008,Mughal Kitchen - Civil Lines,"202, Civil Lines",Kochi,Kerala,348803,Active
+O0079,F008,Mughal Kitchen - MG Road,"172, MG Road",Pune,Maharashtra,360781,Active
+O0080,F008,Mughal Kitchen - City Centre,"110, City Centre",Pune,Maharashtra,291975,Active
+O0081,F009,Urban Tandoor - Sector 50,"209, Sector 50",Bengaluru,Karnataka,614866,Active
+O0082,F009,Urban Tandoor - MG Road,"16, MG Road",Ghaziabad,Uttar Pradesh,387459,Active
+O0083,F009,Urban Tandoor - Sector 62,"132, Sector 62",Lucknow,Uttar Pradesh,263778,Active
+O0084,F009,Urban Tandoor - Raj Nagar,"226, Raj Nagar",Noida,Uttar Pradesh,166665,Active
+O0085,F009,Urban Tandoor - Vaibhav Khand,"134, Vaibhav Khand",Jaipur,Rajasthan,667143,Active
+O0086,F009,Urban Tandoor - Main Market,"135, Main Market",Pune,Maharashtra,145500,Active
+O0087,F009,Urban Tandoor - Ring Road,"275, Ring Road",Delhi,Delhi,408775,Active
+O0088,F009,Urban Tandoor - Sector 50,"29, Sector 50",Kochi,Kerala,398026,Active
+O0089,F009,Urban Tandoor - City Centre,"247, City Centre",Mumbai,Maharashtra,332583,Active
+O0090,F009,Urban Tandoor - Sector 18,"191, Sector 18",Noida,Uttar Pradesh,500315,Active
+O0091,F010,Desi Dastarkhwan - Central Market,"253, Central Market",Mumbai,Maharashtra,494716,Warning
+O0092,F010,Desi Dastarkhwan - Station Road,"59, Station Road",Delhi,Delhi,475239,Active
+O0093,F010,Desi Dastarkhwan - Vaibhav Khand,"196, Vaibhav Khand",Ghaziabad,Uttar Pradesh,230774,Active
+O0094,F010,Desi Dastarkhwan - Sector 18,"201, Sector 18",Noida,Uttar Pradesh,224822,Active
+O0095,F010,Desi Dastarkhwan - Sector 62,"101, Sector 62",Bengaluru,Karnataka,573961,Active
+O0096,F010,Desi Dastarkhwan - Vaibhav Khand,"138, Vaibhav Khand",Kochi,Kerala,129089,Inactive
+O0097,F010,Desi Dastarkhwan - Central Market,"50, Central Market",Noida,Uttar Pradesh,257290,Active
+O0098,F010,Desi Dastarkhwan - Central Market,"154, Central Market",Jaipur,Rajasthan,427511,Active
+O0099,F010,Desi Dastarkhwan - Sector 18,"224, Sector 18",Hyderabad,Telangana,202821,Active
+O0100,F010,Desi Dastarkhwan - MG Road,"54, MG Road",Ahmedabad,Gujarat,452213,Active
+O0101,F011,Awadhi Zaika - Ring Road,"236, Ring Road",Mumbai,Maharashtra,169971,Active
+O0102,F011,Awadhi Zaika - Main Market,"240, Main Market",Noida,Uttar Pradesh,421331,Active
+O0103,F011,Awadhi Zaika - Ring Road,"79, Ring Road",Noida,Uttar Pradesh,184427,Active
+O0104,F011,Awadhi Zaika - Sector 18,"79, Sector 18",Ahmedabad,Gujarat,320083,Active
+O0105,F011,Awadhi Zaika - Civil Lines,"44, Civil Lines",Indore,Madhya Pradesh,223180,Active
+O0106,F011,Awadhi Zaika - Central Market,"29, Central Market",Pune,Maharashtra,623059,Active
+O0107,F011,Awadhi Zaika - Central Market,"135, Central Market",Pune,Maharashtra,359944,Active
+O0108,F011,Awadhi Zaika - Civil Lines,"67, Civil Lines",Indore,Madhya Pradesh,342787,Active
+O0109,F011,Awadhi Zaika - Indirapuram,"163, Indirapuram",Patna,Bihar,603769,Active
+O0110,F011,Awadhi Zaika - Indirapuram,"51, Indirapuram",Kochi,Kerala,324946,Active
+O0111,F012,Kebab Junction - Indirapuram,"226, Indirapuram",Bengaluru,Karnataka,566906,Active
+O0112,F012,Kebab Junction - Station Road,"27, Station Road",Pune,Maharashtra,318626,Warning
+O0113,F012,Kebab Junction - Sector 18,"133, Sector 18",Lucknow,Uttar Pradesh,163617,Active
+O0114,F012,Kebab Junction - Ring Road,"186, Ring Road",Patna,Bihar,559271,Active
+O0115,F012,Kebab Junction - Main Market,"287, Main Market",Delhi,Delhi,656730,Warning
+O0116,F012,Kebab Junction - Sector 18,"278, Sector 18",Delhi,Delhi,449561,Active
+O0117,F012,Kebab Junction - Central Market,"89, Central Market",Mumbai,Maharashtra,485782,Active
+O0118,F012,Kebab Junction - Gomti Nagar,"123, Gomti Nagar",Ahmedabad,Gujarat,388679,Active
+O0119,F012,Kebab Junction - MG Road,"57, MG Road",Kochi,Kerala,244519,Active
+O0120,F012,Kebab Junction - MG Road,"260, MG Road",Ghaziabad,Uttar Pradesh,270486,Active
+O0121,F013,Grill Nation - Station Road,"4, Station Road",Kochi,Kerala,118182,Active
+O0122,F013,Grill Nation - Mall Road,"205, Mall Road",Pune,Maharashtra,214245,Active
+O0123,F013,Grill Nation - Sector 62,"10, Sector 62",Lucknow,Uttar Pradesh,600585,Active
+O0124,F013,Grill Nation - Indirapuram,"217, Indirapuram",Bengaluru,Karnataka,489276,Active
+O0125,F013,Grill Nation - City Centre,"229, City Centre",Indore,Madhya Pradesh,602205,Active
+O0126,F013,Grill Nation - Indirapuram,"256, Indirapuram",Noida,Uttar Pradesh,371389,Active
+O0127,F013,Grill Nation - Main Market,"298, Main Market",Jaipur,Rajasthan,380250,Active
+O0128,F013,Grill Nation - Main Market,"201, Main Market",Jaipur,Rajasthan,118349,Active
+O0129,F013,Grill Nation - Raj Nagar,"83, Raj Nagar",Kochi,Kerala,649510,Active
+O0130,F013,Grill Nation - Sector 18,"184, Sector 18",Noida,Uttar Pradesh,229243,Active
+O0131,F014,Crispy Chicken Co - Gomti Nagar,"168, Gomti Nagar",Lucknow,Uttar Pradesh,348402,Active
+O0132,F014,Crispy Chicken Co - Sector 62,"295, Sector 62",Ghaziabad,Uttar Pradesh,120045,Active
+O0133,F014,Crispy Chicken Co - Sector 18,"236, Sector 18",Patna,Bihar,540898,Active
+O0134,F014,Crispy Chicken Co - Main Market,"239, Main Market",Hyderabad,Telangana,169491,Active
+O0135,F014,Crispy Chicken Co - Station Road,"86, Station Road",Noida,Uttar Pradesh,407923,Active
+O0136,F014,Crispy Chicken Co - Civil Lines,"18, Civil Lines",Chandigarh,Chandigarh,273148,Active
+O0137,F014,Crispy Chicken Co - Central Market,"171, Central Market",Ghaziabad,Uttar Pradesh,281558,Active
+O0138,F014,Crispy Chicken Co - Gomti Nagar,"164, Gomti Nagar",Patna,Bihar,622522,Active
+O0139,F014,Crispy Chicken Co - Vaibhav Khand,"151, Vaibhav Khand",Bengaluru,Karnataka,544820,Active
+O0140,F014,Crispy Chicken Co - Station Road,"219, Station Road",Kolkata,West Bengal,434810,Active
+O0141,F015,Pizza Street - Mall Road,"32, Mall Road",Jaipur,Rajasthan,664224,Active
+O0142,F015,Pizza Street - Gomti Nagar,"20, Gomti Nagar",Ghaziabad,Uttar Pradesh,115064,Active
+O0143,F015,Pizza Street - Central Market,"52, Central Market",Jaipur,Rajasthan,199071,Active
+O0144,F015,Pizza Street - Main Market,"109, Main Market",Noida,Uttar Pradesh,201487,Active
+O0145,F015,Pizza Street - Sector 62,"253, Sector 62",Mumbai,Maharashtra,608218,Active
+O0146,F015,Pizza Street - Vaibhav Khand,"226, Vaibhav Khand",Ghaziabad,Uttar Pradesh,607783,Warning
+O0147,F015,Pizza Street - Indirapuram,"215, Indirapuram",Kolkata,West Bengal,141109,Active
+O0148,F015,Pizza Street - Main Market,"99, Main Market",Chandigarh,Chandigarh,660175,Active
+O0149,F015,Pizza Street - Station Road,"128, Station Road",Pune,Maharashtra,605638,Active
+O0150,F015,Pizza Street - Main Market,"90, Main Market",Jaipur,Rajasthan,469645,Active
+O0151,F016,Oven & Crust - Gomti Nagar,"136, Gomti Nagar",Ahmedabad,Gujarat,399566,Active
+O0152,F016,Oven & Crust - Vaibhav Khand,"243, Vaibhav Khand",Indore,Madhya Pradesh,386548,Active
+O0153,F016,Oven & Crust - Central Market,"5, Central Market",Pune,Maharashtra,657261,Active
+O0154,F016,Oven & Crust - Mall Road,"173, Mall Road",Pune,Maharashtra,119342,Active
+O0155,F016,Oven & Crust - Sector 18,"248, Sector 18",Indore,Madhya Pradesh,407982,Active
+O0156,F016,Oven & Crust - Mall Road,"186, Mall Road",Chandigarh,Chandigarh,380362,Active
+O0157,F016,Oven & Crust - Raj Nagar,"117, Raj Nagar",Indore,Madhya Pradesh,143980,Active
+O0158,F016,Oven & Crust - Sector 50,"220, Sector 50",Bengaluru,Karnataka,144033,Active
+O0159,F016,Oven & Crust - Gomti Nagar,"113, Gomti Nagar",Indore,Madhya Pradesh,386485,Active
+O0160,F016,Oven & Crust - Raj Nagar,"292, Raj Nagar",Hyderabad,Telangana,668969,Active
+O0161,F017,Pizza Junction - Raj Nagar,"188, Raj Nagar",Delhi,Delhi,122675,Active
+O0162,F017,Pizza Junction - Indirapuram,"284, Indirapuram",Indore,Madhya Pradesh,249009,Active
+O0163,F017,Pizza Junction - City Centre,"162, City Centre",Delhi,Delhi,204197,Active
+O0164,F017,Pizza Junction - Gomti Nagar,"18, Gomti Nagar",Kolkata,West Bengal,319021,Active
+O0165,F017,Pizza Junction - City Centre,"132, City Centre",Chandigarh,Chandigarh,331816,Active
+O0166,F017,Pizza Junction - Civil Lines,"49, Civil Lines",Mumbai,Maharashtra,386168,Active
+O0167,F017,Pizza Junction - City Centre,"294, City Centre",Indore,Madhya Pradesh,403733,Inactive
+O0168,F017,Pizza Junction - Main Market,"259, Main Market",Kochi,Kerala,668260,Active
+O0169,F017,Pizza Junction - Indirapuram,"80, Indirapuram",Kolkata,West Bengal,424120,Active
+O0170,F017,Pizza Junction - City Centre,"86, City Centre",Indore,Madhya Pradesh,589080,Active
+O0171,F018,Italian Slice - Vaibhav Khand,"157, Vaibhav Khand",Ahmedabad,Gujarat,227665,Active
+O0172,F018,Italian Slice - Sector 18,"104, Sector 18",Noida,Uttar Pradesh,322201,Active
+O0173,F018,Italian Slice - Main Market,"147, Main Market",Mumbai,Maharashtra,626299,Warning
+O0174,F018,Italian Slice - City Centre,"221, City Centre",Noida,Uttar Pradesh,674759,Active
+O0175,F018,Italian Slice - Ring Road,"85, Ring Road",Indore,Madhya Pradesh,216466,Active
+O0176,F018,Italian Slice - MG Road,"202, MG Road",Mumbai,Maharashtra,666893,Active
+O0177,F018,Italian Slice - MG Road,"101, MG Road",Pune,Maharashtra,141021,Active
+O0178,F018,Italian Slice - Gomti Nagar,"99, Gomti Nagar",Jaipur,Rajasthan,300109,Active
+O0179,F018,Italian Slice - Station Road,"102, Station Road",Chandigarh,Chandigarh,515431,Active
+O0180,F018,Italian Slice - Vaibhav Khand,"138, Vaibhav Khand",Noida,Uttar Pradesh,335516,Active
+O0181,F019,Burger Junction - Gomti Nagar,"274, Gomti Nagar",Ghaziabad,Uttar Pradesh,261694,Active
+O0182,F019,Burger Junction - City Centre,"44, City Centre",Jaipur,Rajasthan,201407,Active
+O0183,F019,Burger Junction - Raj Nagar,"282, Raj Nagar",Kochi,Kerala,536424,Warning
+O0184,F019,Burger Junction - Gomti Nagar,"104, Gomti Nagar",Kochi,Kerala,648209,Active
+O0185,F019,Burger Junction - Indirapuram,"153, Indirapuram",Lucknow,Uttar Pradesh,395686,Warning
+O0186,F019,Burger Junction - Sector 62,"100, Sector 62",Jaipur,Rajasthan,530958,Active
+O0187,F019,Burger Junction - Indirapuram,"137, Indirapuram",Mumbai,Maharashtra,128282,Active
+O0188,F019,Burger Junction - Central Market,"184, Central Market",Hyderabad,Telangana,418845,Active
+O0189,F019,Burger Junction - Main Market,"208, Main Market",Pune,Maharashtra,397648,Active
+O0190,F019,Burger Junction - Indirapuram,"20, Indirapuram",Ghaziabad,Uttar Pradesh,388056,Active
+O0191,F020,Grill Burger Co - Gomti Nagar,"122, Gomti Nagar",Pune,Maharashtra,280972,Active
+O0192,F020,Grill Burger Co - MG Road,"26, MG Road",Chandigarh,Chandigarh,368535,Active
+O0193,F020,Grill Burger Co - Indirapuram,"50, Indirapuram",Ahmedabad,Gujarat,238930,Active
+O0194,F020,Grill Burger Co - Gomti Nagar,"32, Gomti Nagar",Pune,Maharashtra,367077,Active
+O0195,F020,Grill Burger Co - Sector 62,"178, Sector 62",Hyderabad,Telangana,372740,Active
+O0196,F020,Grill Burger Co - Gomti Nagar,"213, Gomti Nagar",Lucknow,Uttar Pradesh,206967,Active
+O0197,F020,Grill Burger Co - Raj Nagar,"166, Raj Nagar",Indore,Madhya Pradesh,192686,Active
+O0198,F020,Grill Burger Co - Gomti Nagar,"123, Gomti Nagar",Mumbai,Maharashtra,333546,Active
+O0199,F020,Grill Burger Co - MG Road,"221, MG Road",Indore,Madhya Pradesh,146272,Active
+O0200,F020,Grill Burger Co - Civil Lines,"28, Civil Lines",Patna,Bihar,171512,Active
+O0201,F021,Momo Junction - Main Market,"212, Main Market",Mumbai,Maharashtra,287546,Active
+O0202,F021,Momo Junction - Gomti Nagar,"182, Gomti Nagar",Kolkata,West Bengal,402344,Warning
+O0203,F021,Momo Junction - Civil Lines,"252, Civil Lines",Delhi,Delhi,644742,Active
+O0204,F021,Momo Junction - City Centre,"167, City Centre",Delhi,Delhi,346209,Active
+O0205,F021,Momo Junction - Sector 62,"258, Sector 62",Noida,Uttar Pradesh,174919,Active
+O0206,F021,Momo Junction - Station Road,"127, Station Road",Chandigarh,Chandigarh,164932,Active
+O0207,F021,Momo Junction - Sector 18,"12, Sector 18",Lucknow,Uttar Pradesh,117483,Active
+O0208,F021,Momo Junction - Sector 62,"296, Sector 62",Kolkata,West Bengal,204629,Active
+O0209,F021,Momo Junction - Gomti Nagar,"277, Gomti Nagar",Lucknow,Uttar Pradesh,142175,Warning
+O0210,F021,Momo Junction - Station Road,"66, Station Road",Bengaluru,Karnataka,293034,Active
+O0211,F022,Momo Street - Central Market,"217, Central Market",Patna,Bihar,179749,Active
+O0212,F022,Momo Street - Mall Road,"173, Mall Road",Indore,Madhya Pradesh,349353,Active
+O0213,F022,Momo Street - Raj Nagar,"293, Raj Nagar",Lucknow,Uttar Pradesh,622573,Active
+O0214,F022,Momo Street - Main Market,"98, Main Market",Chandigarh,Chandigarh,333129,Active
+O0215,F022,Momo Street - Sector 62,"218, Sector 62",Ghaziabad,Uttar Pradesh,588636,Inactive
+O0216,F022,Momo Street - Sector 50,"52, Sector 50",Pune,Maharashtra,527410,Active
+O0217,F022,Momo Street - Station Road,"139, Station Road",Ahmedabad,Gujarat,416020,Active
+O0218,F022,Momo Street - Indirapuram,"81, Indirapuram",Delhi,Delhi,651208,Active
+O0219,F022,Momo Street - Sector 62,"94, Sector 62",Pune,Maharashtra,255183,Active
+O0220,F022,Momo Street - Gomti Nagar,"181, Gomti Nagar",Ghaziabad,Uttar Pradesh,168829,Active
+O0221,F023,Rolls & Kebab - Ring Road,"134, Ring Road",Ahmedabad,Gujarat,142933,Warning
+O0222,F023,Rolls & Kebab - Station Road,"253, Station Road",Jaipur,Rajasthan,425770,Active
+O0223,F023,Rolls & Kebab - Ring Road,"127, Ring Road",Hyderabad,Telangana,643032,Active
+O0224,F023,Rolls & Kebab - Station Road,"296, Station Road",Delhi,Delhi,655531,Active
+O0225,F023,Rolls & Kebab - Gomti Nagar,"255, Gomti Nagar",Kochi,Kerala,553170,Active
+O0226,F023,Rolls & Kebab - Indirapuram,"255, Indirapuram",Delhi,Delhi,155339,Active
+O0227,F023,Rolls & Kebab - Sector 50,"148, Sector 50",Delhi,Delhi,681888,Active
+O0228,F023,Rolls & Kebab - Mall Road,"157, Mall Road",Kochi,Kerala,172706,Active
+O0229,F023,Rolls & Kebab - Main Market,"236, Main Market",Kochi,Kerala,328555,Active
+O0230,F023,Rolls & Kebab - Main Market,"224, Main Market",Hyderabad,Telangana,382152,Active
+O0231,F024,Kathi Roll House - Gomti Nagar,"252, Gomti Nagar",Mumbai,Maharashtra,678374,Active
+O0232,F024,Kathi Roll House - Central Market,"158, Central Market",Delhi,Delhi,559020,Active
+O0233,F024,Kathi Roll House - Raj Nagar,"64, Raj Nagar",Chandigarh,Chandigarh,276253,Active
+O0234,F024,Kathi Roll House - Main Market,"114, Main Market",Kochi,Kerala,348220,Active
+O0235,F024,Kathi Roll House - Sector 62,"76, Sector 62",Mumbai,Maharashtra,443623,Active
+O0236,F024,Kathi Roll House - Sector 50,"174, Sector 50",Noida,Uttar Pradesh,283347,Active
+O0237,F024,Kathi Roll House - Main Market,"150, Main Market",Mumbai,Maharashtra,552668,Active
+O0238,F024,Kathi Roll House - Indirapuram,"107, Indirapuram",Kochi,Kerala,511163,Active
+O0239,F024,Kathi Roll House - Sector 50,"201, Sector 50",Ahmedabad,Gujarat,110802,Active
+O0240,F024,Kathi Roll House - City Centre,"284, City Centre",Bengaluru,Karnataka,398935,Active
+O0241,F025,Wrap Nation - City Centre,"255, City Centre",Pune,Maharashtra,263443,Active
+O0242,F025,Wrap Nation - MG Road,"164, MG Road",Jaipur,Rajasthan,165113,Active
+O0243,F025,Wrap Nation - Indirapuram,"275, Indirapuram",Lucknow,Uttar Pradesh,165722,Active
+O0244,F025,Wrap Nation - City Centre,"209, City Centre",Pune,Maharashtra,394980,Active
+O0245,F025,Wrap Nation - Central Market,"141, Central Market",Lucknow,Uttar Pradesh,526562,Active
+O0246,F025,Wrap Nation - Indirapuram,"277, Indirapuram",Pune,Maharashtra,340107,Active
+O0247,F025,Wrap Nation - Station Road,"216, Station Road",Patna,Bihar,268900,Active
+O0248,F025,Wrap Nation - Indirapuram,"83, Indirapuram",Mumbai,Maharashtra,592194,Active
+O0249,F025,Wrap Nation - MG Road,"179, MG Road",Delhi,Delhi,291453,Active
+O0250,F025,Wrap Nation - City Centre,"145, City Centre",Ahmedabad,Gujarat,454108,Active
+O0251,F026,Dosa House - City Centre,"19, City Centre",Bengaluru,Karnataka,290078,Active
+O0252,F026,Dosa House - Central Market,"146, Central Market",Bengaluru,Karnataka,264973,Active
+O0253,F026,Dosa House - MG Road,"223, MG Road",Mumbai,Maharashtra,317309,Active
+O0254,F026,Dosa House - Mall Road,"193, Mall Road",Patna,Bihar,428763,Active
+O0255,F026,Dosa House - Vaibhav Khand,"65, Vaibhav Khand",Pune,Maharashtra,409756,Active
+O0256,F026,Dosa House - Gomti Nagar,"100, Gomti Nagar",Kochi,Kerala,198684,Active
+O0257,F026,Dosa House - Raj Nagar,"295, Raj Nagar",Kolkata,West Bengal,600260,Active
+O0258,F026,Dosa House - Central Market,"104, Central Market",Indore,Madhya Pradesh,645004,Active
+O0259,F026,Dosa House - Sector 18,"149, Sector 18",Kochi,Kerala,215309,Active
+O0260,F026,Dosa House - Station Road,"70, Station Road",Delhi,Delhi,594828,Active
+O0261,F027,South Spice - Gomti Nagar,"149, Gomti Nagar",Bengaluru,Karnataka,607738,Active
+O0262,F027,South Spice - Mall Road,"35, Mall Road",Noida,Uttar Pradesh,278045,Active
+O0263,F027,South Spice - Sector 50,"189, Sector 50",Noida,Uttar Pradesh,541449,Active
+O0264,F027,South Spice - Station Road,"203, Station Road",Noida,Uttar Pradesh,387982,Active
+O0265,F027,South Spice - Station Road,"283, Station Road",Kolkata,West Bengal,401506,Active
+O0266,F027,South Spice - Mall Road,"181, Mall Road",Noida,Uttar Pradesh,431092,Active
+O0267,F027,South Spice - Raj Nagar,"162, Raj Nagar",Pune,Maharashtra,217985,Warning
+O0268,F027,South Spice - Mall Road,"147, Mall Road",Chandigarh,Chandigarh,658489,Active
+O0269,F027,South Spice - Sector 62,"239, Sector 62",Delhi,Delhi,577442,Active
+O0270,F027,South Spice - MG Road,"4, MG Road",Pune,Maharashtra,276900,Active
+O0271,F028,Madras Tiffin - Gomti Nagar,"287, Gomti Nagar",Lucknow,Uttar Pradesh,382406,Active
+O0272,F028,Madras Tiffin - Gomti Nagar,"264, Gomti Nagar",Chandigarh,Chandigarh,348964,Active
+O0273,F028,Madras Tiffin - Gomti Nagar,"168, Gomti Nagar",Patna,Bihar,530058,Active
+O0274,F028,Madras Tiffin - Ring Road,"277, Ring Road",Delhi,Delhi,160523,Active
+O0275,F028,Madras Tiffin - City Centre,"140, City Centre",Kochi,Kerala,394762,Active
+O0276,F028,Madras Tiffin - Indirapuram,"203, Indirapuram",Kochi,Kerala,377064,Active
+O0277,F028,Madras Tiffin - Civil Lines,"42, Civil Lines",Noida,Uttar Pradesh,330162,Active
+O0278,F028,Madras Tiffin - Indirapuram,"103, Indirapuram",Hyderabad,Telangana,384489,Active
+O0279,F028,Madras Tiffin - Station Road,"158, Station Road",Pune,Maharashtra,211268,Inactive
+O0280,F028,Madras Tiffin - Ring Road,"266, Ring Road",Chandigarh,Chandigarh,340021,Active
+O0281,F029,Hakka Wok - Sector 18,"252, Sector 18",Kochi,Kerala,130146,Active
+O0282,F029,Hakka Wok - Sector 50,"205, Sector 50",Ahmedabad,Gujarat,114092,Active
+O0283,F029,Hakka Wok - Mall Road,"226, Mall Road",Kochi,Kerala,277107,Active
+O0284,F029,Hakka Wok - Vaibhav Khand,"155, Vaibhav Khand",Ahmedabad,Gujarat,130432,Active
+O0285,F029,Hakka Wok - Station Road,"20, Station Road",Pune,Maharashtra,608976,Active
+O0286,F029,Hakka Wok - MG Road,"33, MG Road",Ahmedabad,Gujarat,423036,Active
+O0287,F029,Hakka Wok - Sector 18,"223, Sector 18",Lucknow,Uttar Pradesh,255605,Active
+O0288,F029,Hakka Wok - Gomti Nagar,"188, Gomti Nagar",Hyderabad,Telangana,551760,Active
+O0289,F029,Hakka Wok - Station Road,"213, Station Road",Kolkata,West Bengal,414901,Active
+O0290,F029,Hakka Wok - Station Road,"229, Station Road",Ahmedabad,Gujarat,126534,Active
+O0291,F030,Wok & Spice - Sector 50,"39, Sector 50",Lucknow,Uttar Pradesh,354496,Active
+O0292,F030,Wok & Spice - Sector 18,"288, Sector 18",Noida,Uttar Pradesh,609962,Active
+O0293,F030,Wok & Spice - Central Market,"198, Central Market",Delhi,Delhi,375670,Warning
+O0294,F030,Wok & Spice - Sector 62,"148, Sector 62",Chandigarh,Chandigarh,415720,Active
+O0295,F030,Wok & Spice - Main Market,"296, Main Market",Noida,Uttar Pradesh,326592,Active
+O0296,F030,Wok & Spice - Sector 50,"86, Sector 50",Noida,Uttar Pradesh,193994,Warning
+O0297,F030,Wok & Spice - Sector 62,"99, Sector 62",Bengaluru,Karnataka,541618,Active
+O0298,F030,Wok & Spice - Central Market,"9, Central Market",Mumbai,Maharashtra,144457,Active
+O0299,F030,Wok & Spice - City Centre,"45, City Centre",Pune,Maharashtra,497702,Active
+O0300,F030,Wok & Spice - Indirapuram,"83, Indirapuram",Jaipur,Rajasthan,337233,Active
+O0301,F031,Chinese Bowl - City Centre,"48, City Centre",Pune,Maharashtra,620973,Active
+O0302,F031,Chinese Bowl - Main Market,"108, Main Market",Indore,Madhya Pradesh,526050,Active
+O0303,F031,Chinese Bowl - Central Market,"70, Central Market",Patna,Bihar,255681,Active
+O0304,F031,Chinese Bowl - Sector 50,"136, Sector 50",Lucknow,Uttar Pradesh,414157,Active
+O0305,F031,Chinese Bowl - Sector 18,"20, Sector 18",Hyderabad,Telangana,632686,Active
+O0306,F031,Chinese Bowl - Sector 50,"81, Sector 50",Patna,Bihar,419391,Active
+O0307,F031,Chinese Bowl - Civil Lines,"89, Civil Lines",Bengaluru,Karnataka,225708,Active
+O0308,F031,Chinese Bowl - Sector 18,"289, Sector 18",Chandigarh,Chandigarh,596517,Active
+O0309,F031,Chinese Bowl - Sector 62,"77, Sector 62",Noida,Uttar Pradesh,594301,Active
+O0310,F031,Chinese Bowl - Indirapuram,"141, Indirapuram",Indore,Madhya Pradesh,610782,Active
+O0311,F032,Pasta Point - Sector 50,"175, Sector 50",Kolkata,West Bengal,366732,Active
+O0312,F032,Pasta Point - Vaibhav Khand,"273, Vaibhav Khand",Jaipur,Rajasthan,432833,Active
+O0313,F032,Pasta Point - Central Market,"221, Central Market",Pune,Maharashtra,680917,Active
+O0314,F032,Pasta Point - City Centre,"105, City Centre",Hyderabad,Telangana,481848,Active
+O0315,F032,Pasta Point - Vaibhav Khand,"199, Vaibhav Khand",Lucknow,Uttar Pradesh,631382,Active
+O0316,F032,Pasta Point - Indirapuram,"271, Indirapuram",Delhi,Delhi,308152,Active
+O0317,F032,Pasta Point - Main Market,"262, Main Market",Hyderabad,Telangana,595569,Active
+O0318,F032,Pasta Point - Civil Lines,"101, Civil Lines",Chandigarh,Chandigarh,365627,Active
+O0319,F032,Pasta Point - MG Road,"175, MG Road",Ghaziabad,Uttar Pradesh,562871,Active
+O0320,F032,Pasta Point - Sector 62,"224, Sector 62",Chandigarh,Chandigarh,470536,Active
+O0321,F033,Cafe Saffron - Civil Lines,"40, Civil Lines",Hyderabad,Telangana,288605,Active
+O0322,F033,Cafe Saffron - Indirapuram,"281, Indirapuram",Hyderabad,Telangana,255686,Active
+O0323,F033,Cafe Saffron - Central Market,"216, Central Market",Jaipur,Rajasthan,433437,Active
+O0324,F033,Cafe Saffron - Indirapuram,"194, Indirapuram",Ahmedabad,Gujarat,140447,Active
+O0325,F033,Cafe Saffron - Sector 62,"76, Sector 62",Hyderabad,Telangana,567864,Active
+O0326,F033,Cafe Saffron - Sector 62,"70, Sector 62",Chandigarh,Chandigarh,640051,Active
+O0327,F033,Cafe Saffron - MG Road,"10, MG Road",Delhi,Delhi,480150,Active
+O0328,F033,Cafe Saffron - Vaibhav Khand,"156, Vaibhav Khand",Chandigarh,Chandigarh,548178,Active
+O0329,F033,Cafe Saffron - Civil Lines,"91, Civil Lines",Kolkata,West Bengal,270065,Active
+O0330,F033,Cafe Saffron - Raj Nagar,"233, Raj Nagar",Chandigarh,Chandigarh,291784,Active
+O0331,F034,Desi Cafe - Gomti Nagar,"195, Gomti Nagar",Indore,Madhya Pradesh,196569,Active
+O0332,F034,Desi Cafe - Sector 50,"139, Sector 50",Kolkata,West Bengal,666095,Active
+O0333,F034,Desi Cafe - Central Market,"226, Central Market",Ghaziabad,Uttar Pradesh,637307,Active
+O0334,F034,Desi Cafe - Civil Lines,"190, Civil Lines",Noida,Uttar Pradesh,654524,Active
+O0335,F034,Desi Cafe - Raj Nagar,"32, Raj Nagar",Bengaluru,Karnataka,487325,Active
+O0336,F034,Desi Cafe - City Centre,"40, City Centre",Jaipur,Rajasthan,490929,Active
+O0337,F034,Desi Cafe - Sector 62,"190, Sector 62",Ahmedabad,Gujarat,628418,Active
+O0338,F034,Desi Cafe - City Centre,"112, City Centre",Kochi,Kerala,335805,Active
+O0339,F034,Desi Cafe - Sector 18,"81, Sector 18",Ahmedabad,Gujarat,447342,Active
+O0340,F034,Desi Cafe - Indirapuram,"264, Indirapuram",Lucknow,Uttar Pradesh,477515,Active
+O0341,F035,Thali Junction - Mall Road,"266, Mall Road",Lucknow,Uttar Pradesh,487430,Active
+O0342,F035,Thali Junction - Gomti Nagar,"113, Gomti Nagar",Patna,Bihar,452438,Active
+O0343,F035,Thali Junction - Civil Lines,"179, Civil Lines",Bengaluru,Karnataka,653275,Active
+O0344,F035,Thali Junction - Sector 50,"3, Sector 50",Lucknow,Uttar Pradesh,370795,Active
+O0345,F035,Thali Junction - Sector 50,"40, Sector 50",Chandigarh,Chandigarh,460838,Active
+O0346,F035,Thali Junction - Sector 62,"223, Sector 62",Kochi,Kerala,325031,Active
+O0347,F035,Thali Junction - Central Market,"273, Central Market",Indore,Madhya Pradesh,332494,Active
+O0348,F035,Thali Junction - Raj Nagar,"80, Raj Nagar",Delhi,Delhi,264223,Active
+O0349,F035,Thali Junction - Indirapuram,"250, Indirapuram",Lucknow,Uttar Pradesh,647386,Active
+O0350,F035,Thali Junction - Gomti Nagar,"240, Gomti Nagar",Kolkata,West Bengal,679356,Active
+O0351,F036,Rajasthani Rasoi - Sector 18,"36, Sector 18",Pune,Maharashtra,414011,Active
+O0352,F036,Rajasthani Rasoi - Ring Road,"299, Ring Road",Lucknow,Uttar Pradesh,189683,Active
+O0353,F036,Rajasthani Rasoi - Ring Road,"99, Ring Road",Bengaluru,Karnataka,148684,Active
+O0354,F036,Rajasthani Rasoi - Sector 18,"56, Sector 18",Hyderabad,Telangana,435997,Active
+O0355,F036,Rajasthani Rasoi - City Centre,"265, City Centre",Bengaluru,Karnataka,554557,Active
+O0356,F036,Rajasthani Rasoi - Sector 50,"277, Sector 50",Patna,Bihar,194321,Active
+O0357,F036,Rajasthani Rasoi - MG Road,"101, MG Road",Pune,Maharashtra,126291,Active
+O0358,F036,Rajasthani Rasoi - Mall Road,"174, Mall Road",Noida,Uttar Pradesh,484851,Active
+O0359,F036,Rajasthani Rasoi - Station Road,"6, Station Road",Pune,Maharashtra,365877,Active
+O0360,F036,Rajasthani Rasoi - Main Market,"36, Main Market",Kochi,Kerala,289582,Warning
+O0361,F037,Bengal Kitchen - Sector 62,"43, Sector 62",Delhi,Delhi,197358,Active
+O0362,F037,Bengal Kitchen - City Centre,"59, City Centre",Kochi,Kerala,243962,Active
+O0363,F037,Bengal Kitchen - Central Market,"117, Central Market",Patna,Bihar,410672,Active
+O0364,F037,Bengal Kitchen - City Centre,"49, City Centre",Patna,Bihar,491964,Active
+O0365,F037,Bengal Kitchen - Raj Nagar,"206, Raj Nagar",Ahmedabad,Gujarat,623159,Active
+O0366,F037,Bengal Kitchen - Sector 18,"154, Sector 18",Bengaluru,Karnataka,168908,Active
+O0367,F037,Bengal Kitchen - Sector 18,"44, Sector 18",Ahmedabad,Gujarat,560425,Active
+O0368,F037,Bengal Kitchen - City Centre,"219, City Centre",Kochi,Kerala,318864,Active
+O0369,F037,Bengal Kitchen - Station Road,"223, Station Road",Delhi,Delhi,281561,Active
+O0370,F037,Bengal Kitchen - Central Market,"123, Central Market",Patna,Bihar,278057,Active
+O0371,F038,Gujarati Thali House - Sector 62,"199, Sector 62",Ghaziabad,Uttar Pradesh,339207,Active
+O0372,F038,Gujarati Thali House - Mall Road,"215, Mall Road",Kochi,Kerala,328909,Active
+O0373,F038,Gujarati Thali House - Civil Lines,"7, Civil Lines",Patna,Bihar,600869,Active
+O0374,F038,Gujarati Thali House - Sector 62,"9, Sector 62",Jaipur,Rajasthan,384638,Active
+O0375,F038,Gujarati Thali House - Sector 62,"1, Sector 62",Kolkata,West Bengal,242115,Active
+O0376,F038,Gujarati Thali House - Mall Road,"23, Mall Road",Hyderabad,Telangana,358756,Active
+O0377,F038,Gujarati Thali House - Vaibhav Khand,"124, Vaibhav Khand",Lucknow,Uttar Pradesh,177288,Active
+O0378,F038,Gujarati Thali House - Sector 18,"66, Sector 18",Mumbai,Maharashtra,239606,Active
+O0379,F038,Gujarati Thali House - Gomti Nagar,"126, Gomti Nagar",Chandigarh,Chandigarh,340109,Active
+O0380,F038,Gujarati Thali House - Central Market,"88, Central Market",Indore,Madhya Pradesh,314723,Active
+O0381,F039,Kerala Spice - Sector 18,"150, Sector 18",Kolkata,West Bengal,351310,Active
+O0382,F039,Kerala Spice - MG Road,"242, MG Road",Ahmedabad,Gujarat,616418,Active
+O0383,F039,Kerala Spice - Ring Road,"256, Ring Road",Jaipur,Rajasthan,348098,Active
+O0384,F039,Kerala Spice - Indirapuram,"229, Indirapuram",Kochi,Kerala,185362,Active
+O0385,F039,Kerala Spice - MG Road,"280, MG Road",Delhi,Delhi,507613,Active
+O0386,F039,Kerala Spice - Raj Nagar,"73, Raj Nagar",Delhi,Delhi,622440,Active
+O0387,F039,Kerala Spice - Main Market,"222, Main Market",Ahmedabad,Gujarat,616969,Active
+O0388,F039,Kerala Spice - Sector 50,"168, Sector 50",Kolkata,West Bengal,232078,Active
+O0389,F039,Kerala Spice - Civil Lines,"96, Civil Lines",Delhi,Delhi,178593,Warning
+O0390,F039,Kerala Spice - Civil Lines,"77, Civil Lines",Delhi,Delhi,253087,Active
+O0391,F040,Andhra Kitchen - Main Market,"94, Main Market",Indore,Madhya Pradesh,478762,Active
+O0392,F040,Andhra Kitchen - Central Market,"211, Central Market",Patna,Bihar,676426,Active
+O0393,F040,Andhra Kitchen - Main Market,"51, Main Market",Noida,Uttar Pradesh,295634,Active
+O0394,F040,Andhra Kitchen - Main Market,"129, Main Market",Noida,Uttar Pradesh,522034,Active
+O0395,F040,Andhra Kitchen - Vaibhav Khand,"155, Vaibhav Khand",Noida,Uttar Pradesh,297078,Active
+O0396,F040,Andhra Kitchen - Civil Lines,"85, Civil Lines",Indore,Madhya Pradesh,377123,Active
+O0397,F040,Andhra Kitchen - Mall Road,"285, Mall Road",Hyderabad,Telangana,580537,Warning
+O0398,F040,Andhra Kitchen - Sector 62,"96, Sector 62",Pune,Maharashtra,455131,Active
+O0399,F040,Andhra Kitchen - Vaibhav Khand,"101, Vaibhav Khand",Chandigarh,Chandigarh,145356,Active
+O0400,F040,Andhra Kitchen - City Centre,"157, City Centre",Bengaluru,Karnataka,470422,Warning
+O0401,F041,Street Food Adda - Sector 18,"126, Sector 18",Ahmedabad,Gujarat,398509,Active
+O0402,F041,Street Food Adda - Sector 50,"112, Sector 50",Lucknow,Uttar Pradesh,507893,Active
+O0403,F041,Street Food Adda - Raj Nagar,"48, Raj Nagar",Mumbai,Maharashtra,433319,Active
+O0404,F041,Street Food Adda - Civil Lines,"147, Civil Lines",Jaipur,Rajasthan,352927,Active
+O0405,F041,Street Food Adda - Station Road,"104, Station Road",Indore,Madhya Pradesh,500697,Active
+O0406,F041,Street Food Adda - Raj Nagar,"11, Raj Nagar",Indore,Madhya Pradesh,389449,Active
+O0407,F041,Street Food Adda - Vaibhav Khand,"91, Vaibhav Khand",Delhi,Delhi,250635,Active
+O0408,F041,Street Food Adda - Sector 18,"2, Sector 18",Kolkata,West Bengal,606016,Active
+O0409,F041,Street Food Adda - Indirapuram,"51, Indirapuram",Noida,Uttar Pradesh,210832,Active
+O0410,F041,Street Food Adda - Sector 18,"90, Sector 18",Hyderabad,Telangana,356852,Warning
+O0411,F042,Family Feast - Main Market,"89, Main Market",Ahmedabad,Gujarat,157038,Active
+O0412,F042,Family Feast - Sector 50,"247, Sector 50",Hyderabad,Telangana,370280,Active
+O0413,F042,Family Feast - City Centre,"34, City Centre",Pune,Maharashtra,209673,Warning
+O0414,F042,Family Feast - Indirapuram,"30, Indirapuram",Indore,Madhya Pradesh,432024,Warning
+O0415,F042,Family Feast - Central Market,"286, Central Market",Hyderabad,Telangana,309508,Active
+O0416,F042,Family Feast - Sector 18,"96, Sector 18",Chandigarh,Chandigarh,305142,Active
+O0417,F042,Family Feast - Main Market,"195, Main Market",Delhi,Delhi,628158,Active
+O0418,F042,Family Feast - Central Market,"37, Central Market",Kochi,Kerala,172473,Active
+O0419,F042,Family Feast - Station Road,"152, Station Road",Patna,Bihar,294775,Active
+O0420,F042,Family Feast - Station Road,"46, Station Road",Delhi,Delhi,487281,Active
+O0421,F043,Tandoori Trails - Raj Nagar,"30, Raj Nagar",Chandigarh,Chandigarh,679060,Active
+O0422,F043,Tandoori Trails - Sector 18,"55, Sector 18",Chandigarh,Chandigarh,410547,Active
+O0423,F043,Tandoori Trails - Ring Road,"92, Ring Road",Chandigarh,Chandigarh,341405,Active
+O0424,F043,Tandoori Trails - Sector 50,"21, Sector 50",Chandigarh,Chandigarh,384819,Active
+O0425,F043,Tandoori Trails - Central Market,"43, Central Market",Chandigarh,Chandigarh,165969,Active
+O0426,F043,Tandoori Trails - Vaibhav Khand,"199, Vaibhav Khand",Lucknow,Uttar Pradesh,408554,Active
+O0427,F043,Tandoori Trails - Ring Road,"67, Ring Road",Bengaluru,Karnataka,432554,Active
+O0428,F043,Tandoori Trails - Sector 50,"141, Sector 50",Ahmedabad,Gujarat,499878,Active
+O0429,F043,Tandoori Trails - Gomti Nagar,"192, Gomti Nagar",Jaipur,Rajasthan,365952,Active
+O0430,F043,Tandoori Trails - Civil Lines,"6, Civil Lines",Indore,Madhya Pradesh,654746,Active
+O0431,F044,Chicken House - Sector 50,"274, Sector 50",Hyderabad,Telangana,256333,Active
+O0432,F044,Chicken House - Main Market,"180, Main Market",Jaipur,Rajasthan,543752,Active
+O0433,F044,Chicken House - Vaibhav Khand,"37, Vaibhav Khand",Noida,Uttar Pradesh,301328,Active
+O0434,F044,Chicken House - City Centre,"56, City Centre",Patna,Bihar,393860,Active
+O0435,F044,Chicken House - Mall Road,"20, Mall Road",Noida,Uttar Pradesh,656085,Active
+O0436,F044,Chicken House - Station Road,"103, Station Road",Hyderabad,Telangana,114524,Active
+O0437,F044,Chicken House - Civil Lines,"240, Civil Lines",Lucknow,Uttar Pradesh,260013,Active
+O0438,F044,Chicken House - Central Market,"105, Central Market",Jaipur,Rajasthan,135073,Active
+O0439,F044,Chicken House - Vaibhav Khand,"80, Vaibhav Khand",Ahmedabad,Gujarat,308481,Active
+O0440,F044,Chicken House - Sector 18,"80, Sector 18",Kochi,Kerala,214460,Active
+O0441,F045,Momo Masala - Sector 50,"137, Sector 50",Ahmedabad,Gujarat,672623,Active
+O0442,F045,Momo Masala - Sector 62,"104, Sector 62",Pune,Maharashtra,235253,Warning
+O0443,F045,Momo Masala - Vaibhav Khand,"12, Vaibhav Khand",Patna,Bihar,409150,Active
+O0444,F045,Momo Masala - Vaibhav Khand,"206, Vaibhav Khand",Ghaziabad,Uttar Pradesh,201290,Active
+O0445,F045,Momo Masala - Mall Road,"284, Mall Road",Jaipur,Rajasthan,316031,Active
+O0446,F045,Momo Masala - Sector 18,"99, Sector 18",Delhi,Delhi,620852,Active
+O0447,F045,Momo Masala - City Centre,"21, City Centre",Kochi,Kerala,634002,Active
+O0448,F045,Momo Masala - Mall Road,"230, Mall Road",Kolkata,West Bengal,361461,Active
+O0449,F045,Momo Masala - Ring Road,"270, Ring Road",Noida,Uttar Pradesh,429509,Active
+O0450,F045,Momo Masala - Vaibhav Khand,"252, Vaibhav Khand",Indore,Madhya Pradesh,631189,Active
+O0451,F046,Royal Grill - City Centre,"176, City Centre",Kochi,Kerala,661977,Active
+O0452,F046,Royal Grill - Main Market,"299, Main Market",Pune,Maharashtra,595693,Active
+O0453,F046,Royal Grill - Main Market,"162, Main Market",Bengaluru,Karnataka,280971,Active
+O0454,F046,Royal Grill - Main Market,"192, Main Market",Patna,Bihar,323697,Active
+O0455,F046,Royal Grill - Sector 62,"249, Sector 62",Kochi,Kerala,462715,Warning
+O0456,F046,Royal Grill - Sector 62,"75, Sector 62",Pune,Maharashtra,432207,Active
+O0457,F046,Royal Grill - Indirapuram,"214, Indirapuram",Jaipur,Rajasthan,482548,Active
+O0458,F046,Royal Grill - MG Road,"4, MG Road",Ahmedabad,Gujarat,476038,Active
+O0459,F046,Royal Grill - Mall Road,"137, Mall Road",Chandigarh,Chandigarh,364515,Active
+O0460,F046,Royal Grill - Sector 18,"89, Sector 18",Lucknow,Uttar Pradesh,411480,Active
+O0461,F047,Dilli Chulha - Indirapuram,"297, Indirapuram",Noida,Uttar Pradesh,187054,Active
+O0462,F047,Dilli Chulha - Station Road,"226, Station Road",Ahmedabad,Gujarat,208378,Warning
+O0463,F047,Dilli Chulha - Raj Nagar,"221, Raj Nagar",Patna,Bihar,549368,Active
+O0464,F047,Dilli Chulha - Ring Road,"186, Ring Road",Kolkata,West Bengal,318998,Active
+O0465,F047,Dilli Chulha - Central Market,"175, Central Market",Ahmedabad,Gujarat,524829,Active
+O0466,F047,Dilli Chulha - MG Road,"289, MG Road",Ghaziabad,Uttar Pradesh,308798,Active
+O0467,F047,Dilli Chulha - Indirapuram,"188, Indirapuram",Patna,Bihar,631848,Active
+O0468,F047,Dilli Chulha - Station Road,"154, Station Road",Bengaluru,Karnataka,250647,Active
+O0469,F047,Dilli Chulha - Raj Nagar,"139, Raj Nagar",Pune,Maharashtra,609355,Active
+O0470,F047,Dilli Chulha - Main Market,"136, Main Market",Bengaluru,Karnataka,342760,Active
+O0471,F048,Spice Garden - Main Market,"277, Main Market",Kolkata,West Bengal,570409,Active
+O0472,F048,Spice Garden - Raj Nagar,"290, Raj Nagar",Delhi,Delhi,445643,Active
+O0473,F048,Spice Garden - Sector 62,"87, Sector 62",Ahmedabad,Gujarat,389323,Warning
+O0474,F048,Spice Garden - Mall Road,"58, Mall Road",Ghaziabad,Uttar Pradesh,196844,Active
+O0475,F048,Spice Garden - Ring Road,"110, Ring Road",Hyderabad,Telangana,394737,Active
+O0476,F048,Spice Garden - Mall Road,"174, Mall Road",Hyderabad,Telangana,640646,Active
+O0477,F048,Spice Garden - Civil Lines,"37, Civil Lines",Mumbai,Maharashtra,675939,Active
+O0478,F048,Spice Garden - Gomti Nagar,"198, Gomti Nagar",Chandigarh,Chandigarh,142660,Active
+O0479,F048,Spice Garden - Civil Lines,"57, Civil Lines",Bengaluru,Karnataka,677344,Active
+O0480,F048,Spice Garden - Central Market,"106, Central Market",Lucknow,Uttar Pradesh,577966,Active
+O0481,F049,Desi Zaika - Gomti Nagar,"135, Gomti Nagar",Hyderabad,Telangana,403018,Active
+O0482,F049,Desi Zaika - Sector 50,"138, Sector 50",Indore,Madhya Pradesh,656970,Active
+O0483,F049,Desi Zaika - Station Road,"259, Station Road",Jaipur,Rajasthan,316132,Warning
+O0484,F049,Desi Zaika - Vaibhav Khand,"43, Vaibhav Khand",Kochi,Kerala,151251,Active
+O0485,F049,Desi Zaika - Mall Road,"278, Mall Road",Bengaluru,Karnataka,150222,Active
+O0486,F049,Desi Zaika - Sector 50,"163, Sector 50",Lucknow,Uttar Pradesh,178303,Active
+O0487,F049,Desi Zaika - Indirapuram,"93, Indirapuram",Hyderabad,Telangana,227857,Active
+O0488,F049,Desi Zaika - Gomti Nagar,"44, Gomti Nagar",Patna,Bihar,457141,Active
+O0489,F049,Desi Zaika - Central Market,"97, Central Market",Delhi,Delhi,269687,Active
+O0490,F049,Desi Zaika - Ring Road,"210, Ring Road",Noida,Uttar Pradesh,252465,Active
+O0491,F050,Food Street Kitchen - Sector 50,"116, Sector 50",Chandigarh,Chandigarh,395544,Active
+O0492,F050,Food Street Kitchen - Vaibhav Khand,"4, Vaibhav Khand",Noida,Uttar Pradesh,199207,Active
+O0493,F050,Food Street Kitchen - Ring Road,"193, Ring Road",Ahmedabad,Gujarat,650175,Inactive
+O0494,F050,Food Street Kitchen - Mall Road,"250, Mall Road",Hyderabad,Telangana,126336,Active
+O0495,F050,Food Street Kitchen - Station Road,"103, Station Road",Patna,Bihar,146719,Active
+O0496,F050,Food Street Kitchen - Gomti Nagar,"172, Gomti Nagar",Hyderabad,Telangana,308645,Active
+O0497,F050,Food Street Kitchen - Station Road,"180, Station Road",Chandigarh,Chandigarh,588001,Active
+O0498,F050,Food Street Kitchen - Station Road,"297, Station Road",Ghaziabad,Uttar Pradesh,480511,Active
+O0499,F050,Food Street Kitchen - Sector 62,"124, Sector 62",Patna,Bihar,413894,Active
+O0500,F050,Food Street Kitchen - Civil Lines,"2, Civil Lines",Mumbai,Maharashtra,612468,Active
