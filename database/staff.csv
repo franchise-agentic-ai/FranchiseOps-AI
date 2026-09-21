@@ -1,0 +1,2001 @@
+staff_id,outlet_id,name,role,joining_date,status
+S00001,O0001,Vivaan Mehta,Outlet Manager,2024-01-22,Active
+S00002,O0001,Rahul Kumar,Outlet Manager,2024-11-13,Active
+S00003,O0001,Aisha Patel,Chef,2023-02-04,Active
+S00004,O0001,Aditya Verma,Chef,2026-06-07,Active
+S00005,O0002,Riya Chauhan,Kitchen Staff,2026-02-05,Active
+S00006,O0002,Mohit Malhotra,Kitchen Staff,2025-04-19,Active
+S00007,O0002,Mohit Mishra,Shift Manager,2024-08-26,Active
+S00008,O0002,Kunal Khan,Outlet Manager,2025-07-01,Active
+S00009,O0003,Vivaan Malhotra,Senior Chef,2024-12-21,Active
+S00010,O0003,Neha Saxena,Delivery Executive,2026-01-04,Active
+S00011,O0003,Nisha Malhotra,Delivery Executive,2023-10-13,Active
+S00012,O0003,Kunal Singh,Chef,2024-01-08,Active
+S00013,O0004,Arjun Patel,Kitchen Staff,2023-09-03,Active
+S00014,O0004,Mohit Patel,Outlet Manager,2024-10-19,Active
+S00015,O0004,Priya Malhotra,Cashier,2026-01-21,Active
+S00016,O0004,Mohit Sharma,Shift Manager,2024-04-18,Active
+S00017,O0005,Sneha Sharma,Shift Manager,2023-05-08,Active
+S00018,O0005,Nisha Malhotra,Outlet Manager,2025-09-16,Active
+S00019,O0005,Aarav Singh,Service Staff,2024-01-12,Active
+S00020,O0005,Nisha Verma,Service Staff,2023-03-21,Active
+S00021,O0006,Neha Sharma,Service Staff,2025-06-17,Active
+S00022,O0006,Vivaan Gupta,Service Staff,2026-06-18,Active
+S00023,O0006,Rohit Singh,Cashier,2023-05-28,Active
+S00024,O0006,Aditya Mishra,Delivery Executive,2025-12-11,Active
+S00025,O0007,Mohit Joshi,Chef,2025-08-02,Active
+S00026,O0007,Mohit Verma,Chef,2023-11-21,Active
+S00027,O0007,Kavya Joshi,Service Staff,2024-12-20,Active
+S00028,O0007,Aditya Joshi,Cashier,2025-04-15,Active
+S00029,O0008,Pooja Verma,Cashier,2026-04-01,Active
+S00030,O0008,Ananya Patel,Outlet Manager,2023-12-20,Active
+S00031,O0008,Rohit Kumar,Chef,2025-01-28,Active
+S00032,O0008,Aditya Gupta,Service Staff,2023-04-07,Active
+S00033,O0009,Rohit Singh,Outlet Manager,2023-03-06,Active
+S00034,O0009,Riya Sharma,Kitchen Staff,2023-05-08,Active
+S00035,O0009,Kavya Joshi,Delivery Executive,2024-07-08,Active
+S00036,O0009,Priya Khan,Service Staff,2024-02-13,Active
+S00037,O0010,Mohit Saxena,Cashier,2025-01-08,Active
+S00038,O0010,Rohit Khan,Chef,2024-11-23,Active
+S00039,O0010,Neha Saxena,Chef,2023-12-11,Active
+S00040,O0010,Vikram Saxena,Cashier,2024-11-11,Active
+S00041,O0011,Nisha Mehta,Service Staff,2023-12-24,Active
+S00042,O0011,Simran Singh,Cashier,2026-07-12,Active
+S00043,O0011,Rahul Singh,Kitchen Staff,2024-06-08,Active
+S00044,O0011,Mohit Yadav,Chef,2023-12-19,Active
+S00045,O0012,Riya Yadav,Shift Manager,2024-09-06,Active
+S00046,O0012,Nisha Saxena,Outlet Manager,2026-06-13,Active
+S00047,O0012,Sneha Yadav,Delivery Executive,2026-02-10,Active
+S00048,O0012,Mohit Patel,Shift Manager,2023-12-07,Active
+S00049,O0013,Aman Mishra,Shift Manager,2023-10-07,Active
+S00050,O0013,Vivaan Khan,Shift Manager,2023-10-16,Active
+S00051,O0013,Pooja Mishra,Chef,2026-03-12,Active
+S00052,O0013,Ananya Sharma,Kitchen Staff,2023-11-28,Active
+S00053,O0014,Aarav Reddy,Delivery Executive,2025-08-09,Active
+S00054,O0014,Kunal Verma,Chef,2026-06-07,Active
+S00055,O0014,Rohit Yadav,Delivery Executive,2023-08-13,Active
+S00056,O0014,Vikram Sharma,Outlet Manager,2025-05-30,Active
+S00057,O0015,Aarav Khan,Shift Manager,2023-12-23,Active
+S00058,O0015,Ananya Chauhan,Senior Chef,2026-05-26,Active
+S00059,O0015,Aisha Mehta,Cashier,2024-11-29,Active
+S00060,O0015,Mohit Mishra,Cashier,2025-11-13,Active
+S00061,O0016,Ananya Malhotra,Kitchen Staff,2026-01-09,Active
+S00062,O0016,Riya Kumar,Cashier,2023-09-03,Active
+S00063,O0016,Vikram Mishra,Chef,2023-04-29,Active
+S00064,O0016,Nisha Gupta,Cashier,2024-09-08,Active
+S00065,O0017,Vikram Singh,Outlet Manager,2026-01-29,Active
+S00066,O0017,Pooja Patel,Delivery Executive,2025-10-08,Active
+S00067,O0017,Nisha Singh,Outlet Manager,2026-04-26,Active
+S00068,O0017,Pooja Khan,Shift Manager,2025-10-02,Active
+S00069,O0018,Neha Yadav,Shift Manager,2023-12-04,Active
+S00070,O0018,Kavya Khan,Outlet Manager,2025-12-16,Active
+S00071,O0018,Priya Chauhan,Service Staff,2025-06-23,Active
+S00072,O0018,Mohit Mehta,Outlet Manager,2024-12-30,Active
+S00073,O0019,Aarav Joshi,Service Staff,2024-05-28,Active
+S00074,O0019,Mohit Sharma,Delivery Executive,2025-10-20,Active
+S00075,O0019,Aditya Verma,Service Staff,2023-05-26,Active
+S00076,O0019,Riya Mehta,Outlet Manager,2024-12-15,Active
+S00077,O0020,Kunal Yadav,Senior Chef,2024-03-17,Active
+S00078,O0020,Riya Singh,Chef,2024-05-06,Active
+S00079,O0020,Arjun Saxena,Senior Chef,2023-06-09,Active
+S00080,O0020,Aditya Sharma,Chef,2023-02-08,Active
+S00081,O0021,Aman Patel,Delivery Executive,2025-01-20,Active
+S00082,O0021,Mohit Khan,Delivery Executive,2023-12-10,Active
+S00083,O0021,Rohit Saxena,Service Staff,2023-10-30,Active
+S00084,O0021,Kavya Sharma,Chef,2026-07-07,Active
+S00085,O0022,Rohit Gupta,Cashier,2026-05-08,Active
+S00086,O0022,Mohit Mishra,Service Staff,2026-02-14,Active
+S00087,O0022,Sneha Joshi,Delivery Executive,2023-03-31,Active
+S00088,O0022,Vikram Mehta,Chef,2025-03-17,Active
+S00089,O0023,Nisha Chauhan,Chef,2023-10-22,Active
+S00090,O0023,Riya Mishra,Kitchen Staff,2024-04-28,Active
+S00091,O0023,Aarav Kumar,Chef,2024-07-05,Active
+S00092,O0023,Vivaan Mehta,Delivery Executive,2025-08-08,Active
+S00093,O0024,Arjun Patel,Senior Chef,2024-09-25,Active
+S00094,O0024,Kunal Reddy,Service Staff,2024-05-22,Active
+S00095,O0024,Sneha Sharma,Senior Chef,2024-06-16,Active
+S00096,O0024,Mohit Singh,Senior Chef,2026-07-16,Active
+S00097,O0025,Priya Yadav,Kitchen Staff,2023-10-25,Active
+S00098,O0025,Kunal Gupta,Kitchen Staff,2025-03-07,Active
+S00099,O0025,Simran Mehta,Outlet Manager,2025-10-22,Active
+S00100,O0025,Nisha Gupta,Cashier,2025-03-13,Active
+S00101,O0026,Rahul Malhotra,Cashier,2024-09-17,Active
+S00102,O0026,Pooja Chauhan,Cashier,2025-09-22,Active
+S00103,O0026,Rohit Patel,Cashier,2023-11-25,Active
+S00104,O0026,Aman Joshi,Shift Manager,2026-02-25,Active
+S00105,O0027,Kavya Yadav,Cashier,2026-03-27,Active
+S00106,O0027,Riya Singh,Delivery Executive,2023-06-19,Active
+S00107,O0027,Kavya Yadav,Chef,2026-01-17,Active
+S00108,O0027,Rahul Kumar,Cashier,2026-06-28,Active
+S00109,O0028,Pooja Kumar,Kitchen Staff,2026-05-06,Active
+S00110,O0028,Vivaan Reddy,Senior Chef,2024-06-07,Active
+S00111,O0028,Rohit Sharma,Kitchen Staff,2023-11-08,Active
+S00112,O0028,Priya Reddy,Senior Chef,2023-03-27,Active
+S00113,O0029,Neha Reddy,Chef,2023-04-30,Active
+S00114,O0029,Aditya Saxena,Service Staff,2026-06-20,Active
+S00115,O0029,Pooja Saxena,Kitchen Staff,2023-10-20,Active
+S00116,O0029,Kavya Mishra,Shift Manager,2023-01-28,Active
+S00117,O0030,Sneha Sharma,Kitchen Staff,2025-11-09,Active
+S00118,O0030,Aman Chauhan,Outlet Manager,2024-10-26,Active
+S00119,O0030,Simran Joshi,Kitchen Staff,2026-07-13,Active
+S00120,O0030,Simran Saxena,Senior Chef,2026-05-01,Active
+S00121,O0031,Riya Gupta,Chef,2024-05-08,Active
+S00122,O0031,Nisha Malhotra,Chef,2025-09-25,Active
+S00123,O0031,Priya Khan,Senior Chef,2023-12-09,Active
+S00124,O0031,Neha Kumar,Shift Manager,2024-05-07,Active
+S00125,O0032,Vikram Yadav,Shift Manager,2025-02-21,Active
+S00126,O0032,Ananya Saxena,Cashier,2024-03-05,Active
+S00127,O0032,Aman Singh,Kitchen Staff,2026-05-25,Active
+S00128,O0032,Vikram Sharma,Cashier,2025-08-01,Active
+S00129,O0033,Rohit Joshi,Outlet Manager,2023-06-18,Active
+S00130,O0033,Rohit Joshi,Chef,2025-09-03,Active
+S00131,O0033,Aman Mishra,Kitchen Staff,2023-02-12,Active
+S00132,O0033,Vikram Gupta,Delivery Executive,2025-01-16,Active
+S00133,O0034,Aman Chauhan,Senior Chef,2025-10-13,Active
+S00134,O0034,Aman Patel,Cashier,2025-09-21,Active
+S00135,O0034,Sneha Yadav,Shift Manager,2025-11-08,Active
+S00136,O0034,Rohit Mishra,Delivery Executive,2024-04-28,Active
+S00137,O0035,Ananya Reddy,Chef,2023-01-09,Active
+S00138,O0035,Aarav Mishra,Cashier,2025-05-09,Active
+S00139,O0035,Ananya Verma,Senior Chef,2024-03-03,Active
+S00140,O0035,Ananya Joshi,Chef,2025-04-21,Active
+S00141,O0036,Arjun Khan,Shift Manager,2023-02-09,Active
+S00142,O0036,Aisha Verma,Shift Manager,2023-01-23,Active
+S00143,O0036,Riya Reddy,Service Staff,2024-05-03,Active
+S00144,O0036,Aisha Sharma,Shift Manager,2023-07-14,Active
+S00145,O0037,Aditya Joshi,Shift Manager,2025-08-12,Active
+S00146,O0037,Pooja Chauhan,Service Staff,2025-03-13,Active
+S00147,O0037,Priya Khan,Service Staff,2023-09-05,Active
+S00148,O0037,Rohit Chauhan,Shift Manager,2024-07-03,Active
+S00149,O0038,Kunal Mehta,Chef,2024-08-01,Active
+S00150,O0038,Vikram Patel,Delivery Executive,2024-03-15,Active
+S00151,O0038,Priya Kumar,Service Staff,2023-11-21,Active
+S00152,O0038,Neha Yadav,Kitchen Staff,2026-07-05,Active
+S00153,O0039,Vikram Kumar,Kitchen Staff,2025-03-28,Active
+S00154,O0039,Simran Verma,Cashier,2026-01-24,Active
+S00155,O0039,Kavya Chauhan,Service Staff,2025-01-17,Active
+S00156,O0039,Kavya Mishra,Service Staff,2026-06-11,Active
+S00157,O0040,Vikram Verma,Shift Manager,2023-05-01,Active
+S00158,O0040,Nisha Mishra,Kitchen Staff,2025-10-19,Active
+S00159,O0040,Kunal Malhotra,Cashier,2024-10-08,Active
+S00160,O0040,Kunal Chauhan,Delivery Executive,2023-07-27,Active
+S00161,O0041,Neha Reddy,Outlet Manager,2023-03-10,Active
+S00162,O0041,Riya Reddy,Chef,2024-04-24,Active
+S00163,O0041,Sneha Yadav,Service Staff,2023-11-17,Active
+S00164,O0041,Aarav Kumar,Chef,2024-10-07,Active
+S00165,O0042,Ananya Malhotra,Kitchen Staff,2023-02-24,Active
+S00166,O0042,Kunal Saxena,Outlet Manager,2023-02-02,Active
+S00167,O0042,Simran Kumar,Kitchen Staff,2026-07-10,Active
+S00168,O0042,Vikram Gupta,Chef,2025-10-28,Active
+S00169,O0043,Rohit Malhotra,Outlet Manager,2023-06-02,Active
+S00170,O0043,Ananya Malhotra,Outlet Manager,2026-04-27,Active
+S00171,O0043,Kavya Yadav,Shift Manager,2025-09-13,Active
+S00172,O0043,Nisha Malhotra,Cashier,2025-05-12,Active
+S00173,O0044,Rahul Malhotra,Cashier,2023-03-21,Active
+S00174,O0044,Vivaan Joshi,Chef,2025-12-31,Active
+S00175,O0044,Sneha Sharma,Cashier,2026-02-24,Active
+S00176,O0044,Priya Kumar,Delivery Executive,2026-06-04,Active
+S00177,O0045,Pooja Mishra,Outlet Manager,2026-05-29,Active
+S00178,O0045,Rahul Reddy,Chef,2023-02-22,Active
+S00179,O0045,Nisha Joshi,Kitchen Staff,2024-08-02,Active
+S00180,O0045,Nisha Malhotra,Service Staff,2026-02-05,Active
+S00181,O0046,Kunal Yadav,Service Staff,2024-02-23,Active
+S00182,O0046,Ananya Singh,Delivery Executive,2024-03-22,Active
+S00183,O0046,Priya Patel,Shift Manager,2026-04-27,Active
+S00184,O0046,Neha Khan,Outlet Manager,2025-05-06,Active
+S00185,O0047,Neha Gupta,Chef,2023-03-15,Active
+S00186,O0047,Priya Yadav,Shift Manager,2026-01-31,Active
+S00187,O0047,Aditya Saxena,Chef,2024-09-27,Active
+S00188,O0047,Priya Joshi,Delivery Executive,2024-09-18,Active
+S00189,O0048,Simran Patel,Senior Chef,2024-04-30,Active
+S00190,O0048,Simran Reddy,Service Staff,2024-10-04,Active
+S00191,O0048,Sneha Patel,Cashier,2024-01-07,Active
+S00192,O0048,Simran Gupta,Cashier,2025-09-25,Active
+S00193,O0049,Sneha Chauhan,Delivery Executive,2025-10-31,Active
+S00194,O0049,Rahul Mishra,Senior Chef,2026-05-27,Active
+S00195,O0049,Ananya Joshi,Cashier,2024-12-27,Active
+S00196,O0049,Kavya Yadav,Cashier,2025-08-23,Active
+S00197,O0050,Vikram Saxena,Cashier,2023-10-15,Active
+S00198,O0050,Sneha Reddy,Outlet Manager,2023-02-19,Active
+S00199,O0050,Vivaan Gupta,Outlet Manager,2025-09-08,Active
+S00200,O0050,Arjun Singh,Shift Manager,2023-07-24,Active
+S00201,O0051,Aditya Yadav,Cashier,2024-11-12,Active
+S00202,O0051,Mohit Malhotra,Delivery Executive,2026-07-07,Active
+S00203,O0051,Arjun Malhotra,Chef,2023-10-01,Active
+S00204,O0051,Mohit Mehta,Outlet Manager,2024-04-17,Active
+S00205,O0052,Arjun Mehta,Chef,2025-08-26,Active
+S00206,O0052,Neha Gupta,Shift Manager,2025-08-03,Active
+S00207,O0052,Arjun Mehta,Cashier,2023-04-12,Active
+S00208,O0052,Sneha Khan,Shift Manager,2023-06-05,Active
+S00209,O0053,Kunal Saxena,Shift Manager,2023-01-27,Active
+S00210,O0053,Aditya Singh,Kitchen Staff,2023-11-14,Active
+S00211,O0053,Neha Mishra,Chef,2024-08-03,Active
+S00212,O0053,Kunal Chauhan,Shift Manager,2026-02-21,Active
+S00213,O0054,Rohit Malhotra,Chef,2025-04-25,Active
+S00214,O0054,Aditya Patel,Kitchen Staff,2024-03-25,Active
+S00215,O0054,Simran Malhotra,Service Staff,2023-01-15,Active
+S00216,O0054,Arjun Chauhan,Senior Chef,2025-04-08,Active
+S00217,O0055,Arjun Patel,Delivery Executive,2025-02-03,Active
+S00218,O0055,Pooja Joshi,Chef,2023-12-21,Active
+S00219,O0055,Aarav Khan,Kitchen Staff,2026-01-17,Active
+S00220,O0055,Priya Khan,Outlet Manager,2025-01-05,Active
+S00221,O0056,Pooja Sharma,Senior Chef,2024-10-28,Active
+S00222,O0056,Arjun Sharma,Delivery Executive,2023-05-31,Active
+S00223,O0056,Neha Patel,Kitchen Staff,2024-03-06,Active
+S00224,O0056,Sneha Mishra,Service Staff,2023-03-08,Active
+S00225,O0057,Simran Patel,Cashier,2025-05-30,Active
+S00226,O0057,Rahul Khan,Cashier,2024-06-22,Active
+S00227,O0057,Sneha Gupta,Outlet Manager,2024-03-02,Active
+S00228,O0057,Kavya Yadav,Senior Chef,2026-02-11,Active
+S00229,O0058,Rohit Patel,Kitchen Staff,2023-09-24,Active
+S00230,O0058,Rahul Gupta,Service Staff,2024-12-06,Active
+S00231,O0058,Ananya Singh,Shift Manager,2023-02-06,Active
+S00232,O0058,Aarav Gupta,Chef,2024-11-20,Active
+S00233,O0059,Aarav Chauhan,Service Staff,2026-05-25,Active
+S00234,O0059,Rahul Chauhan,Outlet Manager,2023-03-29,Active
+S00235,O0059,Aman Patel,Kitchen Staff,2023-03-16,Active
+S00236,O0059,Rohit Kumar,Cashier,2025-01-03,Active
+S00237,O0060,Sneha Malhotra,Chef,2023-01-16,Active
+S00238,O0060,Mohit Mishra,Outlet Manager,2025-09-11,Active
+S00239,O0060,Priya Mishra,Cashier,2023-12-26,Active
+S00240,O0060,Kunal Chauhan,Kitchen Staff,2025-03-26,Active
+S00241,O0061,Neha Malhotra,Outlet Manager,2023-11-11,Active
+S00242,O0061,Pooja Yadav,Senior Chef,2023-12-02,Active
+S00243,O0061,Arjun Mehta,Shift Manager,2025-12-21,Active
+S00244,O0061,Kunal Gupta,Chef,2026-04-28,Active
+S00245,O0062,Kunal Yadav,Senior Chef,2024-07-09,Active
+S00246,O0062,Aisha Singh,Cashier,2025-08-24,Active
+S00247,O0062,Kunal Patel,Service Staff,2026-03-23,Active
+S00248,O0062,Aditya Verma,Senior Chef,2024-09-06,Active
+S00249,O0063,Rahul Mehta,Outlet Manager,2026-04-21,Active
+S00250,O0063,Simran Reddy,Chef,2023-03-04,Active
+S00251,O0063,Kavya Mishra,Shift Manager,2023-10-30,Active
+S00252,O0063,Rahul Verma,Outlet Manager,2024-12-03,Active
+S00253,O0064,Simran Reddy,Service Staff,2026-05-13,Active
+S00254,O0064,Simran Mehta,Chef,2023-06-21,Active
+S00255,O0064,Neha Saxena,Senior Chef,2023-03-26,Active
+S00256,O0064,Rohit Yadav,Delivery Executive,2023-09-25,Active
+S00257,O0065,Arjun Khan,Cashier,2026-03-26,Active
+S00258,O0065,Nisha Khan,Chef,2023-05-30,Active
+S00259,O0065,Aditya Gupta,Service Staff,2025-07-13,Active
+S00260,O0065,Kavya Mishra,Cashier,2023-03-20,Active
+S00261,O0066,Pooja Gupta,Cashier,2024-12-16,Active
+S00262,O0066,Vivaan Singh,Senior Chef,2023-11-10,Active
+S00263,O0066,Simran Yadav,Chef,2026-07-21,Active
+S00264,O0066,Mohit Joshi,Shift Manager,2023-12-22,Active
+S00265,O0067,Priya Joshi,Kitchen Staff,2025-06-29,Active
+S00266,O0067,Aditya Sharma,Senior Chef,2025-05-04,Active
+S00267,O0067,Arjun Singh,Chef,2025-12-07,Active
+S00268,O0067,Vikram Khan,Delivery Executive,2024-09-29,Active
+S00269,O0068,Aman Khan,Chef,2026-06-18,Active
+S00270,O0068,Sneha Khan,Outlet Manager,2024-04-07,Active
+S00271,O0068,Aarav Kumar,Service Staff,2024-09-15,Active
+S00272,O0068,Kavya Sharma,Outlet Manager,2025-03-24,Active
+S00273,O0069,Sneha Patel,Outlet Manager,2024-02-07,Active
+S00274,O0069,Vivaan Reddy,Chef,2026-07-08,Active
+S00275,O0069,Pooja Reddy,Shift Manager,2026-06-27,Active
+S00276,O0069,Mohit Reddy,Outlet Manager,2026-06-06,Active
+S00277,O0070,Vikram Khan,Delivery Executive,2023-11-19,Active
+S00278,O0070,Nisha Mehta,Service Staff,2025-10-20,Active
+S00279,O0070,Kavya Malhotra,Shift Manager,2024-04-20,Active
+S00280,O0070,Riya Sharma,Cashier,2024-05-14,Active
+S00281,O0071,Kunal Malhotra,Senior Chef,2024-02-28,Active
+S00282,O0071,Simran Singh,Service Staff,2024-12-14,Active
+S00283,O0071,Sneha Mehta,Delivery Executive,2023-09-17,Active
+S00284,O0071,Vivaan Singh,Service Staff,2024-09-23,Active
+S00285,O0072,Priya Gupta,Chef,2023-10-07,Active
+S00286,O0072,Arjun Saxena,Senior Chef,2023-04-15,Active
+S00287,O0072,Simran Saxena,Outlet Manager,2025-01-08,Active
+S00288,O0072,Sneha Mehta,Service Staff,2026-03-03,Active
+S00289,O0073,Ananya Sharma,Kitchen Staff,2023-01-10,Active
+S00290,O0073,Kavya Mishra,Kitchen Staff,2023-01-31,Active
+S00291,O0073,Ananya Chauhan,Outlet Manager,2023-02-17,Active
+S00292,O0073,Rohit Kumar,Chef,2023-11-25,Active
+S00293,O0074,Rohit Saxena,Shift Manager,2023-08-02,Active
+S00294,O0074,Sneha Joshi,Shift Manager,2024-01-02,Active
+S00295,O0074,Vikram Verma,Kitchen Staff,2023-03-04,Active
+S00296,O0074,Aman Singh,Service Staff,2024-07-09,Active
+S00297,O0075,Kunal Sharma,Delivery Executive,2025-01-09,Active
+S00298,O0075,Pooja Gupta,Outlet Manager,2023-08-17,Active
+S00299,O0075,Kavya Joshi,Chef,2024-09-28,Active
+S00300,O0075,Aman Patel,Senior Chef,2026-04-07,Active
+S00301,O0076,Aarav Malhotra,Senior Chef,2026-03-29,Active
+S00302,O0076,Priya Malhotra,Chef,2023-02-02,Active
+S00303,O0076,Sneha Khan,Outlet Manager,2025-12-18,Active
+S00304,O0076,Mohit Verma,Outlet Manager,2023-10-28,Active
+S00305,O0077,Nisha Gupta,Senior Chef,2025-05-06,Active
+S00306,O0077,Kavya Reddy,Chef,2026-06-12,Active
+S00307,O0077,Kavya Reddy,Service Staff,2023-04-19,Active
+S00308,O0077,Vikram Joshi,Shift Manager,2024-11-02,Active
+S00309,O0078,Sneha Verma,Senior Chef,2026-03-14,Active
+S00310,O0078,Sneha Joshi,Chef,2023-07-05,Active
+S00311,O0078,Sneha Kumar,Senior Chef,2023-04-23,Active
+S00312,O0078,Rahul Gupta,Delivery Executive,2025-03-28,Active
+S00313,O0079,Rohit Yadav,Chef,2024-01-19,Active
+S00314,O0079,Rahul Yadav,Cashier,2023-09-23,Active
+S00315,O0079,Vivaan Mehta,Senior Chef,2026-04-04,Active
+S00316,O0079,Neha Joshi,Delivery Executive,2025-03-13,Active
+S00317,O0080,Riya Chauhan,Senior Chef,2024-08-14,Active
+S00318,O0080,Rohit Chauhan,Kitchen Staff,2026-03-19,Active
+S00319,O0080,Vivaan Patel,Cashier,2023-09-02,Active
+S00320,O0080,Kunal Kumar,Chef,2023-03-26,Active
+S00321,O0081,Vivaan Khan,Senior Chef,2025-01-17,Active
+S00322,O0081,Rohit Sharma,Service Staff,2026-04-17,Active
+S00323,O0081,Rahul Chauhan,Shift Manager,2023-04-06,Active
+S00324,O0081,Rahul Joshi,Delivery Executive,2024-03-01,Active
+S00325,O0082,Rohit Khan,Shift Manager,2023-05-31,Active
+S00326,O0082,Simran Mehta,Kitchen Staff,2023-01-07,Active
+S00327,O0082,Riya Chauhan,Cashier,2024-08-23,Active
+S00328,O0082,Rohit Chauhan,Outlet Manager,2025-07-13,Active
+S00329,O0083,Vivaan Gupta,Service Staff,2024-01-25,Active
+S00330,O0083,Arjun Malhotra,Service Staff,2024-02-14,Active
+S00331,O0083,Vivaan Verma,Delivery Executive,2024-02-03,Active
+S00332,O0083,Aarav Mishra,Service Staff,2024-04-24,Active
+S00333,O0084,Riya Malhotra,Delivery Executive,2025-05-08,Active
+S00334,O0084,Ananya Malhotra,Shift Manager,2023-10-16,Active
+S00335,O0084,Rahul Reddy,Delivery Executive,2025-06-23,Active
+S00336,O0084,Sneha Malhotra,Delivery Executive,2025-04-26,Active
+S00337,O0085,Arjun Sharma,Service Staff,2024-06-12,Active
+S00338,O0085,Aisha Saxena,Chef,2023-11-08,Active
+S00339,O0085,Riya Singh,Chef,2023-09-20,Active
+S00340,O0085,Vikram Saxena,Senior Chef,2026-06-22,Active
+S00341,O0086,Aman Gupta,Senior Chef,2026-03-17,Active
+S00342,O0086,Aarav Saxena,Kitchen Staff,2023-06-02,Active
+S00343,O0086,Sneha Saxena,Chef,2024-07-02,Active
+S00344,O0086,Aditya Gupta,Chef,2024-08-11,Active
+S00345,O0087,Vivaan Kumar,Outlet Manager,2026-06-06,Active
+S00346,O0087,Aarav Mishra,Kitchen Staff,2025-09-22,Active
+S00347,O0087,Arjun Gupta,Outlet Manager,2025-05-08,Active
+S00348,O0087,Pooja Chauhan,Senior Chef,2024-07-01,Active
+S00349,O0088,Aarav Mehta,Chef,2025-09-06,Active
+S00350,O0088,Pooja Gupta,Senior Chef,2025-04-02,Active
+S00351,O0088,Aman Saxena,Shift Manager,2023-10-13,Active
+S00352,O0088,Nisha Reddy,Outlet Manager,2026-07-16,Active
+S00353,O0089,Priya Yadav,Shift Manager,2025-08-04,Active
+S00354,O0089,Neha Verma,Shift Manager,2024-03-13,Active
+S00355,O0089,Ananya Reddy,Delivery Executive,2024-10-15,Active
+S00356,O0089,Rahul Sharma,Shift Manager,2026-06-20,Active
+S00357,O0090,Vivaan Reddy,Service Staff,2025-07-07,Active
+S00358,O0090,Riya Chauhan,Outlet Manager,2023-06-23,Active
+S00359,O0090,Arjun Reddy,Senior Chef,2025-08-30,Active
+S00360,O0090,Pooja Chauhan,Chef,2026-05-23,Active
+S00361,O0091,Kunal Singh,Senior Chef,2025-06-03,Active
+S00362,O0091,Neha Patel,Cashier,2023-04-24,Active
+S00363,O0091,Sneha Joshi,Kitchen Staff,2024-05-28,Active
+S00364,O0091,Neha Mishra,Cashier,2026-04-11,Active
+S00365,O0092,Rahul Verma,Delivery Executive,2024-04-02,Active
+S00366,O0092,Vivaan Sharma,Service Staff,2026-03-28,Active
+S00367,O0092,Aarav Malhotra,Chef,2024-12-14,Active
+S00368,O0092,Sneha Mishra,Shift Manager,2025-01-25,Active
+S00369,O0093,Kunal Khan,Senior Chef,2026-03-02,Active
+S00370,O0093,Aditya Malhotra,Kitchen Staff,2024-09-11,Active
+S00371,O0093,Sneha Malhotra,Cashier,2026-01-17,Active
+S00372,O0093,Sneha Mishra,Kitchen Staff,2026-03-05,Active
+S00373,O0094,Vikram Yadav,Senior Chef,2024-06-06,Active
+S00374,O0094,Aisha Verma,Cashier,2026-01-18,Active
+S00375,O0094,Rohit Verma,Senior Chef,2024-08-02,Active
+S00376,O0094,Rohit Singh,Shift Manager,2025-03-11,Active
+S00377,O0095,Ananya Reddy,Cashier,2025-01-09,Active
+S00378,O0095,Priya Kumar,Chef,2025-11-15,Active
+S00379,O0095,Neha Yadav,Kitchen Staff,2025-02-25,Active
+S00380,O0095,Sneha Sharma,Shift Manager,2024-05-25,Active
+S00381,O0096,Priya Verma,Delivery Executive,2024-09-24,Active
+S00382,O0096,Riya Saxena,Delivery Executive,2025-03-18,Active
+S00383,O0096,Arjun Verma,Outlet Manager,2023-06-13,Active
+S00384,O0096,Simran Gupta,Outlet Manager,2024-01-02,Active
+S00385,O0097,Vivaan Mehta,Chef,2024-03-11,Active
+S00386,O0097,Priya Gupta,Delivery Executive,2024-04-27,Active
+S00387,O0097,Aarav Joshi,Cashier,2023-10-03,Active
+S00388,O0097,Riya Yadav,Senior Chef,2023-11-21,Active
+S00389,O0098,Aarav Singh,Delivery Executive,2026-04-14,Active
+S00390,O0098,Kavya Verma,Chef,2026-06-18,Active
+S00391,O0098,Neha Patel,Chef,2024-06-30,Active
+S00392,O0098,Aditya Yadav,Chef,2024-07-21,Active
+S00393,O0099,Aisha Kumar,Service Staff,2026-06-19,Active
+S00394,O0099,Ananya Mishra,Cashier,2024-05-31,Active
+S00395,O0099,Pooja Reddy,Shift Manager,2025-05-18,Active
+S00396,O0099,Nisha Chauhan,Service Staff,2024-04-24,Active
+S00397,O0100,Riya Singh,Kitchen Staff,2025-11-15,Active
+S00398,O0100,Ananya Sharma,Shift Manager,2024-09-20,Active
+S00399,O0100,Mohit Mishra,Chef,2024-03-20,Active
+S00400,O0100,Riya Mehta,Chef,2023-06-24,Active
+S00401,O0101,Priya Singh,Kitchen Staff,2024-11-15,Active
+S00402,O0101,Riya Chauhan,Outlet Manager,2023-02-26,Active
+S00403,O0101,Priya Joshi,Kitchen Staff,2024-09-28,Active
+S00404,O0101,Mohit Saxena,Shift Manager,2024-12-22,Active
+S00405,O0102,Aman Verma,Cashier,2025-10-03,Active
+S00406,O0102,Aisha Singh,Delivery Executive,2025-11-15,Active
+S00407,O0102,Riya Yadav,Delivery Executive,2023-07-09,Active
+S00408,O0102,Aman Kumar,Outlet Manager,2023-07-24,Active
+S00409,O0103,Sneha Joshi,Shift Manager,2025-04-25,Active
+S00410,O0103,Pooja Joshi,Chef,2023-06-12,Active
+S00411,O0103,Rahul Kumar,Service Staff,2024-11-16,Active
+S00412,O0103,Priya Patel,Cashier,2024-08-13,Active
+S00413,O0104,Rahul Mishra,Chef,2025-03-03,Active
+S00414,O0104,Aman Reddy,Senior Chef,2024-09-17,Active
+S00415,O0104,Mohit Malhotra,Outlet Manager,2023-01-23,Active
+S00416,O0104,Sneha Malhotra,Kitchen Staff,2025-12-20,Active
+S00417,O0105,Pooja Singh,Outlet Manager,2025-04-25,Active
+S00418,O0105,Aman Verma,Senior Chef,2025-08-16,Active
+S00419,O0105,Kavya Kumar,Cashier,2023-09-07,Active
+S00420,O0105,Kavya Yadav,Cashier,2025-07-14,Active
+S00421,O0106,Sneha Khan,Outlet Manager,2026-07-10,Active
+S00422,O0106,Sneha Singh,Chef,2024-02-13,Active
+S00423,O0106,Sneha Mehta,Chef,2024-08-10,Active
+S00424,O0106,Nisha Chauhan,Cashier,2024-11-03,Active
+S00425,O0107,Arjun Mehta,Senior Chef,2023-05-26,Active
+S00426,O0107,Rahul Sharma,Shift Manager,2024-12-08,Active
+S00427,O0107,Aisha Chauhan,Senior Chef,2023-03-02,Active
+S00428,O0107,Aditya Yadav,Service Staff,2023-11-19,Active
+S00429,O0108,Neha Patel,Shift Manager,2025-08-01,Active
+S00430,O0108,Simran Mishra,Shift Manager,2025-06-29,Active
+S00431,O0108,Aditya Joshi,Cashier,2025-07-11,Active
+S00432,O0108,Mohit Sharma,Kitchen Staff,2023-10-17,Active
+S00433,O0109,Sneha Malhotra,Chef,2024-05-25,Active
+S00434,O0109,Pooja Gupta,Kitchen Staff,2026-07-22,Active
+S00435,O0109,Aman Khan,Chef,2026-05-05,Active
+S00436,O0109,Aditya Gupta,Cashier,2025-11-18,Active
+S00437,O0110,Kunal Gupta,Delivery Executive,2025-08-26,Active
+S00438,O0110,Aisha Patel,Cashier,2025-10-26,Active
+S00439,O0110,Arjun Mehta,Senior Chef,2024-08-29,Active
+S00440,O0110,Kavya Yadav,Senior Chef,2024-12-23,Active
+S00441,O0111,Aisha Khan,Chef,2023-12-09,Active
+S00442,O0111,Aman Malhotra,Senior Chef,2023-03-21,Active
+S00443,O0111,Nisha Saxena,Service Staff,2024-09-18,Active
+S00444,O0111,Aman Joshi,Cashier,2023-06-01,Active
+S00445,O0112,Mohit Mishra,Cashier,2023-03-11,Active
+S00446,O0112,Nisha Singh,Kitchen Staff,2023-07-11,Active
+S00447,O0112,Kunal Khan,Delivery Executive,2025-09-29,Active
+S00448,O0112,Sneha Joshi,Service Staff,2023-02-02,Active
+S00449,O0113,Neha Gupta,Chef,2024-12-21,Active
+S00450,O0113,Nisha Saxena,Outlet Manager,2024-02-06,Active
+S00451,O0113,Kavya Sharma,Senior Chef,2025-05-31,Active
+S00452,O0113,Kunal Singh,Delivery Executive,2023-02-24,Active
+S00453,O0114,Riya Kumar,Chef,2025-03-09,Active
+S00454,O0114,Kavya Chauhan,Kitchen Staff,2023-01-12,Active
+S00455,O0114,Vikram Mehta,Shift Manager,2026-03-28,Active
+S00456,O0114,Rahul Chauhan,Chef,2025-06-19,Active
+S00457,O0115,Vivaan Singh,Shift Manager,2025-01-21,Active
+S00458,O0115,Aisha Verma,Outlet Manager,2023-04-18,Active
+S00459,O0115,Pooja Joshi,Delivery Executive,2026-06-13,Active
+S00460,O0115,Rahul Patel,Shift Manager,2023-07-03,Active
+S00461,O0116,Rahul Mehta,Cashier,2023-10-17,Active
+S00462,O0116,Simran Singh,Service Staff,2024-04-05,Active
+S00463,O0116,Kavya Malhotra,Shift Manager,2025-06-12,Active
+S00464,O0116,Sneha Joshi,Service Staff,2025-07-10,Active
+S00465,O0117,Mohit Yadav,Cashier,2025-04-16,Active
+S00466,O0117,Simran Saxena,Chef,2025-01-22,Active
+S00467,O0117,Aman Saxena,Kitchen Staff,2026-06-19,Active
+S00468,O0117,Kavya Saxena,Senior Chef,2023-01-15,Active
+S00469,O0118,Kavya Mishra,Cashier,2023-10-01,Active
+S00470,O0118,Rohit Mehta,Shift Manager,2024-06-09,Active
+S00471,O0118,Ananya Saxena,Shift Manager,2023-01-11,Active
+S00472,O0118,Kunal Gupta,Service Staff,2024-10-19,Active
+S00473,O0119,Aisha Gupta,Chef,2025-12-26,Active
+S00474,O0119,Rahul Sharma,Service Staff,2026-03-10,Active
+S00475,O0119,Ananya Chauhan,Shift Manager,2026-07-03,Active
+S00476,O0119,Aarav Kumar,Service Staff,2026-02-16,Active
+S00477,O0120,Neha Mishra,Kitchen Staff,2023-03-04,Active
+S00478,O0120,Aman Patel,Chef,2025-02-13,Active
+S00479,O0120,Rohit Sharma,Outlet Manager,2024-01-12,Active
+S00480,O0120,Aarav Kumar,Chef,2024-05-16,Active
+S00481,O0121,Mohit Reddy,Kitchen Staff,2025-05-17,Active
+S00482,O0121,Ananya Patel,Outlet Manager,2025-03-02,Active
+S00483,O0121,Aman Khan,Kitchen Staff,2023-03-14,Active
+S00484,O0121,Pooja Joshi,Delivery Executive,2025-05-27,Active
+S00485,O0122,Priya Kumar,Chef,2023-02-13,Active
+S00486,O0122,Arjun Kumar,Service Staff,2026-01-30,Active
+S00487,O0122,Riya Kumar,Cashier,2023-02-03,Active
+S00488,O0122,Riya Singh,Outlet Manager,2023-04-19,Active
+S00489,O0123,Neha Joshi,Kitchen Staff,2023-06-24,Active
+S00490,O0123,Kunal Malhotra,Chef,2025-07-23,Active
+S00491,O0123,Pooja Mishra,Service Staff,2024-05-07,Active
+S00492,O0123,Nisha Patel,Service Staff,2023-08-26,Active
+S00493,O0124,Rohit Mehta,Shift Manager,2025-04-11,Active
+S00494,O0124,Aditya Saxena,Delivery Executive,2023-06-07,Active
+S00495,O0124,Riya Saxena,Senior Chef,2023-11-21,Active
+S00496,O0124,Neha Yadav,Chef,2026-05-14,Active
+S00497,O0125,Rahul Mishra,Outlet Manager,2024-11-03,Active
+S00498,O0125,Aman Khan,Shift Manager,2023-11-02,Active
+S00499,O0125,Nisha Reddy,Delivery Executive,2026-04-27,Active
+S00500,O0125,Mohit Malhotra,Chef,2025-12-21,Active
+S00501,O0126,Rohit Singh,Cashier,2025-03-04,Active
+S00502,O0126,Riya Saxena,Chef,2025-11-09,Active
+S00503,O0126,Simran Sharma,Delivery Executive,2024-10-07,Active
+S00504,O0126,Aditya Chauhan,Senior Chef,2023-05-02,Active
+S00505,O0127,Rohit Gupta,Service Staff,2024-01-29,Active
+S00506,O0127,Sneha Malhotra,Shift Manager,2025-04-11,Active
+S00507,O0127,Neha Mehta,Cashier,2023-03-25,Active
+S00508,O0127,Kunal Joshi,Kitchen Staff,2025-03-12,Active
+S00509,O0128,Simran Verma,Cashier,2025-11-22,Active
+S00510,O0128,Sneha Joshi,Kitchen Staff,2025-11-10,Active
+S00511,O0128,Aisha Gupta,Cashier,2024-02-27,Active
+S00512,O0128,Priya Verma,Kitchen Staff,2025-02-06,Active
+S00513,O0129,Ananya Reddy,Outlet Manager,2026-02-07,Active
+S00514,O0129,Riya Khan,Service Staff,2023-11-15,Active
+S00515,O0129,Arjun Kumar,Service Staff,2025-04-17,Active
+S00516,O0129,Simran Khan,Senior Chef,2024-07-26,Active
+S00517,O0130,Nisha Reddy,Senior Chef,2026-03-11,Active
+S00518,O0130,Nisha Reddy,Senior Chef,2025-01-23,Active
+S00519,O0130,Mohit Yadav,Delivery Executive,2025-08-27,Active
+S00520,O0130,Aman Joshi,Service Staff,2025-09-06,Active
+S00521,O0131,Rahul Khan,Cashier,2025-02-21,Active
+S00522,O0131,Neha Chauhan,Delivery Executive,2025-06-09,Active
+S00523,O0131,Kavya Verma,Service Staff,2024-07-10,Active
+S00524,O0131,Rohit Mishra,Service Staff,2024-09-13,Active
+S00525,O0132,Pooja Patel,Kitchen Staff,2024-01-19,Active
+S00526,O0132,Mohit Patel,Cashier,2024-02-20,Active
+S00527,O0132,Aisha Mishra,Senior Chef,2025-12-14,Active
+S00528,O0132,Priya Patel,Service Staff,2025-12-03,Active
+S00529,O0133,Aditya Malhotra,Senior Chef,2026-04-22,Active
+S00530,O0133,Nisha Kumar,Cashier,2025-04-01,Active
+S00531,O0133,Sneha Joshi,Shift Manager,2024-03-04,Active
+S00532,O0133,Kavya Patel,Delivery Executive,2023-07-21,Active
+S00533,O0134,Ananya Singh,Outlet Manager,2026-02-20,Active
+S00534,O0134,Priya Verma,Shift Manager,2025-06-08,Active
+S00535,O0134,Kavya Reddy,Delivery Executive,2025-02-25,Active
+S00536,O0134,Pooja Chauhan,Senior Chef,2024-07-21,Active
+S00537,O0135,Aisha Gupta,Delivery Executive,2026-07-13,Active
+S00538,O0135,Neha Malhotra,Chef,2026-05-22,Active
+S00539,O0135,Aisha Joshi,Outlet Manager,2024-05-25,Active
+S00540,O0135,Kunal Kumar,Senior Chef,2026-04-02,Active
+S00541,O0136,Pooja Singh,Delivery Executive,2024-02-18,Active
+S00542,O0136,Aditya Patel,Kitchen Staff,2024-04-20,Active
+S00543,O0136,Ananya Saxena,Kitchen Staff,2023-07-29,Active
+S00544,O0136,Priya Malhotra,Delivery Executive,2023-11-25,Active
+S00545,O0137,Vikram Mishra,Outlet Manager,2026-01-25,Active
+S00546,O0137,Vikram Malhotra,Kitchen Staff,2023-11-26,Active
+S00547,O0137,Vikram Saxena,Senior Chef,2025-08-14,Active
+S00548,O0137,Mohit Yadav,Shift Manager,2024-12-18,Active
+S00549,O0138,Ananya Khan,Kitchen Staff,2026-07-07,Active
+S00550,O0138,Riya Chauhan,Kitchen Staff,2023-09-01,Active
+S00551,O0138,Vikram Mehta,Outlet Manager,2023-10-26,Active
+S00552,O0138,Aisha Patel,Senior Chef,2024-03-25,Active
+S00553,O0139,Neha Malhotra,Chef,2024-06-04,Active
+S00554,O0139,Kunal Verma,Delivery Executive,2024-04-27,Active
+S00555,O0139,Kavya Patel,Service Staff,2023-12-27,Active
+S00556,O0139,Riya Singh,Shift Manager,2024-04-07,Active
+S00557,O0140,Riya Mehta,Shift Manager,2025-04-09,Active
+S00558,O0140,Sneha Verma,Senior Chef,2023-07-03,Active
+S00559,O0140,Rahul Patel,Outlet Manager,2023-04-24,Active
+S00560,O0140,Nisha Mishra,Delivery Executive,2026-04-03,Active
+S00561,O0141,Kunal Gupta,Service Staff,2025-02-13,Active
+S00562,O0141,Neha Chauhan,Delivery Executive,2026-02-20,Active
+S00563,O0141,Neha Khan,Outlet Manager,2025-06-12,Active
+S00564,O0141,Sneha Saxena,Cashier,2025-07-12,Active
+S00565,O0142,Mohit Khan,Kitchen Staff,2024-12-16,Active
+S00566,O0142,Vivaan Saxena,Outlet Manager,2023-12-22,Active
+S00567,O0142,Rohit Mehta,Service Staff,2026-03-11,Active
+S00568,O0142,Pooja Saxena,Senior Chef,2026-05-01,Active
+S00569,O0143,Priya Saxena,Delivery Executive,2024-03-15,Active
+S00570,O0143,Pooja Mehta,Service Staff,2023-12-17,Active
+S00571,O0143,Aman Yadav,Kitchen Staff,2024-04-30,Active
+S00572,O0143,Pooja Khan,Outlet Manager,2023-08-19,Active
+S00573,O0144,Nisha Khan,Kitchen Staff,2024-04-06,Active
+S00574,O0144,Aditya Khan,Outlet Manager,2025-10-17,Active
+S00575,O0144,Sneha Khan,Outlet Manager,2024-10-26,Active
+S00576,O0144,Kavya Sharma,Delivery Executive,2025-05-17,Active
+S00577,O0145,Priya Gupta,Senior Chef,2024-08-24,Active
+S00578,O0145,Nisha Gupta,Service Staff,2026-01-12,Active
+S00579,O0145,Sneha Malhotra,Shift Manager,2025-05-13,Active
+S00580,O0145,Arjun Gupta,Shift Manager,2024-09-11,Active
+S00581,O0146,Riya Singh,Kitchen Staff,2024-02-08,Active
+S00582,O0146,Arjun Saxena,Cashier,2024-03-02,Active
+S00583,O0146,Aarav Yadav,Service Staff,2024-04-16,Active
+S00584,O0146,Neha Saxena,Kitchen Staff,2024-11-13,Active
+S00585,O0147,Sneha Malhotra,Delivery Executive,2024-09-10,Active
+S00586,O0147,Sneha Singh,Outlet Manager,2025-01-23,Active
+S00587,O0147,Neha Joshi,Delivery Executive,2023-05-03,Active
+S00588,O0147,Vivaan Malhotra,Outlet Manager,2023-01-29,Active
+S00589,O0148,Arjun Saxena,Shift Manager,2023-08-30,Active
+S00590,O0148,Sneha Gupta,Chef,2023-06-10,Active
+S00591,O0148,Aditya Mehta,Chef,2025-10-26,Active
+S00592,O0148,Rohit Gupta,Senior Chef,2024-04-08,Active
+S00593,O0149,Vivaan Saxena,Shift Manager,2024-05-11,Active
+S00594,O0149,Aarav Reddy,Outlet Manager,2023-01-31,Active
+S00595,O0149,Rahul Verma,Shift Manager,2026-04-20,Active
+S00596,O0149,Mohit Mishra,Service Staff,2023-06-25,Active
+S00597,O0150,Ananya Reddy,Chef,2024-02-22,Active
+S00598,O0150,Riya Joshi,Kitchen Staff,2025-03-05,Active
+S00599,O0150,Vivaan Malhotra,Cashier,2024-03-26,Active
+S00600,O0150,Mohit Joshi,Delivery Executive,2025-06-06,Active
+S00601,O0151,Aisha Sharma,Outlet Manager,2024-09-11,Active
+S00602,O0151,Rahul Chauhan,Outlet Manager,2025-05-04,Active
+S00603,O0151,Aisha Mehta,Service Staff,2025-11-14,Active
+S00604,O0151,Simran Yadav,Service Staff,2023-05-19,Active
+S00605,O0152,Aditya Joshi,Senior Chef,2025-08-08,Active
+S00606,O0152,Rahul Yadav,Service Staff,2025-07-19,Active
+S00607,O0152,Neha Reddy,Delivery Executive,2024-08-07,Active
+S00608,O0152,Pooja Joshi,Senior Chef,2023-12-26,Active
+S00609,O0153,Pooja Yadav,Cashier,2024-10-14,Active
+S00610,O0153,Ananya Malhotra,Senior Chef,2026-01-05,Active
+S00611,O0153,Aditya Patel,Shift Manager,2026-03-23,Active
+S00612,O0153,Arjun Gupta,Delivery Executive,2023-12-09,Active
+S00613,O0154,Pooja Khan,Outlet Manager,2024-09-01,Active
+S00614,O0154,Priya Mishra,Kitchen Staff,2025-07-10,Active
+S00615,O0154,Aditya Chauhan,Outlet Manager,2026-04-23,Active
+S00616,O0154,Neha Chauhan,Service Staff,2026-05-10,Active
+S00617,O0155,Kavya Malhotra,Senior Chef,2023-05-01,Active
+S00618,O0155,Pooja Malhotra,Outlet Manager,2025-01-29,Active
+S00619,O0155,Mohit Malhotra,Chef,2024-12-20,Active
+S00620,O0155,Ananya Chauhan,Cashier,2024-11-30,Active
+S00621,O0156,Vikram Mishra,Outlet Manager,2023-07-03,Active
+S00622,O0156,Rohit Mishra,Kitchen Staff,2024-08-01,Active
+S00623,O0156,Mohit Patel,Outlet Manager,2025-01-15,Active
+S00624,O0156,Aman Mehta,Kitchen Staff,2025-01-24,Active
+S00625,O0157,Aisha Mishra,Cashier,2025-01-03,Active
+S00626,O0157,Arjun Yadav,Service Staff,2024-02-08,Active
+S00627,O0157,Sneha Patel,Chef,2023-08-19,Active
+S00628,O0157,Riya Chauhan,Outlet Manager,2026-04-26,Active
+S00629,O0158,Riya Yadav,Shift Manager,2026-07-23,Active
+S00630,O0158,Aarav Singh,Delivery Executive,2025-04-22,Active
+S00631,O0158,Neha Yadav,Chef,2024-01-16,Active
+S00632,O0158,Aarav Chauhan,Chef,2025-06-22,Active
+S00633,O0159,Kunal Joshi,Delivery Executive,2023-11-19,Active
+S00634,O0159,Arjun Singh,Outlet Manager,2023-06-29,Active
+S00635,O0159,Aditya Kumar,Chef,2024-06-28,Active
+S00636,O0159,Simran Joshi,Outlet Manager,2023-09-13,Active
+S00637,O0160,Rohit Patel,Service Staff,2023-04-08,Active
+S00638,O0160,Arjun Joshi,Shift Manager,2024-11-23,Active
+S00639,O0160,Vivaan Mehta,Service Staff,2025-02-06,Active
+S00640,O0160,Nisha Mehta,Service Staff,2023-02-05,Active
+S00641,O0161,Rohit Patel,Kitchen Staff,2025-05-30,Active
+S00642,O0161,Priya Mishra,Senior Chef,2024-10-14,Active
+S00643,O0161,Pooja Khan,Kitchen Staff,2024-12-22,Active
+S00644,O0161,Aarav Mishra,Cashier,2023-05-19,Active
+S00645,O0162,Aditya Yadav,Service Staff,2025-08-07,Active
+S00646,O0162,Arjun Mishra,Delivery Executive,2025-09-12,Active
+S00647,O0162,Vikram Chauhan,Delivery Executive,2024-12-05,Active
+S00648,O0162,Aman Sharma,Kitchen Staff,2026-03-06,Active
+S00649,O0163,Mohit Mehta,Senior Chef,2026-04-19,Active
+S00650,O0163,Vikram Sharma,Chef,2024-06-30,Active
+S00651,O0163,Neha Singh,Service Staff,2024-10-04,Active
+S00652,O0163,Sneha Reddy,Kitchen Staff,2025-04-27,Active
+S00653,O0164,Nisha Verma,Chef,2024-09-25,Active
+S00654,O0164,Neha Joshi,Cashier,2024-03-14,Active
+S00655,O0164,Rahul Kumar,Cashier,2024-07-07,Active
+S00656,O0164,Sneha Khan,Shift Manager,2023-12-27,Active
+S00657,O0165,Kunal Sharma,Senior Chef,2024-10-10,Active
+S00658,O0165,Mohit Mishra,Service Staff,2026-04-13,Active
+S00659,O0165,Nisha Reddy,Senior Chef,2023-10-15,Active
+S00660,O0165,Neha Kumar,Cashier,2025-03-16,Active
+S00661,O0166,Arjun Khan,Cashier,2025-09-09,Active
+S00662,O0166,Kavya Verma,Outlet Manager,2023-05-04,Active
+S00663,O0166,Kunal Malhotra,Outlet Manager,2023-06-20,Active
+S00664,O0166,Vikram Sharma,Chef,2023-07-18,Active
+S00665,O0167,Aarav Gupta,Outlet Manager,2024-06-11,Active
+S00666,O0167,Mohit Yadav,Kitchen Staff,2024-04-16,Active
+S00667,O0167,Kavya Chauhan,Outlet Manager,2025-03-26,Active
+S00668,O0167,Nisha Kumar,Kitchen Staff,2025-01-22,Active
+S00669,O0168,Kunal Yadav,Chef,2024-03-11,Active
+S00670,O0168,Kunal Patel,Service Staff,2025-10-20,Active
+S00671,O0168,Aarav Verma,Shift Manager,2024-03-07,Active
+S00672,O0168,Aditya Mehta,Outlet Manager,2024-08-26,Active
+S00673,O0169,Aditya Gupta,Outlet Manager,2024-11-01,Active
+S00674,O0169,Rohit Gupta,Chef,2023-07-30,Active
+S00675,O0169,Neha Malhotra,Shift Manager,2023-04-12,Active
+S00676,O0169,Mohit Yadav,Cashier,2025-05-02,Active
+S00677,O0170,Vivaan Patel,Outlet Manager,2024-11-13,Active
+S00678,O0170,Rohit Joshi,Chef,2024-05-25,Active
+S00679,O0170,Aman Yadav,Cashier,2024-11-13,Active
+S00680,O0170,Kunal Gupta,Shift Manager,2026-07-07,Active
+S00681,O0171,Simran Sharma,Senior Chef,2023-09-27,Active
+S00682,O0171,Ananya Verma,Chef,2023-08-28,Active
+S00683,O0171,Arjun Joshi,Kitchen Staff,2023-07-17,Active
+S00684,O0171,Ananya Sharma,Outlet Manager,2026-05-17,Active
+S00685,O0172,Riya Khan,Kitchen Staff,2024-10-26,Active
+S00686,O0172,Kavya Kumar,Delivery Executive,2023-01-03,Active
+S00687,O0172,Mohit Yadav,Shift Manager,2024-08-10,Active
+S00688,O0172,Riya Reddy,Cashier,2024-02-10,Active
+S00689,O0173,Nisha Sharma,Outlet Manager,2024-06-05,Active
+S00690,O0173,Vikram Verma,Chef,2024-08-28,Active
+S00691,O0173,Nisha Sharma,Outlet Manager,2025-04-12,Active
+S00692,O0173,Rahul Khan,Shift Manager,2025-10-06,Active
+S00693,O0174,Arjun Sharma,Outlet Manager,2025-12-23,Active
+S00694,O0174,Priya Gupta,Delivery Executive,2023-04-19,Active
+S00695,O0174,Sneha Sharma,Senior Chef,2023-07-29,Active
+S00696,O0174,Aarav Gupta,Chef,2024-04-19,Active
+S00697,O0175,Pooja Gupta,Senior Chef,2023-02-27,Active
+S00698,O0175,Rahul Verma,Cashier,2023-03-25,Active
+S00699,O0175,Kunal Mehta,Outlet Manager,2025-09-13,Active
+S00700,O0175,Rohit Yadav,Outlet Manager,2026-06-09,Active
+S00701,O0176,Neha Gupta,Cashier,2025-05-26,Active
+S00702,O0176,Vivaan Malhotra,Outlet Manager,2025-10-19,Active
+S00703,O0176,Nisha Verma,Cashier,2023-01-07,Active
+S00704,O0176,Aditya Verma,Chef,2025-03-24,Active
+S00705,O0177,Vivaan Sharma,Chef,2025-01-27,Active
+S00706,O0177,Arjun Patel,Cashier,2023-09-07,Active
+S00707,O0177,Ananya Reddy,Kitchen Staff,2023-12-23,Active
+S00708,O0177,Ananya Verma,Senior Chef,2023-06-17,Active
+S00709,O0178,Rohit Khan,Cashier,2025-11-01,Active
+S00710,O0178,Aman Chauhan,Delivery Executive,2024-09-01,Active
+S00711,O0178,Vivaan Sharma,Delivery Executive,2023-04-04,Active
+S00712,O0178,Riya Gupta,Service Staff,2025-07-10,Active
+S00713,O0179,Pooja Gupta,Chef,2026-03-20,Active
+S00714,O0179,Sneha Joshi,Delivery Executive,2026-06-24,Active
+S00715,O0179,Aisha Chauhan,Kitchen Staff,2023-05-24,Active
+S00716,O0179,Arjun Yadav,Outlet Manager,2023-01-27,Active
+S00717,O0180,Ananya Kumar,Kitchen Staff,2023-08-30,Active
+S00718,O0180,Mohit Joshi,Service Staff,2023-09-28,Active
+S00719,O0180,Rahul Kumar,Kitchen Staff,2025-10-12,Active
+S00720,O0180,Riya Kumar,Senior Chef,2026-04-23,Active
+S00721,O0181,Arjun Saxena,Chef,2024-02-21,Active
+S00722,O0181,Nisha Singh,Service Staff,2023-10-11,Active
+S00723,O0181,Rahul Yadav,Delivery Executive,2025-07-14,Active
+S00724,O0181,Kavya Malhotra,Kitchen Staff,2026-06-30,Active
+S00725,O0182,Vikram Gupta,Cashier,2024-11-08,Active
+S00726,O0182,Rahul Mishra,Service Staff,2025-10-08,Active
+S00727,O0182,Aman Chauhan,Service Staff,2024-07-28,Active
+S00728,O0182,Priya Joshi,Senior Chef,2023-01-01,Active
+S00729,O0183,Kunal Joshi,Cashier,2026-05-27,Active
+S00730,O0183,Nisha Malhotra,Kitchen Staff,2025-01-20,Active
+S00731,O0183,Aarav Patel,Chef,2023-01-01,Active
+S00732,O0183,Simran Mishra,Senior Chef,2023-07-02,Active
+S00733,O0184,Neha Khan,Chef,2023-04-22,Active
+S00734,O0184,Nisha Patel,Shift Manager,2023-08-30,Active
+S00735,O0184,Nisha Gupta,Service Staff,2024-03-02,Active
+S00736,O0184,Kavya Singh,Cashier,2025-06-22,Active
+S00737,O0185,Vikram Sharma,Cashier,2024-02-03,Active
+S00738,O0185,Ananya Khan,Service Staff,2024-06-18,Active
+S00739,O0185,Vivaan Verma,Service Staff,2024-12-04,Active
+S00740,O0185,Kavya Joshi,Service Staff,2025-11-22,Active
+S00741,O0186,Aman Kumar,Cashier,2023-02-07,Active
+S00742,O0186,Sneha Reddy,Chef,2023-06-17,Active
+S00743,O0186,Arjun Saxena,Chef,2024-01-29,Active
+S00744,O0186,Rohit Mishra,Kitchen Staff,2025-04-09,Active
+S00745,O0187,Simran Joshi,Kitchen Staff,2024-04-30,Active
+S00746,O0187,Aisha Singh,Service Staff,2023-02-05,Active
+S00747,O0187,Aarav Mehta,Chef,2023-04-24,Active
+S00748,O0187,Ananya Joshi,Service Staff,2025-03-17,Active
+S00749,O0188,Kunal Gupta,Senior Chef,2025-12-15,Active
+S00750,O0188,Rohit Joshi,Senior Chef,2025-11-02,Active
+S00751,O0188,Priya Reddy,Outlet Manager,2026-04-20,Active
+S00752,O0188,Arjun Mishra,Senior Chef,2025-08-12,Active
+S00753,O0189,Vikram Verma,Outlet Manager,2025-12-29,Active
+S00754,O0189,Aarav Khan,Cashier,2025-01-07,Active
+S00755,O0189,Aisha Mehta,Outlet Manager,2024-10-21,Active
+S00756,O0189,Aman Joshi,Chef,2023-03-18,Active
+S00757,O0190,Pooja Joshi,Outlet Manager,2025-06-26,Active
+S00758,O0190,Sneha Reddy,Chef,2023-05-10,Active
+S00759,O0190,Neha Mehta,Delivery Executive,2023-01-02,Active
+S00760,O0190,Rahul Mehta,Service Staff,2025-05-16,Active
+S00761,O0191,Neha Gupta,Chef,2024-09-06,Active
+S00762,O0191,Vikram Mehta,Service Staff,2025-08-12,Active
+S00763,O0191,Rahul Khan,Cashier,2025-05-17,Active
+S00764,O0191,Sneha Yadav,Senior Chef,2026-02-02,Active
+S00765,O0192,Mohit Yadav,Senior Chef,2024-01-21,Active
+S00766,O0192,Kunal Chauhan,Service Staff,2024-07-09,Active
+S00767,O0192,Ananya Reddy,Outlet Manager,2023-03-17,Active
+S00768,O0192,Nisha Mishra,Kitchen Staff,2023-12-03,Active
+S00769,O0193,Priya Singh,Shift Manager,2024-06-13,Active
+S00770,O0193,Rohit Gupta,Outlet Manager,2023-06-24,Active
+S00771,O0193,Kunal Gupta,Shift Manager,2025-08-31,Active
+S00772,O0193,Nisha Reddy,Shift Manager,2024-09-19,Active
+S00773,O0194,Aditya Yadav,Cashier,2024-07-01,Active
+S00774,O0194,Aarav Yadav,Kitchen Staff,2025-07-13,Active
+S00775,O0194,Priya Kumar,Chef,2023-11-18,Active
+S00776,O0194,Neha Verma,Outlet Manager,2025-05-05,Active
+S00777,O0195,Kunal Reddy,Service Staff,2025-08-27,Active
+S00778,O0195,Aarav Joshi,Senior Chef,2023-05-12,Active
+S00779,O0195,Aman Verma,Senior Chef,2025-12-20,Active
+S00780,O0195,Ananya Saxena,Chef,2023-09-07,Active
+S00781,O0196,Simran Joshi,Service Staff,2023-04-25,Active
+S00782,O0196,Vikram Khan,Service Staff,2023-06-15,Active
+S00783,O0196,Mohit Gupta,Outlet Manager,2025-02-06,Active
+S00784,O0196,Vivaan Gupta,Service Staff,2026-01-26,Active
+S00785,O0197,Aarav Yadav,Outlet Manager,2026-05-11,Active
+S00786,O0197,Mohit Saxena,Delivery Executive,2024-07-05,Active
+S00787,O0197,Aisha Yadav,Kitchen Staff,2026-05-20,Active
+S00788,O0197,Mohit Yadav,Shift Manager,2025-01-13,Active
+S00789,O0198,Simran Gupta,Chef,2024-04-17,Active
+S00790,O0198,Nisha Malhotra,Delivery Executive,2024-03-25,Active
+S00791,O0198,Kavya Joshi,Kitchen Staff,2024-10-28,Active
+S00792,O0198,Mohit Chauhan,Senior Chef,2024-10-03,Active
+S00793,O0199,Neha Reddy,Service Staff,2024-03-19,Active
+S00794,O0199,Priya Singh,Chef,2025-03-07,Active
+S00795,O0199,Riya Sharma,Delivery Executive,2024-07-31,Active
+S00796,O0199,Rohit Reddy,Service Staff,2025-09-13,Active
+S00797,O0200,Kunal Reddy,Delivery Executive,2026-07-09,Active
+S00798,O0200,Ananya Khan,Kitchen Staff,2023-08-24,Active
+S00799,O0200,Neha Mishra,Kitchen Staff,2023-08-24,Active
+S00800,O0200,Sneha Malhotra,Shift Manager,2025-06-21,Active
+S00801,O0201,Rahul Reddy,Kitchen Staff,2024-10-16,Active
+S00802,O0201,Arjun Chauhan,Service Staff,2024-11-02,Active
+S00803,O0201,Mohit Yadav,Outlet Manager,2023-08-12,Active
+S00804,O0201,Vivaan Joshi,Shift Manager,2024-10-13,Active
+S00805,O0202,Kavya Malhotra,Delivery Executive,2025-02-12,Active
+S00806,O0202,Kunal Mishra,Shift Manager,2025-08-01,Active
+S00807,O0202,Pooja Gupta,Outlet Manager,2023-11-19,Active
+S00808,O0202,Nisha Mehta,Delivery Executive,2024-04-11,Active
+S00809,O0203,Simran Malhotra,Senior Chef,2025-02-08,Active
+S00810,O0203,Aisha Chauhan,Senior Chef,2026-03-13,Active
+S00811,O0203,Neha Singh,Shift Manager,2025-02-03,Active
+S00812,O0203,Vivaan Verma,Delivery Executive,2024-01-18,Active
+S00813,O0204,Aarav Singh,Chef,2023-03-16,Active
+S00814,O0204,Pooja Gupta,Shift Manager,2026-01-13,Active
+S00815,O0204,Aditya Malhotra,Senior Chef,2023-12-29,Active
+S00816,O0204,Mohit Sharma,Shift Manager,2025-08-04,Active
+S00817,O0205,Mohit Kumar,Outlet Manager,2025-07-19,Active
+S00818,O0205,Mohit Reddy,Kitchen Staff,2023-07-24,Active
+S00819,O0205,Vikram Patel,Delivery Executive,2023-04-07,Active
+S00820,O0205,Riya Gupta,Delivery Executive,2025-12-10,Active
+S00821,O0206,Riya Chauhan,Service Staff,2025-01-18,Active
+S00822,O0206,Pooja Yadav,Chef,2025-05-10,Active
+S00823,O0206,Aarav Verma,Chef,2025-01-25,Active
+S00824,O0206,Aisha Gupta,Senior Chef,2026-06-25,Active
+S00825,O0207,Aman Mishra,Chef,2023-03-12,Active
+S00826,O0207,Vivaan Chauhan,Shift Manager,2024-11-17,Active
+S00827,O0207,Mohit Gupta,Outlet Manager,2025-06-01,Active
+S00828,O0207,Vikram Saxena,Delivery Executive,2025-07-31,Active
+S00829,O0208,Arjun Verma,Kitchen Staff,2025-12-25,Active
+S00830,O0208,Mohit Saxena,Shift Manager,2023-12-16,Active
+S00831,O0208,Kunal Malhotra,Delivery Executive,2025-08-06,Active
+S00832,O0208,Kunal Joshi,Outlet Manager,2024-07-18,Active
+S00833,O0209,Vikram Joshi,Service Staff,2026-05-28,Active
+S00834,O0209,Aditya Kumar,Shift Manager,2025-01-23,Active
+S00835,O0209,Mohit Sharma,Chef,2026-07-05,Active
+S00836,O0209,Neha Chauhan,Kitchen Staff,2024-07-02,Active
+S00837,O0210,Rohit Mishra,Cashier,2024-11-14,Active
+S00838,O0210,Aditya Chauhan,Outlet Manager,2025-08-10,Active
+S00839,O0210,Neha Singh,Outlet Manager,2023-09-17,Active
+S00840,O0210,Mohit Khan,Kitchen Staff,2026-04-09,Active
+S00841,O0211,Pooja Verma,Outlet Manager,2025-08-20,Active
+S00842,O0211,Pooja Sharma,Delivery Executive,2023-10-10,Active
+S00843,O0211,Sneha Patel,Chef,2024-01-22,Active
+S00844,O0211,Nisha Mehta,Kitchen Staff,2026-05-21,Active
+S00845,O0212,Vikram Reddy,Chef,2025-04-17,Active
+S00846,O0212,Vikram Patel,Kitchen Staff,2024-02-07,Active
+S00847,O0212,Ananya Sharma,Cashier,2025-11-16,Active
+S00848,O0212,Aisha Mehta,Shift Manager,2023-01-12,Active
+S00849,O0213,Neha Saxena,Delivery Executive,2024-02-18,Active
+S00850,O0213,Vikram Reddy,Senior Chef,2025-02-18,Active
+S00851,O0213,Arjun Mishra,Kitchen Staff,2025-07-08,Active
+S00852,O0213,Pooja Reddy,Cashier,2026-04-19,Active
+S00853,O0214,Sneha Joshi,Kitchen Staff,2024-05-12,Active
+S00854,O0214,Rahul Khan,Senior Chef,2026-04-21,Active
+S00855,O0214,Aarav Singh,Shift Manager,2024-03-21,Active
+S00856,O0214,Riya Verma,Service Staff,2024-02-12,Active
+S00857,O0215,Simran Gupta,Delivery Executive,2024-11-29,Active
+S00858,O0215,Nisha Mishra,Delivery Executive,2023-12-31,Active
+S00859,O0215,Aarav Reddy,Cashier,2025-09-19,Active
+S00860,O0215,Rahul Patel,Delivery Executive,2026-02-28,Active
+S00861,O0216,Neha Yadav,Senior Chef,2026-02-10,Active
+S00862,O0216,Vivaan Mishra,Delivery Executive,2025-11-15,Active
+S00863,O0216,Kunal Yadav,Shift Manager,2023-02-24,Active
+S00864,O0216,Kunal Saxena,Outlet Manager,2025-06-27,Active
+S00865,O0217,Aisha Singh,Senior Chef,2026-05-22,Active
+S00866,O0217,Vivaan Mehta,Senior Chef,2025-11-09,Active
+S00867,O0217,Pooja Joshi,Service Staff,2025-09-24,Active
+S00868,O0217,Sneha Mishra,Shift Manager,2024-07-10,Active
+S00869,O0218,Arjun Verma,Chef,2026-02-19,Active
+S00870,O0218,Ananya Joshi,Senior Chef,2025-12-18,Active
+S00871,O0218,Pooja Reddy,Delivery Executive,2024-08-15,Active
+S00872,O0218,Neha Joshi,Service Staff,2026-05-08,Active
+S00873,O0219,Aman Mehta,Kitchen Staff,2023-04-27,Active
+S00874,O0219,Simran Reddy,Shift Manager,2024-04-11,Active
+S00875,O0219,Priya Reddy,Cashier,2024-12-22,Active
+S00876,O0219,Rohit Sharma,Service Staff,2023-01-17,Active
+S00877,O0220,Rahul Khan,Cashier,2024-12-29,Active
+S00878,O0220,Simran Sharma,Chef,2024-01-21,Active
+S00879,O0220,Mohit Khan,Kitchen Staff,2023-12-24,Active
+S00880,O0220,Mohit Kumar,Shift Manager,2026-05-30,Active
+S00881,O0221,Neha Verma,Chef,2024-12-30,Active
+S00882,O0221,Rahul Patel,Kitchen Staff,2025-08-06,Active
+S00883,O0221,Kunal Mishra,Chef,2023-12-18,Active
+S00884,O0221,Rohit Mishra,Shift Manager,2024-11-22,Active
+S00885,O0222,Vivaan Saxena,Chef,2023-12-12,Active
+S00886,O0222,Nisha Joshi,Outlet Manager,2025-02-18,Active
+S00887,O0222,Aditya Khan,Senior Chef,2023-01-10,Active
+S00888,O0222,Pooja Gupta,Shift Manager,2024-11-01,Active
+S00889,O0223,Pooja Singh,Kitchen Staff,2025-07-05,Active
+S00890,O0223,Simran Mehta,Kitchen Staff,2023-12-03,Active
+S00891,O0223,Rohit Chauhan,Cashier,2025-07-26,Active
+S00892,O0223,Simran Joshi,Kitchen Staff,2024-06-28,Active
+S00893,O0224,Aditya Reddy,Kitchen Staff,2023-04-28,Active
+S00894,O0224,Aarav Mishra,Kitchen Staff,2026-01-03,Active
+S00895,O0224,Aisha Joshi,Senior Chef,2025-02-28,Active
+S00896,O0224,Pooja Mishra,Outlet Manager,2024-07-29,Active
+S00897,O0225,Sneha Yadav,Senior Chef,2024-03-24,Active
+S00898,O0225,Rohit Saxena,Delivery Executive,2026-02-17,Active
+S00899,O0225,Rohit Verma,Shift Manager,2025-10-29,Active
+S00900,O0225,Riya Yadav,Cashier,2023-08-24,Active
+S00901,O0226,Kavya Reddy,Outlet Manager,2025-10-29,Active
+S00902,O0226,Rahul Malhotra,Cashier,2026-03-04,Active
+S00903,O0226,Aisha Sharma,Chef,2025-01-30,Active
+S00904,O0226,Vikram Joshi,Delivery Executive,2025-05-23,Active
+S00905,O0227,Rahul Singh,Outlet Manager,2024-02-21,Active
+S00906,O0227,Rohit Malhotra,Chef,2025-10-01,Active
+S00907,O0227,Kavya Gupta,Service Staff,2023-02-21,Active
+S00908,O0227,Aditya Chauhan,Delivery Executive,2025-07-02,Active
+S00909,O0228,Aditya Malhotra,Kitchen Staff,2024-11-22,Active
+S00910,O0228,Rohit Verma,Chef,2025-06-24,Active
+S00911,O0228,Rahul Verma,Outlet Manager,2023-05-11,Active
+S00912,O0228,Aman Malhotra,Shift Manager,2025-10-07,Active
+S00913,O0229,Aisha Joshi,Service Staff,2026-02-01,Active
+S00914,O0229,Kavya Singh,Kitchen Staff,2025-11-01,Active
+S00915,O0229,Simran Patel,Senior Chef,2023-04-19,Active
+S00916,O0229,Aditya Joshi,Chef,2024-09-12,Active
+S00917,O0230,Kunal Chauhan,Cashier,2023-07-25,Active
+S00918,O0230,Vivaan Patel,Senior Chef,2024-03-03,Active
+S00919,O0230,Aman Mishra,Kitchen Staff,2025-05-09,Active
+S00920,O0230,Rahul Yadav,Senior Chef,2025-05-13,Active
+S00921,O0231,Kavya Mehta,Delivery Executive,2025-01-23,Active
+S00922,O0231,Aditya Reddy,Delivery Executive,2025-05-25,Active
+S00923,O0231,Neha Mehta,Kitchen Staff,2026-05-12,Active
+S00924,O0231,Aisha Verma,Delivery Executive,2024-05-30,Active
+S00925,O0232,Riya Malhotra,Service Staff,2024-05-09,Active
+S00926,O0232,Priya Yadav,Outlet Manager,2023-10-27,Active
+S00927,O0232,Kavya Khan,Shift Manager,2025-04-17,Active
+S00928,O0232,Aisha Joshi,Delivery Executive,2024-07-20,Active
+S00929,O0233,Kavya Malhotra,Senior Chef,2025-10-12,Active
+S00930,O0233,Vivaan Verma,Chef,2025-05-18,Active
+S00931,O0233,Arjun Sharma,Cashier,2026-07-22,Active
+S00932,O0233,Aman Chauhan,Senior Chef,2024-05-26,Active
+S00933,O0234,Vikram Sharma,Delivery Executive,2025-02-08,Active
+S00934,O0234,Ananya Yadav,Kitchen Staff,2026-01-07,Active
+S00935,O0234,Kunal Mishra,Outlet Manager,2026-05-08,Active
+S00936,O0234,Rohit Saxena,Chef,2024-02-17,Active
+S00937,O0235,Rahul Kumar,Senior Chef,2023-07-11,Active
+S00938,O0235,Sneha Singh,Delivery Executive,2025-01-24,Active
+S00939,O0235,Riya Kumar,Kitchen Staff,2026-04-03,Active
+S00940,O0235,Ananya Saxena,Delivery Executive,2024-02-05,Active
+S00941,O0236,Nisha Verma,Outlet Manager,2025-12-12,Active
+S00942,O0236,Aisha Khan,Outlet Manager,2025-05-05,Active
+S00943,O0236,Ananya Mehta,Service Staff,2023-07-04,Active
+S00944,O0236,Rahul Patel,Chef,2023-12-11,Active
+S00945,O0237,Kunal Mehta,Service Staff,2023-08-19,Active
+S00946,O0237,Aarav Mehta,Shift Manager,2024-04-17,Active
+S00947,O0237,Aarav Malhotra,Chef,2024-06-04,Active
+S00948,O0237,Priya Kumar,Shift Manager,2023-07-17,Active
+S00949,O0238,Vivaan Kumar,Delivery Executive,2025-10-03,Active
+S00950,O0238,Sneha Verma,Senior Chef,2024-10-01,Active
+S00951,O0238,Aditya Yadav,Outlet Manager,2023-10-13,Active
+S00952,O0238,Aditya Mehta,Service Staff,2023-09-29,Active
+S00953,O0239,Aditya Singh,Delivery Executive,2023-01-21,Active
+S00954,O0239,Mohit Chauhan,Chef,2026-07-09,Active
+S00955,O0239,Mohit Joshi,Shift Manager,2025-01-09,Active
+S00956,O0239,Pooja Chauhan,Shift Manager,2024-05-03,Active
+S00957,O0240,Rohit Singh,Delivery Executive,2026-02-24,Active
+S00958,O0240,Aarav Gupta,Service Staff,2025-03-22,Active
+S00959,O0240,Mohit Malhotra,Shift Manager,2024-03-05,Active
+S00960,O0240,Aditya Mishra,Outlet Manager,2024-04-27,Active
+S00961,O0241,Aarav Yadav,Kitchen Staff,2025-11-01,Active
+S00962,O0241,Aman Sharma,Chef,2024-02-09,Active
+S00963,O0241,Ananya Kumar,Delivery Executive,2024-08-25,Active
+S00964,O0241,Simran Chauhan,Outlet Manager,2024-03-16,Active
+S00965,O0242,Rohit Singh,Shift Manager,2025-05-06,Active
+S00966,O0242,Kunal Malhotra,Service Staff,2023-06-26,Active
+S00967,O0242,Pooja Malhotra,Delivery Executive,2024-09-23,Active
+S00968,O0242,Kavya Joshi,Service Staff,2026-04-02,Active
+S00969,O0243,Vivaan Mehta,Shift Manager,2024-10-11,Active
+S00970,O0243,Aarav Mishra,Service Staff,2026-05-05,Active
+S00971,O0243,Pooja Chauhan,Delivery Executive,2025-12-24,Active
+S00972,O0243,Rahul Patel,Kitchen Staff,2024-07-06,Active
+S00973,O0244,Kavya Khan,Kitchen Staff,2026-03-17,Active
+S00974,O0244,Neha Malhotra,Shift Manager,2023-07-01,Active
+S00975,O0244,Vikram Gupta,Delivery Executive,2024-11-10,Active
+S00976,O0244,Rahul Verma,Chef,2025-01-15,Active
+S00977,O0245,Sneha Saxena,Chef,2023-09-26,Active
+S00978,O0245,Aditya Singh,Kitchen Staff,2025-06-04,Active
+S00979,O0245,Aarav Patel,Outlet Manager,2024-11-17,Active
+S00980,O0245,Riya Sharma,Outlet Manager,2026-02-10,Active
+S00981,O0246,Aditya Reddy,Kitchen Staff,2024-01-26,Active
+S00982,O0246,Rahul Reddy,Service Staff,2023-05-01,Active
+S00983,O0246,Simran Sharma,Kitchen Staff,2025-06-03,Active
+S00984,O0246,Simran Joshi,Senior Chef,2024-07-28,Active
+S00985,O0247,Rahul Saxena,Chef,2025-02-03,Active
+S00986,O0247,Mohit Kumar,Chef,2025-09-02,Active
+S00987,O0247,Kavya Verma,Service Staff,2023-11-25,Active
+S00988,O0247,Vikram Sharma,Outlet Manager,2024-12-13,Active
+S00989,O0248,Ananya Patel,Service Staff,2023-01-30,Active
+S00990,O0248,Aisha Mehta,Senior Chef,2024-01-07,Active
+S00991,O0248,Aman Reddy,Outlet Manager,2025-04-29,Active
+S00992,O0248,Vikram Khan,Kitchen Staff,2023-07-08,Active
+S00993,O0249,Riya Sharma,Chef,2024-01-22,Active
+S00994,O0249,Sneha Sharma,Shift Manager,2025-01-14,Active
+S00995,O0249,Aarav Khan,Service Staff,2025-05-24,Active
+S00996,O0249,Nisha Yadav,Outlet Manager,2025-08-26,Active
+S00997,O0250,Nisha Khan,Chef,2024-07-05,Active
+S00998,O0250,Mohit Joshi,Shift Manager,2026-02-25,Active
+S00999,O0250,Vivaan Malhotra,Kitchen Staff,2026-01-23,Active
+S01000,O0250,Arjun Mishra,Outlet Manager,2026-02-06,Active
+S01001,O0251,Rohit Gupta,Kitchen Staff,2023-10-06,Active
+S01002,O0251,Arjun Mehta,Service Staff,2024-04-28,Active
+S01003,O0251,Aarav Verma,Senior Chef,2025-08-29,Active
+S01004,O0251,Aarav Malhotra,Shift Manager,2025-07-20,Active
+S01005,O0252,Aman Reddy,Delivery Executive,2026-04-18,Active
+S01006,O0252,Simran Saxena,Outlet Manager,2025-05-06,Active
+S01007,O0252,Vikram Yadav,Chef,2024-10-27,Active
+S01008,O0252,Ananya Sharma,Cashier,2024-04-30,Active
+S01009,O0253,Rohit Mehta,Service Staff,2025-08-27,Active
+S01010,O0253,Kavya Mishra,Kitchen Staff,2025-08-01,Active
+S01011,O0253,Pooja Khan,Outlet Manager,2023-11-04,Active
+S01012,O0253,Arjun Mehta,Service Staff,2025-12-13,Active
+S01013,O0254,Arjun Verma,Outlet Manager,2024-05-04,Active
+S01014,O0254,Simran Kumar,Service Staff,2023-01-29,Active
+S01015,O0254,Aarav Malhotra,Shift Manager,2025-06-18,Active
+S01016,O0254,Vikram Gupta,Outlet Manager,2025-02-08,Active
+S01017,O0255,Aman Singh,Senior Chef,2024-07-27,Active
+S01018,O0255,Priya Joshi,Service Staff,2023-10-31,Active
+S01019,O0255,Pooja Saxena,Outlet Manager,2023-01-29,Active
+S01020,O0255,Riya Verma,Shift Manager,2023-10-20,Active
+S01021,O0256,Nisha Malhotra,Chef,2025-06-18,Active
+S01022,O0256,Aisha Reddy,Kitchen Staff,2023-09-16,Active
+S01023,O0256,Aarav Mishra,Shift Manager,2025-10-16,Active
+S01024,O0256,Vivaan Yadav,Cashier,2025-10-22,Active
+S01025,O0257,Simran Patel,Outlet Manager,2023-03-23,Active
+S01026,O0257,Mohit Sharma,Outlet Manager,2023-05-24,Active
+S01027,O0257,Vivaan Joshi,Service Staff,2023-05-26,Active
+S01028,O0257,Ananya Khan,Senior Chef,2023-12-24,Active
+S01029,O0258,Aarav Mehta,Shift Manager,2025-04-24,Active
+S01030,O0258,Pooja Yadav,Shift Manager,2023-01-13,Active
+S01031,O0258,Arjun Verma,Chef,2026-07-18,Active
+S01032,O0258,Aarav Khan,Service Staff,2024-11-02,Active
+S01033,O0259,Sneha Khan,Outlet Manager,2026-06-06,Active
+S01034,O0259,Priya Malhotra,Cashier,2024-10-11,Active
+S01035,O0259,Riya Mehta,Cashier,2025-05-06,Active
+S01036,O0259,Priya Gupta,Delivery Executive,2024-08-07,Active
+S01037,O0260,Pooja Kumar,Shift Manager,2026-03-15,Active
+S01038,O0260,Riya Chauhan,Chef,2025-03-21,Active
+S01039,O0260,Aarav Patel,Delivery Executive,2023-06-06,Active
+S01040,O0260,Ananya Verma,Senior Chef,2024-04-07,Active
+S01041,O0261,Mohit Saxena,Kitchen Staff,2024-05-11,Active
+S01042,O0261,Aman Reddy,Service Staff,2024-03-31,Active
+S01043,O0261,Aisha Yadav,Senior Chef,2025-02-19,Active
+S01044,O0261,Kunal Yadav,Kitchen Staff,2024-03-20,Active
+S01045,O0262,Pooja Reddy,Service Staff,2023-09-10,Active
+S01046,O0262,Pooja Yadav,Delivery Executive,2025-12-16,Active
+S01047,O0262,Sneha Gupta,Delivery Executive,2026-01-06,Active
+S01048,O0262,Nisha Gupta,Service Staff,2023-02-18,Active
+S01049,O0263,Ananya Joshi,Shift Manager,2025-04-05,Active
+S01050,O0263,Arjun Chauhan,Chef,2023-10-28,Active
+S01051,O0263,Rahul Verma,Service Staff,2025-10-29,Active
+S01052,O0263,Mohit Gupta,Kitchen Staff,2023-12-13,Active
+S01053,O0264,Sneha Malhotra,Delivery Executive,2025-10-25,Active
+S01054,O0264,Vivaan Saxena,Cashier,2023-04-10,Active
+S01055,O0264,Aditya Patel,Shift Manager,2025-07-07,Active
+S01056,O0264,Rohit Saxena,Chef,2024-01-21,Active
+S01057,O0265,Arjun Mehta,Outlet Manager,2025-03-04,Active
+S01058,O0265,Sneha Mishra,Cashier,2024-11-06,Active
+S01059,O0265,Kavya Sharma,Outlet Manager,2023-12-03,Active
+S01060,O0265,Nisha Yadav,Cashier,2024-09-15,Active
+S01061,O0266,Ananya Reddy,Outlet Manager,2024-07-05,Active
+S01062,O0266,Priya Patel,Senior Chef,2026-05-09,Active
+S01063,O0266,Vikram Saxena,Chef,2024-08-22,Active
+S01064,O0266,Ananya Mishra,Outlet Manager,2023-06-21,Active
+S01065,O0267,Aarav Khan,Outlet Manager,2025-12-12,Active
+S01066,O0267,Aman Gupta,Delivery Executive,2023-07-11,Active
+S01067,O0267,Vivaan Kumar,Service Staff,2025-06-07,Active
+S01068,O0267,Simran Singh,Senior Chef,2023-09-07,Active
+S01069,O0268,Vivaan Singh,Shift Manager,2025-02-21,Active
+S01070,O0268,Pooja Kumar,Service Staff,2024-04-07,Active
+S01071,O0268,Riya Chauhan,Kitchen Staff,2025-12-19,Active
+S01072,O0268,Aman Patel,Delivery Executive,2023-10-07,Active
+S01073,O0269,Kunal Malhotra,Delivery Executive,2024-07-14,Active
+S01074,O0269,Aditya Malhotra,Service Staff,2025-04-11,Active
+S01075,O0269,Nisha Reddy,Kitchen Staff,2024-04-08,Active
+S01076,O0269,Aisha Khan,Outlet Manager,2025-07-28,Active
+S01077,O0270,Aisha Chauhan,Chef,2023-07-15,Active
+S01078,O0270,Priya Joshi,Cashier,2026-07-13,Active
+S01079,O0270,Rohit Verma,Chef,2024-01-31,Active
+S01080,O0270,Simran Yadav,Cashier,2023-08-11,Active
+S01081,O0271,Aisha Chauhan,Shift Manager,2024-04-23,Active
+S01082,O0271,Nisha Patel,Senior Chef,2025-02-03,Active
+S01083,O0271,Aisha Gupta,Kitchen Staff,2025-06-21,Active
+S01084,O0271,Neha Verma,Kitchen Staff,2023-02-04,Active
+S01085,O0272,Pooja Gupta,Senior Chef,2024-07-05,Active
+S01086,O0272,Aarav Saxena,Cashier,2025-06-09,Active
+S01087,O0272,Vikram Saxena,Cashier,2024-08-26,Active
+S01088,O0272,Aditya Sharma,Senior Chef,2026-04-20,Active
+S01089,O0273,Aisha Reddy,Service Staff,2023-05-05,Active
+S01090,O0273,Vikram Chauhan,Delivery Executive,2026-07-20,Active
+S01091,O0273,Vivaan Khan,Outlet Manager,2026-03-09,Active
+S01092,O0273,Riya Reddy,Shift Manager,2026-03-21,Active
+S01093,O0274,Aarav Mehta,Service Staff,2024-09-25,Active
+S01094,O0274,Mohit Sharma,Kitchen Staff,2025-03-21,Active
+S01095,O0274,Aisha Khan,Chef,2025-01-19,Active
+S01096,O0274,Simran Patel,Cashier,2023-06-23,Active
+S01097,O0275,Pooja Yadav,Kitchen Staff,2025-06-22,Active
+S01098,O0275,Nisha Khan,Kitchen Staff,2025-04-27,Active
+S01099,O0275,Sneha Singh,Shift Manager,2023-06-26,Active
+S01100,O0275,Aman Yadav,Senior Chef,2023-08-08,Active
+S01101,O0276,Mohit Malhotra,Chef,2026-05-16,Active
+S01102,O0276,Aarav Khan,Cashier,2026-03-10,Active
+S01103,O0276,Vivaan Khan,Outlet Manager,2025-06-21,Active
+S01104,O0276,Mohit Kumar,Outlet Manager,2026-01-28,Active
+S01105,O0277,Neha Mishra,Chef,2025-04-21,Active
+S01106,O0277,Priya Joshi,Kitchen Staff,2023-09-23,Active
+S01107,O0277,Mohit Malhotra,Shift Manager,2025-07-09,Active
+S01108,O0277,Vikram Sharma,Shift Manager,2026-04-22,Active
+S01109,O0278,Vikram Verma,Cashier,2023-01-09,Active
+S01110,O0278,Aarav Singh,Senior Chef,2024-11-12,Active
+S01111,O0278,Kavya Chauhan,Service Staff,2025-09-16,Active
+S01112,O0278,Riya Singh,Service Staff,2024-02-16,Active
+S01113,O0279,Simran Chauhan,Kitchen Staff,2025-01-05,Active
+S01114,O0279,Riya Sharma,Kitchen Staff,2025-11-05,Active
+S01115,O0279,Simran Verma,Shift Manager,2024-03-21,Active
+S01116,O0279,Ananya Malhotra,Chef,2024-01-31,Active
+S01117,O0280,Rohit Gupta,Outlet Manager,2024-06-21,Active
+S01118,O0280,Neha Mehta,Cashier,2025-07-05,Active
+S01119,O0280,Simran Singh,Outlet Manager,2026-01-13,Active
+S01120,O0280,Riya Mehta,Cashier,2026-03-14,Active
+S01121,O0281,Vivaan Mishra,Cashier,2023-09-07,Active
+S01122,O0281,Rahul Gupta,Chef,2024-01-19,Active
+S01123,O0281,Vikram Mehta,Chef,2023-03-05,Active
+S01124,O0281,Rahul Reddy,Delivery Executive,2025-11-30,Active
+S01125,O0282,Vivaan Malhotra,Delivery Executive,2025-04-21,Active
+S01126,O0282,Rahul Verma,Senior Chef,2023-12-12,Active
+S01127,O0282,Riya Patel,Outlet Manager,2023-05-15,Active
+S01128,O0282,Priya Khan,Delivery Executive,2025-03-25,Active
+S01129,O0283,Ananya Gupta,Chef,2025-12-30,Active
+S01130,O0283,Kavya Patel,Cashier,2024-07-26,Active
+S01131,O0283,Riya Mishra,Chef,2023-06-01,Active
+S01132,O0283,Aarav Mishra,Senior Chef,2025-04-25,Active
+S01133,O0284,Kavya Mehta,Service Staff,2025-05-19,Active
+S01134,O0284,Vivaan Gupta,Cashier,2024-11-10,Active
+S01135,O0284,Vikram Verma,Cashier,2025-06-02,Active
+S01136,O0284,Rahul Chauhan,Shift Manager,2025-06-22,Active
+S01137,O0285,Vivaan Mishra,Cashier,2026-02-24,Active
+S01138,O0285,Vivaan Chauhan,Kitchen Staff,2023-04-06,Active
+S01139,O0285,Aisha Singh,Senior Chef,2023-05-21,Active
+S01140,O0285,Priya Joshi,Delivery Executive,2023-10-24,Active
+S01141,O0286,Rohit Kumar,Senior Chef,2025-05-17,Active
+S01142,O0286,Vikram Yadav,Cashier,2025-06-28,Active
+S01143,O0286,Pooja Mishra,Service Staff,2026-01-25,Active
+S01144,O0286,Rohit Chauhan,Delivery Executive,2025-05-09,Active
+S01145,O0287,Aisha Sharma,Senior Chef,2024-06-10,Active
+S01146,O0287,Simran Chauhan,Shift Manager,2023-08-05,Active
+S01147,O0287,Arjun Malhotra,Chef,2025-08-22,Active
+S01148,O0287,Kavya Khan,Shift Manager,2023-02-14,Active
+S01149,O0288,Kunal Saxena,Outlet Manager,2024-11-28,Active
+S01150,O0288,Riya Patel,Kitchen Staff,2023-08-13,Active
+S01151,O0288,Ananya Mishra,Outlet Manager,2025-11-23,Active
+S01152,O0288,Rohit Reddy,Outlet Manager,2023-04-12,Active
+S01153,O0289,Kunal Mehta,Delivery Executive,2026-04-21,Active
+S01154,O0289,Simran Patel,Shift Manager,2026-05-01,Active
+S01155,O0289,Sneha Chauhan,Senior Chef,2025-01-07,Active
+S01156,O0289,Simran Saxena,Shift Manager,2026-03-18,Active
+S01157,O0290,Riya Saxena,Kitchen Staff,2024-02-14,Active
+S01158,O0290,Mohit Yadav,Service Staff,2023-07-12,Active
+S01159,O0290,Kunal Malhotra,Cashier,2023-06-15,Active
+S01160,O0290,Ananya Mehta,Service Staff,2025-08-08,Active
+S01161,O0291,Priya Saxena,Outlet Manager,2026-06-17,Active
+S01162,O0291,Mohit Kumar,Shift Manager,2025-03-06,Active
+S01163,O0291,Sneha Mehta,Senior Chef,2023-01-13,Active
+S01164,O0291,Rahul Khan,Senior Chef,2023-07-03,Active
+S01165,O0292,Simran Malhotra,Senior Chef,2026-01-01,Active
+S01166,O0292,Arjun Gupta,Shift Manager,2025-02-16,Active
+S01167,O0292,Vivaan Khan,Kitchen Staff,2026-02-23,Active
+S01168,O0292,Neha Malhotra,Service Staff,2026-04-30,Active
+S01169,O0293,Kavya Patel,Delivery Executive,2026-01-12,Active
+S01170,O0293,Priya Chauhan,Cashier,2025-11-23,Active
+S01171,O0293,Kavya Mishra,Chef,2026-02-18,Active
+S01172,O0293,Aisha Kumar,Outlet Manager,2025-07-10,Active
+S01173,O0294,Aditya Chauhan,Chef,2023-09-22,Active
+S01174,O0294,Arjun Mehta,Outlet Manager,2026-04-12,Active
+S01175,O0294,Vikram Mishra,Kitchen Staff,2024-10-07,Active
+S01176,O0294,Ananya Mehta,Kitchen Staff,2025-10-17,Active
+S01177,O0295,Kavya Mishra,Chef,2025-04-04,Active
+S01178,O0295,Neha Verma,Chef,2026-03-28,Active
+S01179,O0295,Mohit Sharma,Cashier,2024-10-18,Active
+S01180,O0295,Mohit Mehta,Outlet Manager,2025-01-30,Active
+S01181,O0296,Riya Patel,Outlet Manager,2023-06-02,Active
+S01182,O0296,Aman Verma,Chef,2023-12-14,Active
+S01183,O0296,Sneha Mehta,Delivery Executive,2023-10-03,Active
+S01184,O0296,Simran Gupta,Senior Chef,2025-09-28,Active
+S01185,O0297,Pooja Kumar,Senior Chef,2025-12-03,Active
+S01186,O0297,Vikram Sharma,Kitchen Staff,2023-08-20,Active
+S01187,O0297,Ananya Kumar,Shift Manager,2025-07-05,Active
+S01188,O0297,Priya Joshi,Delivery Executive,2023-07-23,Active
+S01189,O0298,Mohit Mehta,Chef,2023-03-15,Active
+S01190,O0298,Neha Khan,Shift Manager,2026-04-04,Active
+S01191,O0298,Simran Chauhan,Service Staff,2026-06-27,Active
+S01192,O0298,Aarav Singh,Outlet Manager,2023-04-01,Active
+S01193,O0299,Rohit Gupta,Delivery Executive,2024-01-15,Active
+S01194,O0299,Mohit Singh,Senior Chef,2026-02-02,Active
+S01195,O0299,Nisha Sharma,Cashier,2023-04-06,Active
+S01196,O0299,Aisha Malhotra,Shift Manager,2026-05-17,Active
+S01197,O0300,Pooja Gupta,Cashier,2023-06-06,Active
+S01198,O0300,Kunal Joshi,Delivery Executive,2024-02-22,Active
+S01199,O0300,Kavya Kumar,Shift Manager,2024-12-22,Active
+S01200,O0300,Rohit Mehta,Delivery Executive,2023-06-14,Active
+S01201,O0301,Sneha Mehta,Senior Chef,2025-08-24,Active
+S01202,O0301,Rahul Patel,Senior Chef,2025-12-31,Active
+S01203,O0301,Neha Khan,Delivery Executive,2025-03-20,Active
+S01204,O0301,Pooja Yadav,Outlet Manager,2025-12-21,Active
+S01205,O0302,Aman Patel,Cashier,2023-07-11,Active
+S01206,O0302,Aarav Sharma,Cashier,2023-12-25,Active
+S01207,O0302,Aman Yadav,Chef,2024-10-14,Active
+S01208,O0302,Kavya Singh,Shift Manager,2026-05-29,Active
+S01209,O0303,Ananya Khan,Kitchen Staff,2024-06-30,Active
+S01210,O0303,Aditya Verma,Chef,2025-03-01,Active
+S01211,O0303,Pooja Joshi,Outlet Manager,2023-02-27,Active
+S01212,O0303,Kavya Chauhan,Delivery Executive,2024-01-26,Active
+S01213,O0304,Neha Reddy,Service Staff,2023-07-02,Active
+S01214,O0304,Rohit Reddy,Outlet Manager,2024-06-22,Active
+S01215,O0304,Riya Gupta,Kitchen Staff,2024-09-12,Active
+S01216,O0304,Pooja Malhotra,Shift Manager,2026-04-19,Active
+S01217,O0305,Kunal Mishra,Delivery Executive,2023-05-06,Active
+S01218,O0305,Pooja Gupta,Kitchen Staff,2024-11-06,Active
+S01219,O0305,Vivaan Reddy,Kitchen Staff,2025-09-19,Active
+S01220,O0305,Vivaan Verma,Shift Manager,2025-12-03,Active
+S01221,O0306,Aisha Sharma,Senior Chef,2024-07-03,Active
+S01222,O0306,Ananya Saxena,Outlet Manager,2025-08-17,Active
+S01223,O0306,Kunal Saxena,Outlet Manager,2024-07-11,Active
+S01224,O0306,Kunal Yadav,Shift Manager,2023-12-22,Active
+S01225,O0307,Ananya Singh,Senior Chef,2025-02-21,Active
+S01226,O0307,Aisha Joshi,Outlet Manager,2023-11-20,Active
+S01227,O0307,Pooja Khan,Shift Manager,2023-09-26,Active
+S01228,O0307,Mohit Gupta,Service Staff,2024-09-04,Active
+S01229,O0308,Rohit Chauhan,Cashier,2025-12-16,Active
+S01230,O0308,Riya Kumar,Cashier,2024-10-14,Active
+S01231,O0308,Riya Khan,Kitchen Staff,2026-05-04,Active
+S01232,O0308,Pooja Khan,Outlet Manager,2023-01-26,Active
+S01233,O0309,Vivaan Saxena,Service Staff,2023-04-14,Active
+S01234,O0309,Aditya Khan,Cashier,2026-06-04,Active
+S01235,O0309,Kunal Malhotra,Senior Chef,2025-12-03,Active
+S01236,O0309,Rohit Yadav,Cashier,2023-05-19,Active
+S01237,O0310,Arjun Kumar,Delivery Executive,2024-01-30,Active
+S01238,O0310,Pooja Joshi,Chef,2025-05-03,Active
+S01239,O0310,Vikram Gupta,Outlet Manager,2025-10-27,Active
+S01240,O0310,Pooja Sharma,Senior Chef,2026-04-23,Active
+S01241,O0311,Riya Singh,Delivery Executive,2024-07-13,Active
+S01242,O0311,Arjun Mehta,Cashier,2025-02-02,Active
+S01243,O0311,Ananya Reddy,Chef,2026-01-24,Active
+S01244,O0311,Priya Gupta,Service Staff,2025-04-01,Active
+S01245,O0312,Sneha Sharma,Shift Manager,2025-03-31,Active
+S01246,O0312,Vikram Khan,Shift Manager,2025-10-18,Active
+S01247,O0312,Aarav Yadav,Cashier,2026-05-29,Active
+S01248,O0312,Pooja Saxena,Outlet Manager,2023-01-23,Active
+S01249,O0313,Aditya Singh,Service Staff,2026-05-22,Active
+S01250,O0313,Rahul Reddy,Senior Chef,2023-09-16,Active
+S01251,O0313,Sneha Verma,Cashier,2023-03-03,Active
+S01252,O0313,Kavya Malhotra,Chef,2024-10-18,Active
+S01253,O0314,Arjun Verma,Kitchen Staff,2025-09-28,Active
+S01254,O0314,Kavya Yadav,Service Staff,2025-12-02,Active
+S01255,O0314,Mohit Mishra,Service Staff,2026-01-07,Active
+S01256,O0314,Rahul Mishra,Service Staff,2023-01-16,Active
+S01257,O0315,Aman Malhotra,Chef,2025-05-30,Active
+S01258,O0315,Ananya Yadav,Delivery Executive,2025-07-10,Active
+S01259,O0315,Mohit Reddy,Kitchen Staff,2025-01-27,Active
+S01260,O0315,Nisha Yadav,Outlet Manager,2024-04-14,Active
+S01261,O0316,Mohit Joshi,Outlet Manager,2025-03-17,Active
+S01262,O0316,Rahul Yadav,Shift Manager,2024-10-20,Active
+S01263,O0316,Arjun Khan,Kitchen Staff,2025-05-10,Active
+S01264,O0316,Sneha Malhotra,Delivery Executive,2026-06-08,Active
+S01265,O0317,Aisha Mehta,Shift Manager,2023-12-25,Active
+S01266,O0317,Arjun Kumar,Delivery Executive,2024-09-08,Active
+S01267,O0317,Pooja Singh,Cashier,2024-10-29,Active
+S01268,O0317,Rohit Yadav,Outlet Manager,2025-03-02,Active
+S01269,O0318,Kunal Reddy,Kitchen Staff,2025-03-06,Active
+S01270,O0318,Rohit Malhotra,Senior Chef,2023-08-07,Active
+S01271,O0318,Sneha Patel,Shift Manager,2025-11-25,Active
+S01272,O0318,Ananya Malhotra,Chef,2023-09-27,Active
+S01273,O0319,Mohit Sharma,Shift Manager,2024-10-11,Active
+S01274,O0319,Priya Saxena,Delivery Executive,2024-07-08,Active
+S01275,O0319,Mohit Malhotra,Cashier,2026-05-28,Active
+S01276,O0319,Simran Malhotra,Service Staff,2023-07-03,Active
+S01277,O0320,Aditya Saxena,Delivery Executive,2024-09-24,Active
+S01278,O0320,Kunal Mehta,Outlet Manager,2025-01-08,Active
+S01279,O0320,Pooja Saxena,Delivery Executive,2025-12-09,Active
+S01280,O0320,Vikram Chauhan,Senior Chef,2024-04-18,Active
+S01281,O0321,Mohit Chauhan,Kitchen Staff,2025-08-14,Active
+S01282,O0321,Simran Sharma,Kitchen Staff,2023-09-12,Active
+S01283,O0321,Aman Malhotra,Delivery Executive,2025-01-23,Active
+S01284,O0321,Riya Mishra,Outlet Manager,2025-06-10,Active
+S01285,O0322,Kavya Chauhan,Chef,2023-12-22,Active
+S01286,O0322,Rohit Reddy,Service Staff,2023-09-30,Active
+S01287,O0322,Neha Khan,Service Staff,2025-09-29,Active
+S01288,O0322,Kavya Khan,Senior Chef,2023-10-22,Active
+S01289,O0323,Pooja Sharma,Cashier,2025-04-20,Active
+S01290,O0323,Nisha Mehta,Service Staff,2024-05-19,Active
+S01291,O0323,Simran Saxena,Outlet Manager,2023-10-17,Active
+S01292,O0323,Aisha Kumar,Service Staff,2023-10-22,Active
+S01293,O0324,Kavya Joshi,Kitchen Staff,2023-03-16,Active
+S01294,O0324,Mohit Singh,Outlet Manager,2023-08-28,Active
+S01295,O0324,Priya Mehta,Delivery Executive,2024-03-31,Active
+S01296,O0324,Rohit Chauhan,Cashier,2026-02-26,Active
+S01297,O0325,Vikram Mishra,Kitchen Staff,2026-05-14,Active
+S01298,O0325,Kunal Joshi,Outlet Manager,2025-11-14,Active
+S01299,O0325,Rohit Khan,Shift Manager,2025-02-11,Active
+S01300,O0325,Vivaan Kumar,Delivery Executive,2023-08-24,Active
+S01301,O0326,Simran Kumar,Outlet Manager,2023-07-08,Active
+S01302,O0326,Pooja Singh,Chef,2025-09-23,Active
+S01303,O0326,Ananya Mehta,Senior Chef,2025-10-03,Active
+S01304,O0326,Mohit Mishra,Outlet Manager,2025-06-24,Active
+S01305,O0327,Aditya Yadav,Kitchen Staff,2023-04-04,Active
+S01306,O0327,Rohit Joshi,Kitchen Staff,2025-08-03,Active
+S01307,O0327,Kunal Kumar,Outlet Manager,2024-02-09,Active
+S01308,O0327,Neha Chauhan,Chef,2025-09-02,Active
+S01309,O0328,Aisha Gupta,Delivery Executive,2023-03-21,Active
+S01310,O0328,Vikram Verma,Delivery Executive,2026-05-03,Active
+S01311,O0328,Ananya Patel,Chef,2025-05-10,Active
+S01312,O0328,Vivaan Joshi,Cashier,2023-12-15,Active
+S01313,O0329,Riya Singh,Service Staff,2025-03-03,Active
+S01314,O0329,Pooja Saxena,Shift Manager,2025-04-02,Active
+S01315,O0329,Vikram Malhotra,Delivery Executive,2024-10-20,Active
+S01316,O0329,Aisha Saxena,Senior Chef,2026-02-14,Active
+S01317,O0330,Aarav Sharma,Chef,2023-05-29,Active
+S01318,O0330,Sneha Sharma,Kitchen Staff,2025-06-19,Active
+S01319,O0330,Simran Gupta,Cashier,2024-04-18,Active
+S01320,O0330,Riya Chauhan,Shift Manager,2026-05-10,Active
+S01321,O0331,Arjun Chauhan,Senior Chef,2025-08-07,Active
+S01322,O0331,Pooja Verma,Kitchen Staff,2026-05-02,Active
+S01323,O0331,Aarav Gupta,Service Staff,2024-09-27,Active
+S01324,O0331,Aarav Mishra,Senior Chef,2023-10-17,Active
+S01325,O0332,Riya Malhotra,Outlet Manager,2025-11-12,Active
+S01326,O0332,Vikram Sharma,Shift Manager,2023-01-20,Active
+S01327,O0332,Vivaan Mehta,Senior Chef,2025-10-08,Active
+S01328,O0332,Nisha Joshi,Outlet Manager,2023-05-26,Active
+S01329,O0333,Riya Mehta,Kitchen Staff,2025-06-07,Active
+S01330,O0333,Aditya Khan,Outlet Manager,2023-03-29,Active
+S01331,O0333,Riya Saxena,Kitchen Staff,2024-08-26,Active
+S01332,O0333,Kavya Verma,Shift Manager,2023-10-02,Active
+S01333,O0334,Sneha Singh,Outlet Manager,2025-01-16,Active
+S01334,O0334,Rahul Mehta,Kitchen Staff,2025-04-02,Active
+S01335,O0334,Aditya Saxena,Service Staff,2023-09-28,Active
+S01336,O0334,Neha Verma,Senior Chef,2025-05-02,Active
+S01337,O0335,Arjun Khan,Service Staff,2025-09-07,Active
+S01338,O0335,Mohit Singh,Delivery Executive,2024-02-06,Active
+S01339,O0335,Simran Yadav,Shift Manager,2026-05-12,Active
+S01340,O0335,Rohit Singh,Kitchen Staff,2023-04-18,Active
+S01341,O0336,Kavya Kumar,Delivery Executive,2023-08-22,Active
+S01342,O0336,Riya Yadav,Shift Manager,2023-10-30,Active
+S01343,O0336,Arjun Kumar,Shift Manager,2024-03-13,Active
+S01344,O0336,Neha Verma,Shift Manager,2024-03-13,Active
+S01345,O0337,Rahul Singh,Shift Manager,2023-05-05,Active
+S01346,O0337,Vikram Sharma,Shift Manager,2023-09-29,Active
+S01347,O0337,Aman Verma,Senior Chef,2024-05-25,Active
+S01348,O0337,Vivaan Reddy,Shift Manager,2025-10-10,Active
+S01349,O0338,Aman Khan,Shift Manager,2023-05-11,Active
+S01350,O0338,Neha Reddy,Chef,2023-11-01,Active
+S01351,O0338,Neha Singh,Kitchen Staff,2025-08-30,Active
+S01352,O0338,Pooja Joshi,Kitchen Staff,2024-12-28,Active
+S01353,O0339,Neha Malhotra,Delivery Executive,2023-05-12,Active
+S01354,O0339,Aditya Saxena,Chef,2023-07-08,Active
+S01355,O0339,Aman Sharma,Cashier,2023-12-01,Active
+S01356,O0339,Nisha Reddy,Senior Chef,2023-05-27,Active
+S01357,O0340,Simran Saxena,Delivery Executive,2024-03-13,Active
+S01358,O0340,Aisha Gupta,Senior Chef,2025-11-01,Active
+S01359,O0340,Simran Chauhan,Shift Manager,2025-01-12,Active
+S01360,O0340,Neha Singh,Service Staff,2023-08-30,Active
+S01361,O0341,Rohit Patel,Senior Chef,2025-08-25,Active
+S01362,O0341,Ananya Saxena,Chef,2026-06-07,Active
+S01363,O0341,Aman Reddy,Shift Manager,2024-09-17,Active
+S01364,O0341,Rahul Mishra,Shift Manager,2023-07-21,Active
+S01365,O0342,Kavya Kumar,Shift Manager,2025-11-20,Active
+S01366,O0342,Kavya Joshi,Outlet Manager,2025-01-08,Active
+S01367,O0342,Nisha Sharma,Service Staff,2024-05-17,Active
+S01368,O0342,Nisha Kumar,Outlet Manager,2023-10-30,Active
+S01369,O0343,Vivaan Verma,Shift Manager,2023-07-12,Active
+S01370,O0343,Simran Yadav,Delivery Executive,2025-04-02,Active
+S01371,O0343,Aditya Chauhan,Outlet Manager,2025-11-13,Active
+S01372,O0343,Aditya Kumar,Kitchen Staff,2024-04-22,Active
+S01373,O0344,Arjun Mishra,Delivery Executive,2024-12-10,Active
+S01374,O0344,Pooja Yadav,Outlet Manager,2024-05-05,Active
+S01375,O0344,Kunal Saxena,Cashier,2025-10-08,Active
+S01376,O0344,Rahul Malhotra,Service Staff,2025-09-10,Active
+S01377,O0345,Ananya Mishra,Delivery Executive,2025-12-30,Active
+S01378,O0345,Aarav Verma,Outlet Manager,2026-06-26,Active
+S01379,O0345,Rahul Singh,Outlet Manager,2025-12-22,Active
+S01380,O0345,Kunal Mehta,Delivery Executive,2025-06-27,Active
+S01381,O0346,Riya Khan,Senior Chef,2025-01-29,Active
+S01382,O0346,Rahul Khan,Kitchen Staff,2023-02-19,Active
+S01383,O0346,Aditya Saxena,Kitchen Staff,2023-01-18,Active
+S01384,O0346,Arjun Reddy,Cashier,2026-01-02,Active
+S01385,O0347,Simran Singh,Service Staff,2024-11-08,Active
+S01386,O0347,Mohit Mishra,Senior Chef,2026-05-06,Active
+S01387,O0347,Arjun Malhotra,Cashier,2025-03-20,Active
+S01388,O0347,Vivaan Chauhan,Senior Chef,2025-02-14,Active
+S01389,O0348,Kunal Yadav,Service Staff,2025-06-04,Active
+S01390,O0348,Vivaan Kumar,Chef,2024-10-09,Active
+S01391,O0348,Nisha Patel,Service Staff,2023-12-13,Active
+S01392,O0348,Pooja Chauhan,Shift Manager,2025-01-11,Active
+S01393,O0349,Vivaan Mehta,Service Staff,2024-10-11,Active
+S01394,O0349,Simran Saxena,Shift Manager,2024-01-21,Active
+S01395,O0349,Pooja Malhotra,Chef,2025-07-10,Active
+S01396,O0349,Rahul Kumar,Chef,2023-04-21,Active
+S01397,O0350,Vivaan Malhotra,Service Staff,2026-01-14,Active
+S01398,O0350,Pooja Yadav,Chef,2024-02-24,Active
+S01399,O0350,Aarav Patel,Outlet Manager,2024-07-20,Active
+S01400,O0350,Nisha Chauhan,Chef,2023-11-09,Active
+S01401,O0351,Mohit Khan,Cashier,2024-06-24,Active
+S01402,O0351,Vikram Patel,Delivery Executive,2025-10-02,Active
+S01403,O0351,Ananya Yadav,Service Staff,2024-04-21,Active
+S01404,O0351,Aarav Khan,Delivery Executive,2024-12-14,Active
+S01405,O0352,Aarav Patel,Delivery Executive,2026-06-22,Active
+S01406,O0352,Vikram Chauhan,Shift Manager,2024-04-09,Active
+S01407,O0352,Simran Reddy,Shift Manager,2024-06-10,Active
+S01408,O0352,Aisha Mishra,Service Staff,2026-01-26,Active
+S01409,O0353,Simran Singh,Senior Chef,2023-12-07,Active
+S01410,O0353,Vivaan Kumar,Outlet Manager,2024-09-28,Active
+S01411,O0353,Ananya Mishra,Cashier,2023-01-23,Active
+S01412,O0353,Mohit Gupta,Senior Chef,2026-02-07,Active
+S01413,O0354,Rahul Singh,Delivery Executive,2023-06-06,Active
+S01414,O0354,Kunal Yadav,Kitchen Staff,2026-04-05,Active
+S01415,O0354,Vikram Saxena,Delivery Executive,2023-04-12,Active
+S01416,O0354,Kunal Saxena,Kitchen Staff,2026-06-14,Active
+S01417,O0355,Aisha Khan,Delivery Executive,2024-05-19,Active
+S01418,O0355,Aditya Verma,Service Staff,2024-01-29,Active
+S01419,O0355,Aisha Saxena,Delivery Executive,2024-01-13,Active
+S01420,O0355,Neha Sharma,Senior Chef,2025-02-26,Active
+S01421,O0356,Kunal Sharma,Shift Manager,2024-10-30,Active
+S01422,O0356,Aisha Singh,Shift Manager,2023-03-14,Active
+S01423,O0356,Ananya Malhotra,Outlet Manager,2024-09-25,Active
+S01424,O0356,Kunal Malhotra,Delivery Executive,2024-07-10,Active
+S01425,O0357,Riya Sharma,Senior Chef,2023-12-28,Active
+S01426,O0357,Kunal Yadav,Senior Chef,2026-03-01,Active
+S01427,O0357,Pooja Joshi,Kitchen Staff,2023-08-31,Active
+S01428,O0357,Mohit Patel,Cashier,2025-06-28,Active
+S01429,O0358,Priya Kumar,Shift Manager,2025-04-29,Active
+S01430,O0358,Priya Verma,Service Staff,2023-10-13,Active
+S01431,O0358,Ananya Yadav,Cashier,2024-08-05,Active
+S01432,O0358,Rahul Khan,Cashier,2025-07-03,Active
+S01433,O0359,Vivaan Gupta,Chef,2025-08-21,Active
+S01434,O0359,Riya Khan,Service Staff,2023-07-20,Active
+S01435,O0359,Ananya Mehta,Cashier,2024-09-16,Active
+S01436,O0359,Aman Patel,Senior Chef,2026-02-14,Active
+S01437,O0360,Simran Gupta,Outlet Manager,2026-03-21,Active
+S01438,O0360,Kavya Singh,Outlet Manager,2024-01-20,Active
+S01439,O0360,Kunal Verma,Outlet Manager,2025-10-26,Active
+S01440,O0360,Simran Saxena,Chef,2023-08-23,Active
+S01441,O0361,Priya Verma,Chef,2023-09-19,Active
+S01442,O0361,Kavya Malhotra,Senior Chef,2023-06-15,Active
+S01443,O0361,Aditya Mehta,Kitchen Staff,2024-05-23,Active
+S01444,O0361,Neha Singh,Cashier,2025-12-14,Active
+S01445,O0362,Pooja Malhotra,Service Staff,2023-09-20,Active
+S01446,O0362,Kunal Gupta,Cashier,2023-09-29,Active
+S01447,O0362,Ananya Mehta,Cashier,2025-08-09,Active
+S01448,O0362,Priya Mishra,Cashier,2024-03-03,Active
+S01449,O0363,Aarav Gupta,Service Staff,2024-04-25,Active
+S01450,O0363,Kavya Chauhan,Delivery Executive,2025-09-08,Active
+S01451,O0363,Vikram Gupta,Outlet Manager,2024-09-20,Active
+S01452,O0363,Rohit Singh,Cashier,2024-04-13,Active
+S01453,O0364,Rahul Patel,Senior Chef,2025-08-26,Active
+S01454,O0364,Aisha Yadav,Service Staff,2025-10-26,Active
+S01455,O0364,Riya Patel,Chef,2023-02-27,Active
+S01456,O0364,Kunal Mehta,Service Staff,2023-11-24,Active
+S01457,O0365,Arjun Malhotra,Service Staff,2026-02-17,Active
+S01458,O0365,Sneha Saxena,Senior Chef,2024-01-19,Active
+S01459,O0365,Aman Chauhan,Chef,2025-08-13,Active
+S01460,O0365,Ananya Verma,Cashier,2024-05-01,Active
+S01461,O0366,Kunal Khan,Chef,2024-12-18,Active
+S01462,O0366,Aman Mehta,Service Staff,2025-05-06,Active
+S01463,O0366,Rohit Patel,Chef,2026-03-22,Active
+S01464,O0366,Simran Khan,Delivery Executive,2024-09-19,Active
+S01465,O0367,Rohit Khan,Kitchen Staff,2023-01-14,Active
+S01466,O0367,Neha Singh,Delivery Executive,2024-06-12,Active
+S01467,O0367,Vivaan Joshi,Chef,2025-01-08,Active
+S01468,O0367,Priya Kumar,Outlet Manager,2023-04-10,Active
+S01469,O0368,Mohit Reddy,Chef,2025-07-28,Active
+S01470,O0368,Priya Mehta,Shift Manager,2026-02-09,Active
+S01471,O0368,Kunal Verma,Chef,2026-05-13,Active
+S01472,O0368,Vikram Singh,Outlet Manager,2024-04-28,Active
+S01473,O0369,Rahul Gupta,Kitchen Staff,2025-09-10,Active
+S01474,O0369,Rohit Sharma,Service Staff,2023-04-14,Active
+S01475,O0369,Vikram Verma,Service Staff,2023-03-03,Active
+S01476,O0369,Aisha Reddy,Chef,2023-09-21,Active
+S01477,O0370,Sneha Khan,Shift Manager,2025-10-17,Active
+S01478,O0370,Arjun Mishra,Cashier,2023-06-26,Active
+S01479,O0370,Rahul Mehta,Outlet Manager,2023-01-20,Active
+S01480,O0370,Nisha Patel,Chef,2025-10-07,Active
+S01481,O0371,Nisha Sharma,Outlet Manager,2024-11-15,Active
+S01482,O0371,Sneha Verma,Delivery Executive,2025-01-27,Active
+S01483,O0371,Vikram Saxena,Senior Chef,2023-08-19,Active
+S01484,O0371,Vikram Reddy,Shift Manager,2024-04-11,Active
+S01485,O0372,Aisha Gupta,Senior Chef,2023-09-23,Active
+S01486,O0372,Priya Mehta,Shift Manager,2025-02-06,Active
+S01487,O0372,Ananya Mishra,Chef,2023-07-16,Active
+S01488,O0372,Sneha Reddy,Kitchen Staff,2023-06-21,Active
+S01489,O0373,Aarav Reddy,Service Staff,2024-11-12,Active
+S01490,O0373,Nisha Patel,Senior Chef,2025-07-04,Active
+S01491,O0373,Aman Saxena,Delivery Executive,2023-08-14,Active
+S01492,O0373,Rohit Khan,Outlet Manager,2023-09-18,Active
+S01493,O0374,Kunal Verma,Cashier,2024-04-10,Active
+S01494,O0374,Simran Mehta,Chef,2024-02-16,Active
+S01495,O0374,Rohit Kumar,Outlet Manager,2023-05-09,Active
+S01496,O0374,Kavya Mehta,Shift Manager,2025-05-06,Active
+S01497,O0375,Vikram Kumar,Service Staff,2024-04-26,Active
+S01498,O0375,Neha Gupta,Shift Manager,2024-11-28,Active
+S01499,O0375,Nisha Singh,Delivery Executive,2024-07-22,Active
+S01500,O0375,Aman Khan,Cashier,2024-12-12,Active
+S01501,O0376,Aisha Verma,Service Staff,2024-03-17,Active
+S01502,O0376,Rahul Kumar,Shift Manager,2024-10-05,Active
+S01503,O0376,Aditya Joshi,Senior Chef,2026-02-16,Active
+S01504,O0376,Pooja Saxena,Shift Manager,2023-08-19,Active
+S01505,O0377,Neha Sharma,Outlet Manager,2023-01-15,Active
+S01506,O0377,Arjun Gupta,Service Staff,2023-03-01,Active
+S01507,O0377,Priya Mehta,Senior Chef,2024-03-06,Active
+S01508,O0377,Rohit Chauhan,Kitchen Staff,2026-02-09,Active
+S01509,O0378,Pooja Verma,Delivery Executive,2025-12-27,Active
+S01510,O0378,Neha Reddy,Cashier,2024-12-04,Active
+S01511,O0378,Aarav Kumar,Cashier,2026-01-21,Active
+S01512,O0378,Riya Malhotra,Delivery Executive,2025-06-21,Active
+S01513,O0379,Simran Patel,Chef,2023-02-26,Active
+S01514,O0379,Nisha Mishra,Service Staff,2024-08-04,Active
+S01515,O0379,Aman Singh,Delivery Executive,2023-03-22,Active
+S01516,O0379,Neha Saxena,Outlet Manager,2023-01-22,Active
+S01517,O0380,Nisha Sharma,Delivery Executive,2025-06-22,Active
+S01518,O0380,Pooja Singh,Delivery Executive,2025-01-09,Active
+S01519,O0380,Vikram Malhotra,Senior Chef,2025-10-04,Active
+S01520,O0380,Aarav Reddy,Service Staff,2024-07-09,Active
+S01521,O0381,Priya Chauhan,Chef,2023-08-03,Active
+S01522,O0381,Pooja Mehta,Delivery Executive,2024-11-14,Active
+S01523,O0381,Priya Sharma,Kitchen Staff,2023-08-11,Active
+S01524,O0381,Kavya Mishra,Senior Chef,2024-08-31,Active
+S01525,O0382,Aman Mehta,Delivery Executive,2024-09-13,Active
+S01526,O0382,Aman Verma,Delivery Executive,2024-04-28,Active
+S01527,O0382,Pooja Chauhan,Kitchen Staff,2023-07-22,Active
+S01528,O0382,Kunal Verma,Cashier,2024-11-08,Active
+S01529,O0383,Kunal Mehta,Senior Chef,2026-07-07,Active
+S01530,O0383,Vivaan Saxena,Cashier,2025-08-31,Active
+S01531,O0383,Rohit Patel,Senior Chef,2025-05-07,Active
+S01532,O0383,Arjun Reddy,Service Staff,2023-04-05,Active
+S01533,O0384,Aditya Saxena,Delivery Executive,2024-01-22,Active
+S01534,O0384,Aman Khan,Shift Manager,2023-12-17,Active
+S01535,O0384,Vikram Gupta,Chef,2025-03-10,Active
+S01536,O0384,Neha Patel,Kitchen Staff,2024-01-23,Active
+S01537,O0385,Riya Mehta,Senior Chef,2025-09-26,Active
+S01538,O0385,Neha Saxena,Service Staff,2024-02-07,Active
+S01539,O0385,Priya Yadav,Kitchen Staff,2026-03-06,Active
+S01540,O0385,Simran Gupta,Outlet Manager,2026-01-21,Active
+S01541,O0386,Neha Singh,Outlet Manager,2024-04-25,Active
+S01542,O0386,Riya Singh,Shift Manager,2025-11-14,Active
+S01543,O0386,Aarav Sharma,Service Staff,2025-10-11,Active
+S01544,O0386,Rahul Gupta,Shift Manager,2023-04-19,Active
+S01545,O0387,Riya Kumar,Kitchen Staff,2025-02-12,Active
+S01546,O0387,Kavya Chauhan,Cashier,2024-12-12,Active
+S01547,O0387,Aditya Mehta,Shift Manager,2025-07-01,Active
+S01548,O0387,Priya Yadav,Senior Chef,2025-09-15,Active
+S01549,O0388,Rohit Verma,Shift Manager,2025-12-23,Active
+S01550,O0388,Simran Joshi,Outlet Manager,2025-10-20,Active
+S01551,O0388,Aarav Mishra,Shift Manager,2025-11-17,Active
+S01552,O0388,Vivaan Mehta,Cashier,2024-06-29,Active
+S01553,O0389,Priya Patel,Cashier,2023-10-04,Active
+S01554,O0389,Priya Malhotra,Service Staff,2024-06-23,Active
+S01555,O0389,Rohit Malhotra,Shift Manager,2024-03-08,Active
+S01556,O0389,Aditya Kumar,Cashier,2025-07-20,Active
+S01557,O0390,Pooja Saxena,Service Staff,2024-08-21,Active
+S01558,O0390,Kavya Mehta,Chef,2023-04-19,Active
+S01559,O0390,Sneha Yadav,Delivery Executive,2024-09-01,Active
+S01560,O0390,Vivaan Yadav,Kitchen Staff,2023-01-24,Active
+S01561,O0391,Priya Singh,Senior Chef,2023-09-29,Active
+S01562,O0391,Riya Mehta,Service Staff,2024-10-09,Active
+S01563,O0391,Ananya Verma,Kitchen Staff,2024-04-05,Active
+S01564,O0391,Aman Khan,Delivery Executive,2024-04-27,Active
+S01565,O0392,Arjun Verma,Service Staff,2023-06-21,Active
+S01566,O0392,Rohit Gupta,Chef,2025-01-04,Active
+S01567,O0392,Kavya Chauhan,Outlet Manager,2025-12-06,Active
+S01568,O0392,Sneha Khan,Delivery Executive,2023-08-11,Active
+S01569,O0393,Vivaan Chauhan,Delivery Executive,2026-07-17,Active
+S01570,O0393,Priya Khan,Shift Manager,2023-08-25,Active
+S01571,O0393,Ananya Khan,Service Staff,2026-01-27,Active
+S01572,O0393,Rohit Singh,Delivery Executive,2024-07-03,Active
+S01573,O0394,Aditya Mehta,Shift Manager,2026-06-03,Active
+S01574,O0394,Mohit Verma,Outlet Manager,2023-09-04,Active
+S01575,O0394,Aman Joshi,Senior Chef,2024-03-20,Active
+S01576,O0394,Rahul Malhotra,Shift Manager,2023-10-03,Active
+S01577,O0395,Vikram Reddy,Delivery Executive,2024-10-09,Active
+S01578,O0395,Aarav Yadav,Service Staff,2026-03-16,Active
+S01579,O0395,Priya Joshi,Kitchen Staff,2024-07-08,Active
+S01580,O0395,Pooja Joshi,Shift Manager,2025-05-15,Active
+S01581,O0396,Aditya Sharma,Kitchen Staff,2025-07-21,Active
+S01582,O0396,Ananya Yadav,Shift Manager,2025-05-15,Active
+S01583,O0396,Aisha Gupta,Outlet Manager,2024-02-23,Active
+S01584,O0396,Arjun Saxena,Service Staff,2025-02-19,Active
+S01585,O0397,Ananya Khan,Chef,2024-05-20,Active
+S01586,O0397,Pooja Kumar,Service Staff,2026-06-24,Active
+S01587,O0397,Rahul Reddy,Outlet Manager,2023-05-04,Active
+S01588,O0397,Simran Joshi,Delivery Executive,2026-01-30,Active
+S01589,O0398,Vivaan Reddy,Shift Manager,2026-02-24,Active
+S01590,O0398,Vivaan Singh,Senior Chef,2025-10-09,Active
+S01591,O0398,Kunal Mehta,Chef,2023-09-11,Active
+S01592,O0398,Kavya Khan,Cashier,2024-06-25,Active
+S01593,O0399,Riya Singh,Outlet Manager,2023-04-05,Active
+S01594,O0399,Ananya Kumar,Kitchen Staff,2025-02-24,Active
+S01595,O0399,Aman Mishra,Senior Chef,2025-06-14,Active
+S01596,O0399,Riya Malhotra,Chef,2023-10-23,Active
+S01597,O0400,Riya Kumar,Shift Manager,2023-12-16,Active
+S01598,O0400,Aisha Saxena,Senior Chef,2023-08-09,Active
+S01599,O0400,Aarav Singh,Service Staff,2026-03-07,Active
+S01600,O0400,Kunal Reddy,Service Staff,2024-12-10,Active
+S01601,O0401,Mohit Gupta,Delivery Executive,2023-01-28,Active
+S01602,O0401,Pooja Singh,Delivery Executive,2024-06-25,Active
+S01603,O0401,Aisha Patel,Delivery Executive,2026-01-28,Active
+S01604,O0401,Vivaan Reddy,Chef,2025-05-31,Active
+S01605,O0402,Kavya Gupta,Service Staff,2026-06-11,Active
+S01606,O0402,Neha Reddy,Delivery Executive,2023-02-14,Active
+S01607,O0402,Mohit Patel,Senior Chef,2023-09-08,Active
+S01608,O0402,Vivaan Chauhan,Chef,2025-07-24,Active
+S01609,O0403,Aditya Sharma,Shift Manager,2025-02-11,Active
+S01610,O0403,Vikram Malhotra,Shift Manager,2024-08-20,Active
+S01611,O0403,Pooja Mehta,Outlet Manager,2026-04-18,Active
+S01612,O0403,Pooja Gupta,Delivery Executive,2025-08-10,Active
+S01613,O0404,Aarav Kumar,Delivery Executive,2025-05-21,Active
+S01614,O0404,Simran Yadav,Chef,2023-08-02,Active
+S01615,O0404,Kunal Mishra,Delivery Executive,2025-06-28,Active
+S01616,O0404,Vikram Mehta,Shift Manager,2025-06-18,Active
+S01617,O0405,Vikram Reddy,Chef,2025-09-17,Active
+S01618,O0405,Aarav Verma,Senior Chef,2025-02-22,Active
+S01619,O0405,Arjun Sharma,Service Staff,2024-05-08,Active
+S01620,O0405,Aditya Joshi,Outlet Manager,2026-06-10,Active
+S01621,O0406,Aisha Saxena,Service Staff,2023-07-12,Active
+S01622,O0406,Mohit Patel,Chef,2026-06-06,Active
+S01623,O0406,Rohit Singh,Service Staff,2023-09-27,Active
+S01624,O0406,Simran Kumar,Service Staff,2024-07-09,Active
+S01625,O0407,Pooja Yadav,Outlet Manager,2023-01-22,Active
+S01626,O0407,Aman Gupta,Cashier,2025-03-11,Active
+S01627,O0407,Kunal Chauhan,Senior Chef,2026-03-20,Active
+S01628,O0407,Vivaan Reddy,Shift Manager,2026-06-18,Active
+S01629,O0408,Simran Singh,Chef,2024-06-16,Active
+S01630,O0408,Aarav Verma,Chef,2025-03-29,Active
+S01631,O0408,Simran Khan,Senior Chef,2025-07-06,Active
+S01632,O0408,Rohit Khan,Shift Manager,2025-06-01,Active
+S01633,O0409,Sneha Malhotra,Cashier,2025-04-07,Active
+S01634,O0409,Vivaan Yadav,Shift Manager,2024-03-12,Active
+S01635,O0409,Aisha Sharma,Kitchen Staff,2023-03-27,Active
+S01636,O0409,Mohit Singh,Cashier,2025-04-22,Active
+S01637,O0410,Aisha Mehta,Senior Chef,2025-09-22,Active
+S01638,O0410,Aarav Yadav,Kitchen Staff,2026-03-03,Active
+S01639,O0410,Aditya Verma,Outlet Manager,2024-09-16,Active
+S01640,O0410,Neha Verma,Shift Manager,2024-12-30,Active
+S01641,O0411,Simran Mishra,Cashier,2025-12-21,Active
+S01642,O0411,Mohit Kumar,Outlet Manager,2025-04-29,Active
+S01643,O0411,Arjun Reddy,Senior Chef,2023-10-05,Active
+S01644,O0411,Kunal Malhotra,Delivery Executive,2024-08-06,Active
+S01645,O0412,Aarav Chauhan,Chef,2023-05-02,Active
+S01646,O0412,Kavya Mehta,Shift Manager,2024-03-17,Active
+S01647,O0412,Mohit Gupta,Senior Chef,2024-06-28,Active
+S01648,O0412,Priya Malhotra,Shift Manager,2025-02-04,Active
+S01649,O0413,Aditya Malhotra,Delivery Executive,2025-11-22,Active
+S01650,O0413,Vivaan Yadav,Delivery Executive,2026-02-25,Active
+S01651,O0413,Kavya Singh,Service Staff,2025-12-20,Active
+S01652,O0413,Kavya Sharma,Outlet Manager,2025-02-07,Active
+S01653,O0414,Nisha Verma,Outlet Manager,2023-05-14,Active
+S01654,O0414,Neha Sharma,Kitchen Staff,2026-06-23,Active
+S01655,O0414,Vikram Mishra,Kitchen Staff,2026-04-17,Active
+S01656,O0414,Aisha Singh,Cashier,2024-03-23,Active
+S01657,O0415,Rohit Chauhan,Delivery Executive,2023-09-14,Active
+S01658,O0415,Mohit Sharma,Kitchen Staff,2024-09-30,Active
+S01659,O0415,Arjun Kumar,Delivery Executive,2023-12-16,Active
+S01660,O0415,Pooja Mishra,Senior Chef,2024-10-30,Active
+S01661,O0416,Kavya Chauhan,Service Staff,2025-08-28,Active
+S01662,O0416,Rahul Sharma,Outlet Manager,2026-04-09,Active
+S01663,O0416,Arjun Mehta,Senior Chef,2024-04-09,Active
+S01664,O0416,Pooja Malhotra,Senior Chef,2024-10-14,Active
+S01665,O0417,Aditya Kumar,Kitchen Staff,2023-08-25,Active
+S01666,O0417,Aarav Mehta,Kitchen Staff,2023-04-23,Active
+S01667,O0417,Rahul Singh,Cashier,2026-02-15,Active
+S01668,O0417,Vivaan Kumar,Cashier,2023-12-05,Active
+S01669,O0418,Priya Khan,Kitchen Staff,2024-08-21,Active
+S01670,O0418,Simran Kumar,Outlet Manager,2024-01-15,Active
+S01671,O0418,Sneha Mehta,Senior Chef,2025-11-21,Active
+S01672,O0418,Riya Singh,Cashier,2026-04-08,Active
+S01673,O0419,Nisha Singh,Outlet Manager,2024-10-27,Active
+S01674,O0419,Nisha Chauhan,Shift Manager,2026-05-17,Active
+S01675,O0419,Pooja Malhotra,Chef,2025-02-18,Active
+S01676,O0419,Neha Patel,Shift Manager,2026-05-14,Active
+S01677,O0420,Ananya Singh,Senior Chef,2024-05-27,Active
+S01678,O0420,Aisha Malhotra,Senior Chef,2026-06-20,Active
+S01679,O0420,Simran Mishra,Shift Manager,2025-05-16,Active
+S01680,O0420,Rahul Malhotra,Shift Manager,2025-01-28,Active
+S01681,O0421,Rohit Gupta,Outlet Manager,2024-12-26,Active
+S01682,O0421,Aditya Malhotra,Shift Manager,2026-03-23,Active
+S01683,O0421,Priya Saxena,Senior Chef,2025-01-15,Active
+S01684,O0421,Priya Khan,Kitchen Staff,2025-06-19,Active
+S01685,O0422,Rahul Kumar,Senior Chef,2025-10-06,Active
+S01686,O0422,Aman Yadav,Delivery Executive,2023-02-25,Active
+S01687,O0422,Nisha Saxena,Shift Manager,2024-10-21,Active
+S01688,O0422,Vivaan Khan,Outlet Manager,2023-03-19,Active
+S01689,O0423,Aarav Malhotra,Outlet Manager,2024-03-27,Active
+S01690,O0423,Kunal Saxena,Kitchen Staff,2025-10-08,Active
+S01691,O0423,Vivaan Mishra,Outlet Manager,2024-02-22,Active
+S01692,O0423,Aarav Reddy,Kitchen Staff,2023-05-08,Active
+S01693,O0424,Nisha Saxena,Kitchen Staff,2025-07-13,Active
+S01694,O0424,Mohit Singh,Senior Chef,2023-12-10,Active
+S01695,O0424,Mohit Joshi,Cashier,2025-11-18,Active
+S01696,O0424,Aarav Saxena,Kitchen Staff,2024-02-16,Active
+S01697,O0425,Arjun Gupta,Kitchen Staff,2024-02-01,Active
+S01698,O0425,Aisha Saxena,Delivery Executive,2023-01-19,Active
+S01699,O0425,Kavya Chauhan,Outlet Manager,2023-06-12,Active
+S01700,O0425,Rahul Mishra,Kitchen Staff,2024-12-31,Active
+S01701,O0426,Nisha Mehta,Outlet Manager,2025-12-14,Active
+S01702,O0426,Aman Chauhan,Outlet Manager,2024-02-01,Active
+S01703,O0426,Nisha Chauhan,Outlet Manager,2025-05-25,Active
+S01704,O0426,Rahul Joshi,Chef,2023-08-07,Active
+S01705,O0427,Rohit Khan,Senior Chef,2026-01-09,Active
+S01706,O0427,Pooja Patel,Kitchen Staff,2023-02-19,Active
+S01707,O0427,Kavya Joshi,Shift Manager,2025-09-09,Active
+S01708,O0427,Kunal Singh,Outlet Manager,2026-05-10,Active
+S01709,O0428,Mohit Mishra,Kitchen Staff,2024-11-07,Active
+S01710,O0428,Simran Yadav,Kitchen Staff,2024-11-17,Active
+S01711,O0428,Aarav Sharma,Chef,2025-12-30,Active
+S01712,O0428,Riya Kumar,Service Staff,2025-03-06,Active
+S01713,O0429,Riya Verma,Outlet Manager,2023-02-25,Active
+S01714,O0429,Simran Sharma,Shift Manager,2024-09-05,Active
+S01715,O0429,Neha Chauhan,Kitchen Staff,2023-09-10,Active
+S01716,O0429,Kavya Sharma,Kitchen Staff,2026-03-22,Active
+S01717,O0430,Vivaan Chauhan,Outlet Manager,2026-05-18,Active
+S01718,O0430,Pooja Gupta,Outlet Manager,2025-02-16,Active
+S01719,O0430,Priya Singh,Shift Manager,2026-02-14,Active
+S01720,O0430,Neha Gupta,Chef,2024-04-07,Active
+S01721,O0431,Neha Khan,Shift Manager,2026-02-04,Active
+S01722,O0431,Kunal Mishra,Outlet Manager,2024-04-18,Active
+S01723,O0431,Aditya Reddy,Kitchen Staff,2024-06-21,Active
+S01724,O0431,Sneha Saxena,Shift Manager,2024-09-11,Active
+S01725,O0432,Aarav Gupta,Service Staff,2024-01-02,Active
+S01726,O0432,Aarav Joshi,Cashier,2026-04-29,Active
+S01727,O0432,Kavya Malhotra,Shift Manager,2025-01-12,Active
+S01728,O0432,Aman Malhotra,Cashier,2023-07-18,Active
+S01729,O0433,Aarav Sharma,Outlet Manager,2024-09-25,Active
+S01730,O0433,Aarav Saxena,Delivery Executive,2023-01-25,Active
+S01731,O0433,Kunal Verma,Service Staff,2025-07-05,Active
+S01732,O0433,Sneha Verma,Chef,2023-08-16,Active
+S01733,O0434,Vikram Mehta,Outlet Manager,2025-12-12,Active
+S01734,O0434,Kavya Joshi,Senior Chef,2024-10-18,Active
+S01735,O0434,Simran Mishra,Outlet Manager,2024-02-20,Active
+S01736,O0434,Kavya Patel,Senior Chef,2023-03-01,Active
+S01737,O0435,Kunal Kumar,Senior Chef,2024-06-15,Active
+S01738,O0435,Kunal Saxena,Delivery Executive,2024-08-20,Active
+S01739,O0435,Priya Khan,Senior Chef,2025-05-25,Active
+S01740,O0435,Kavya Khan,Chef,2023-03-02,Active
+S01741,O0436,Riya Mehta,Shift Manager,2023-04-30,Active
+S01742,O0436,Riya Mishra,Cashier,2024-04-17,Active
+S01743,O0436,Simran Malhotra,Service Staff,2026-05-21,Active
+S01744,O0436,Kavya Chauhan,Cashier,2024-04-23,Active
+S01745,O0437,Ananya Sharma,Senior Chef,2026-04-24,Active
+S01746,O0437,Kunal Gupta,Cashier,2026-06-29,Active
+S01747,O0437,Rahul Mehta,Service Staff,2026-02-01,Active
+S01748,O0437,Ananya Mehta,Senior Chef,2024-05-22,Active
+S01749,O0438,Aisha Joshi,Delivery Executive,2024-08-01,Active
+S01750,O0438,Simran Mehta,Outlet Manager,2024-09-12,Active
+S01751,O0438,Mohit Malhotra,Service Staff,2024-12-25,Active
+S01752,O0438,Kunal Joshi,Shift Manager,2025-12-02,Active
+S01753,O0439,Rohit Singh,Delivery Executive,2024-09-04,Active
+S01754,O0439,Nisha Reddy,Service Staff,2025-05-21,Active
+S01755,O0439,Aditya Reddy,Chef,2026-01-11,Active
+S01756,O0439,Ananya Malhotra,Chef,2026-06-03,Active
+S01757,O0440,Nisha Khan,Cashier,2025-08-10,Active
+S01758,O0440,Neha Mishra,Cashier,2023-12-29,Active
+S01759,O0440,Aisha Mishra,Shift Manager,2024-08-05,Active
+S01760,O0440,Aisha Mehta,Kitchen Staff,2023-09-04,Active
+S01761,O0441,Priya Malhotra,Senior Chef,2025-11-23,Active
+S01762,O0441,Ananya Sharma,Cashier,2025-03-14,Active
+S01763,O0441,Arjun Khan,Outlet Manager,2026-05-31,Active
+S01764,O0441,Vikram Singh,Shift Manager,2024-04-28,Active
+S01765,O0442,Arjun Sharma,Delivery Executive,2025-08-12,Active
+S01766,O0442,Aman Malhotra,Senior Chef,2023-02-04,Active
+S01767,O0442,Aisha Gupta,Kitchen Staff,2024-11-21,Active
+S01768,O0442,Sneha Singh,Service Staff,2024-09-08,Active
+S01769,O0443,Simran Reddy,Chef,2024-07-27,Active
+S01770,O0443,Riya Kumar,Shift Manager,2025-04-10,Active
+S01771,O0443,Riya Mehta,Delivery Executive,2025-01-03,Active
+S01772,O0443,Simran Malhotra,Outlet Manager,2026-07-11,Active
+S01773,O0444,Arjun Joshi,Chef,2024-05-08,Active
+S01774,O0444,Aditya Verma,Service Staff,2025-04-03,Active
+S01775,O0444,Sneha Mehta,Service Staff,2025-01-05,Active
+S01776,O0444,Riya Mishra,Chef,2024-01-17,Active
+S01777,O0445,Neha Mehta,Delivery Executive,2024-08-29,Active
+S01778,O0445,Priya Verma,Delivery Executive,2024-01-28,Active
+S01779,O0445,Simran Chauhan,Service Staff,2025-07-22,Active
+S01780,O0445,Kavya Kumar,Chef,2023-10-20,Active
+S01781,O0446,Kavya Mishra,Kitchen Staff,2024-08-11,Active
+S01782,O0446,Neha Patel,Kitchen Staff,2026-07-07,Active
+S01783,O0446,Kunal Mehta,Shift Manager,2025-02-26,Active
+S01784,O0446,Aisha Saxena,Cashier,2024-09-28,Active
+S01785,O0447,Simran Patel,Senior Chef,2026-02-07,Active
+S01786,O0447,Priya Chauhan,Service Staff,2024-06-09,Active
+S01787,O0447,Mohit Patel,Delivery Executive,2023-01-09,Active
+S01788,O0447,Neha Chauhan,Kitchen Staff,2024-09-04,Active
+S01789,O0448,Kavya Joshi,Delivery Executive,2025-06-28,Active
+S01790,O0448,Vivaan Reddy,Senior Chef,2023-09-01,Active
+S01791,O0448,Neha Patel,Delivery Executive,2026-03-14,Active
+S01792,O0448,Aarav Patel,Shift Manager,2024-02-05,Active
+S01793,O0449,Nisha Sharma,Delivery Executive,2024-07-12,Active
+S01794,O0449,Vivaan Chauhan,Chef,2025-11-30,Active
+S01795,O0449,Aman Joshi,Outlet Manager,2024-05-29,Active
+S01796,O0449,Ananya Yadav,Outlet Manager,2026-04-21,Active
+S01797,O0450,Mohit Reddy,Delivery Executive,2023-08-14,Active
+S01798,O0450,Rahul Sharma,Cashier,2025-08-13,Active
+S01799,O0450,Aditya Chauhan,Chef,2026-05-24,Active
+S01800,O0450,Simran Khan,Shift Manager,2025-07-17,Active
+S01801,O0451,Pooja Mishra,Service Staff,2024-02-21,Active
+S01802,O0451,Priya Patel,Kitchen Staff,2023-02-09,Active
+S01803,O0451,Priya Chauhan,Outlet Manager,2025-04-18,Active
+S01804,O0451,Neha Kumar,Shift Manager,2024-12-19,Active
+S01805,O0452,Riya Kumar,Service Staff,2026-04-17,Active
+S01806,O0452,Priya Patel,Delivery Executive,2026-07-13,Active
+S01807,O0452,Kavya Mehta,Service Staff,2025-05-03,Active
+S01808,O0452,Neha Yadav,Chef,2024-12-07,Active
+S01809,O0453,Sneha Patel,Shift Manager,2025-05-01,Active
+S01810,O0453,Kavya Gupta,Outlet Manager,2024-03-31,Active
+S01811,O0453,Vivaan Khan,Service Staff,2024-04-23,Active
+S01812,O0453,Aditya Sharma,Delivery Executive,2024-06-19,Active
+S01813,O0454,Rohit Reddy,Service Staff,2023-07-01,Active
+S01814,O0454,Rahul Mishra,Shift Manager,2024-12-11,Active
+S01815,O0454,Riya Sharma,Outlet Manager,2026-05-18,Active
+S01816,O0454,Vikram Mehta,Service Staff,2024-03-30,Active
+S01817,O0455,Aarav Mishra,Outlet Manager,2024-01-30,Active
+S01818,O0455,Aisha Mishra,Outlet Manager,2023-01-05,Active
+S01819,O0455,Mohit Joshi,Cashier,2025-12-09,Active
+S01820,O0455,Nisha Kumar,Chef,2023-12-04,Active
+S01821,O0456,Vivaan Yadav,Cashier,2023-11-16,Active
+S01822,O0456,Neha Patel,Shift Manager,2026-01-20,Active
+S01823,O0456,Aman Khan,Cashier,2023-08-01,Active
+S01824,O0456,Nisha Yadav,Shift Manager,2024-10-11,Active
+S01825,O0457,Priya Sharma,Chef,2023-07-11,Active
+S01826,O0457,Nisha Singh,Cashier,2024-07-01,Active
+S01827,O0457,Vivaan Kumar,Chef,2026-06-21,Active
+S01828,O0457,Rahul Joshi,Senior Chef,2025-06-20,Active
+S01829,O0458,Rahul Patel,Outlet Manager,2024-09-26,Active
+S01830,O0458,Aman Malhotra,Service Staff,2025-03-01,Active
+S01831,O0458,Mohit Saxena,Service Staff,2023-09-09,Active
+S01832,O0458,Pooja Mishra,Senior Chef,2023-05-04,Active
+S01833,O0459,Sneha Singh,Shift Manager,2023-09-09,Active
+S01834,O0459,Mohit Saxena,Service Staff,2023-05-21,Active
+S01835,O0459,Rahul Reddy,Service Staff,2026-03-22,Active
+S01836,O0459,Vikram Joshi,Shift Manager,2024-10-01,Active
+S01837,O0460,Kunal Chauhan,Shift Manager,2025-03-20,Active
+S01838,O0460,Priya Singh,Service Staff,2023-10-16,Active
+S01839,O0460,Sneha Sharma,Delivery Executive,2025-11-17,Active
+S01840,O0460,Kunal Saxena,Chef,2026-06-22,Active
+S01841,O0461,Neha Verma,Service Staff,2023-01-09,Active
+S01842,O0461,Vikram Mehta,Cashier,2023-11-20,Active
+S01843,O0461,Aman Chauhan,Delivery Executive,2024-05-24,Active
+S01844,O0461,Rahul Reddy,Cashier,2023-02-28,Active
+S01845,O0462,Nisha Kumar,Shift Manager,2024-10-08,Active
+S01846,O0462,Rahul Sharma,Delivery Executive,2026-02-19,Active
+S01847,O0462,Aditya Mehta,Shift Manager,2025-09-09,Active
+S01848,O0462,Rohit Saxena,Service Staff,2026-02-14,Active
+S01849,O0463,Arjun Khan,Outlet Manager,2025-08-27,Active
+S01850,O0463,Priya Saxena,Service Staff,2024-10-26,Active
+S01851,O0463,Vikram Mishra,Cashier,2025-08-11,Active
+S01852,O0463,Aditya Singh,Shift Manager,2025-06-09,Active
+S01853,O0464,Vivaan Patel,Senior Chef,2024-08-30,Active
+S01854,O0464,Sneha Malhotra,Delivery Executive,2023-02-24,Active
+S01855,O0464,Vivaan Mehta,Outlet Manager,2023-10-19,Active
+S01856,O0464,Aman Joshi,Kitchen Staff,2023-09-16,Active
+S01857,O0465,Vikram Yadav,Service Staff,2025-10-31,Active
+S01858,O0465,Aarav Gupta,Outlet Manager,2023-03-07,Active
+S01859,O0465,Priya Sharma,Kitchen Staff,2023-04-04,Active
+S01860,O0465,Riya Reddy,Outlet Manager,2025-04-03,Active
+S01861,O0466,Arjun Yadav,Senior Chef,2024-02-05,Active
+S01862,O0466,Vikram Kumar,Kitchen Staff,2024-06-19,Active
+S01863,O0466,Aman Sharma,Kitchen Staff,2023-07-31,Active
+S01864,O0466,Aditya Joshi,Service Staff,2023-05-23,Active
+S01865,O0467,Vikram Patel,Delivery Executive,2023-02-21,Active
+S01866,O0467,Vivaan Mehta,Cashier,2023-07-13,Active
+S01867,O0467,Aman Mishra,Delivery Executive,2025-06-23,Active
+S01868,O0467,Rohit Patel,Delivery Executive,2024-02-29,Active
+S01869,O0468,Kavya Kumar,Service Staff,2026-01-17,Active
+S01870,O0468,Sneha Mehta,Shift Manager,2023-10-18,Active
+S01871,O0468,Sneha Chauhan,Service Staff,2025-01-16,Active
+S01872,O0468,Aarav Reddy,Delivery Executive,2025-03-17,Active
+S01873,O0469,Arjun Gupta,Delivery Executive,2024-02-12,Active
+S01874,O0469,Rohit Reddy,Delivery Executive,2023-08-30,Active
+S01875,O0469,Aman Singh,Shift Manager,2024-11-23,Active
+S01876,O0469,Aisha Saxena,Senior Chef,2025-03-30,Active
+S01877,O0470,Riya Singh,Kitchen Staff,2026-06-24,Active
+S01878,O0470,Sneha Mehta,Cashier,2024-03-28,Active
+S01879,O0470,Aisha Gupta,Kitchen Staff,2025-08-06,Active
+S01880,O0470,Priya Saxena,Kitchen Staff,2024-08-09,Active
+S01881,O0471,Aditya Mehta,Senior Chef,2026-04-14,Active
+S01882,O0471,Pooja Patel,Cashier,2024-02-22,Active
+S01883,O0471,Pooja Verma,Delivery Executive,2023-10-22,Active
+S01884,O0471,Kunal Verma,Cashier,2023-01-12,Active
+S01885,O0472,Kunal Sharma,Delivery Executive,2024-01-06,Active
+S01886,O0472,Aditya Yadav,Shift Manager,2024-10-24,Active
+S01887,O0472,Pooja Singh,Shift Manager,2024-02-21,Active
+S01888,O0472,Aarav Verma,Cashier,2023-10-28,Active
+S01889,O0473,Aisha Verma,Service Staff,2024-09-11,Active
+S01890,O0473,Rohit Kumar,Chef,2024-10-21,Active
+S01891,O0473,Aarav Yadav,Cashier,2024-12-08,Active
+S01892,O0473,Vikram Joshi,Service Staff,2025-06-01,Active
+S01893,O0474,Pooja Mehta,Chef,2026-04-15,Active
+S01894,O0474,Rahul Saxena,Delivery Executive,2023-08-13,Active
+S01895,O0474,Kunal Verma,Kitchen Staff,2026-03-12,Active
+S01896,O0474,Rohit Saxena,Cashier,2024-05-25,Active
+S01897,O0475,Rohit Mehta,Kitchen Staff,2023-10-05,Active
+S01898,O0475,Vivaan Gupta,Outlet Manager,2024-07-15,Active
+S01899,O0475,Aman Singh,Service Staff,2023-11-24,Active
+S01900,O0475,Priya Saxena,Outlet Manager,2023-06-05,Active
+S01901,O0476,Kavya Verma,Cashier,2024-12-14,Active
+S01902,O0476,Riya Kumar,Kitchen Staff,2025-04-11,Active
+S01903,O0476,Vivaan Verma,Outlet Manager,2023-04-10,Active
+S01904,O0476,Aditya Saxena,Delivery Executive,2024-09-25,Active
+S01905,O0477,Aman Patel,Chef,2023-04-06,Active
+S01906,O0477,Mohit Kumar,Chef,2024-03-21,Active
+S01907,O0477,Vivaan Chauhan,Delivery Executive,2023-07-26,Active
+S01908,O0477,Vivaan Kumar,Chef,2024-02-02,Active
+S01909,O0478,Aditya Sharma,Cashier,2024-05-11,Active
+S01910,O0478,Aditya Yadav,Shift Manager,2026-01-28,Active
+S01911,O0478,Rahul Yadav,Chef,2023-11-01,Active
+S01912,O0478,Neha Khan,Senior Chef,2024-04-14,Active
+S01913,O0479,Nisha Joshi,Kitchen Staff,2023-03-17,Active
+S01914,O0479,Kunal Sharma,Senior Chef,2025-08-28,Active
+S01915,O0479,Priya Gupta,Chef,2025-12-13,Active
+S01916,O0479,Kunal Kumar,Kitchen Staff,2024-10-10,Active
+S01917,O0480,Nisha Sharma,Service Staff,2024-06-02,Active
+S01918,O0480,Neha Khan,Outlet Manager,2025-10-01,Active
+S01919,O0480,Aman Khan,Chef,2026-07-24,Active
+S01920,O0480,Priya Joshi,Kitchen Staff,2024-06-08,Active
+S01921,O0481,Rahul Yadav,Outlet Manager,2024-06-09,Active
+S01922,O0481,Kunal Sharma,Outlet Manager,2024-02-04,Active
+S01923,O0481,Arjun Saxena,Shift Manager,2023-05-10,Active
+S01924,O0481,Priya Patel,Kitchen Staff,2025-07-05,Active
+S01925,O0482,Ananya Patel,Delivery Executive,2026-02-20,Active
+S01926,O0482,Simran Gupta,Shift Manager,2025-10-01,Active
+S01927,O0482,Aarav Chauhan,Senior Chef,2024-04-29,Active
+S01928,O0482,Aarav Khan,Kitchen Staff,2023-12-16,Active
+S01929,O0483,Aman Kumar,Cashier,2024-09-16,Active
+S01930,O0483,Aditya Patel,Cashier,2023-11-24,Active
+S01931,O0483,Arjun Joshi,Service Staff,2024-02-25,Active
+S01932,O0483,Kunal Mehta,Service Staff,2023-08-26,Active
+S01933,O0484,Mohit Mehta,Shift Manager,2023-03-14,Active
+S01934,O0484,Ananya Verma,Kitchen Staff,2023-11-15,Active
+S01935,O0484,Nisha Verma,Service Staff,2023-07-26,Active
+S01936,O0484,Aman Khan,Chef,2026-04-10,Active
+S01937,O0485,Nisha Mishra,Service Staff,2025-03-16,Active
+S01938,O0485,Rohit Singh,Outlet Manager,2026-02-09,Active
+S01939,O0485,Ananya Chauhan,Shift Manager,2023-08-01,Active
+S01940,O0485,Aman Mishra,Delivery Executive,2023-12-24,Active
+S01941,O0486,Aisha Patel,Chef,2025-01-02,Active
+S01942,O0486,Neha Mishra,Cashier,2023-01-29,Active
+S01943,O0486,Nisha Gupta,Cashier,2023-08-15,Active
+S01944,O0486,Neha Saxena,Service Staff,2024-12-07,Active
+S01945,O0487,Vikram Malhotra,Chef,2025-07-27,Active
+S01946,O0487,Arjun Chauhan,Outlet Manager,2026-03-12,Active
+S01947,O0487,Neha Saxena,Service Staff,2024-12-31,Active
+S01948,O0487,Aditya Yadav,Service Staff,2023-02-07,Active
+S01949,O0488,Kunal Sharma,Shift Manager,2026-01-21,Active
+S01950,O0488,Ananya Khan,Kitchen Staff,2025-03-18,Active
+S01951,O0488,Neha Khan,Kitchen Staff,2024-08-07,Active
+S01952,O0488,Aisha Yadav,Outlet Manager,2024-01-25,Active
+S01953,O0489,Arjun Verma,Kitchen Staff,2024-04-17,Active
+S01954,O0489,Nisha Gupta,Chef,2024-04-26,Active
+S01955,O0489,Mohit Kumar,Shift Manager,2025-03-17,Active
+S01956,O0489,Kunal Khan,Delivery Executive,2026-07-01,Active
+S01957,O0490,Ananya Saxena,Cashier,2023-03-09,Active
+S01958,O0490,Aarav Mishra,Kitchen Staff,2023-09-14,Active
+S01959,O0490,Simran Verma,Delivery Executive,2025-09-26,Active
+S01960,O0490,Pooja Patel,Cashier,2026-02-18,Active
+S01961,O0491,Aditya Sharma,Kitchen Staff,2023-04-26,Active
+S01962,O0491,Rahul Patel,Chef,2023-01-03,Active
+S01963,O0491,Riya Kumar,Delivery Executive,2023-08-16,Active
+S01964,O0491,Mohit Sharma,Shift Manager,2025-01-11,Active
+S01965,O0492,Vivaan Joshi,Chef,2023-05-24,Active
+S01966,O0492,Riya Saxena,Cashier,2023-12-08,Active
+S01967,O0492,Aisha Khan,Shift Manager,2024-12-13,Active
+S01968,O0492,Arjun Verma,Kitchen Staff,2023-03-13,Active
+S01969,O0493,Rahul Patel,Chef,2024-04-30,Active
+S01970,O0493,Mohit Mehta,Outlet Manager,2023-12-19,Active
+S01971,O0493,Rohit Malhotra,Shift Manager,2024-10-24,Active
+S01972,O0493,Neha Gupta,Kitchen Staff,2026-03-05,Active
+S01973,O0494,Pooja Mishra,Outlet Manager,2025-10-07,Active
+S01974,O0494,Rohit Chauhan,Kitchen Staff,2025-09-22,Active
+S01975,O0494,Mohit Malhotra,Delivery Executive,2024-03-31,Active
+S01976,O0494,Priya Reddy,Kitchen Staff,2023-07-17,Active
+S01977,O0495,Kavya Singh,Cashier,2023-02-05,Active
+S01978,O0495,Kunal Mehta,Outlet Manager,2025-08-02,Active
+S01979,O0495,Simran Kumar,Cashier,2025-06-11,Active
+S01980,O0495,Pooja Gupta,Cashier,2025-10-21,Active
+S01981,O0496,Vivaan Singh,Delivery Executive,2023-02-12,Active
+S01982,O0496,Aditya Kumar,Chef,2024-02-17,Active
+S01983,O0496,Aditya Gupta,Senior Chef,2026-01-04,Active
+S01984,O0496,Riya Yadav,Shift Manager,2026-03-26,Active
+S01985,O0497,Rohit Chauhan,Cashier,2023-07-22,Active
+S01986,O0497,Neha Kumar,Shift Manager,2023-04-25,Active
+S01987,O0497,Kunal Sharma,Outlet Manager,2024-12-01,Active
+S01988,O0497,Nisha Sharma,Cashier,2024-11-23,Active
+S01989,O0498,Vikram Patel,Cashier,2025-08-04,Active
+S01990,O0498,Rahul Reddy,Cashier,2023-05-11,Active
+S01991,O0498,Ananya Mishra,Shift Manager,2023-05-08,Active
+S01992,O0498,Arjun Saxena,Kitchen Staff,2025-05-12,Active
+S01993,O0499,Mohit Saxena,Cashier,2025-03-07,Active
+S01994,O0499,Priya Saxena,Service Staff,2023-07-26,Active
+S01995,O0499,Sneha Kumar,Service Staff,2024-03-19,Active
+S01996,O0499,Aisha Singh,Senior Chef,2023-03-31,Active
+S01997,O0500,Riya Gupta,Shift Manager,2024-06-22,Active
+S01998,O0500,Simran Malhotra,Outlet Manager,2023-02-28,Active
+S01999,O0500,Kunal Mishra,Chef,2023-09-18,Active
+S02000,O0500,Pooja Joshi,Senior Chef,2024-02-10,Active

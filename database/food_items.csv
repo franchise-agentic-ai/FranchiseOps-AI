@@ -1,0 +1,301 @@
+item_id,item_name,category,food_type,listed_price
+I0001,Chicken Dum Biryani,Biryani,Non-Veg,349
+I0002,Hyderabadi Chicken Biryani,Biryani,Non-Veg,399
+I0003,Chicken Boneless Biryani,Biryani,Non-Veg,429
+I0004,Chicken 65 Biryani,Biryani,Non-Veg,449
+I0005,Mutton Biryani,Biryani,Non-Veg,499
+I0006,Egg Biryani,Biryani,Egg,299
+I0007,Veg Dum Biryani,Biryani,Veg,279
+I0008,Paneer Biryani,Biryani,Veg,349
+I0009,Mushroom Biryani,Biryani,Veg,329
+I0010,Butter Chicken,Mughlai,Non-Veg,399
+I0011,Chicken Handi,Mughlai,Non-Veg,449
+I0012,Mutton Rogan Josh,Mughlai,Non-Veg,499
+I0013,Chicken Korma,Mughlai,Non-Veg,429
+I0014,Shahi Paneer,Mughlai,Veg,329
+I0015,Dal Makhani,Mughlai,Veg,249
+I0016,Chicken Tikka,Mughlai,Non-Veg,349
+I0017,Seekh Kebab,Mughlai,Non-Veg,399
+I0018,Kadai Chicken,North Indian,Non-Veg,379
+I0019,Chicken Curry,North Indian,Non-Veg,349
+I0020,Mutton Curry,North Indian,Non-Veg,449
+I0021,Paneer Butter Masala,North Indian,Veg,299
+I0022,Kadai Paneer,North Indian,Veg,299
+I0023,Dal Makhani,North Indian,Veg,249
+I0024,Chole Masala,North Indian,Veg,229
+I0025,Garlic Naan,North Indian,Veg,89
+I0026,Amritsari Kulcha,Punjabi,Veg,149
+I0027,Chole Bhature,Punjabi,Veg,199
+I0028,Butter Chicken,Punjabi,Non-Veg,399
+I0029,Punjabi Chicken Curry,Punjabi,Non-Veg,379
+I0030,Rajma Chawal,Punjabi,Veg,229
+I0031,Paneer Tikka,Punjabi,Veg,299
+I0032,Tandoori Chicken,Tandoori,Non-Veg,449
+I0033,Chicken Tikka,Tandoori,Non-Veg,349
+I0034,Malai Chicken Tikka,Tandoori,Non-Veg,399
+I0035,Afghani Chicken,Tandoori,Non-Veg,449
+I0036,Paneer Tikka,Tandoori,Veg,299
+I0037,Hara Bhara Kebab,Tandoori,Veg,249
+I0038,Lucknowi Chicken Biryani,Awadhi,Non-Veg,429
+I0039,Awadhi Mutton Biryani,Awadhi,Non-Veg,529
+I0040,Galouti Kebab,Awadhi,Non-Veg,449
+I0041,Kakori Kebab,Awadhi,Non-Veg,449
+I0042,Awadhi Chicken Korma,Awadhi,Non-Veg,429
+I0043,Shahi Paneer,Awadhi,Veg,329
+I0044,Chicken Seekh Kebab,Kebab,Non-Veg,349
+I0045,Mutton Seekh Kebab,Kebab,Non-Veg,449
+I0046,Chicken Shami Kebab,Kebab,Non-Veg,349
+I0047,Galouti Kebab,Kebab,Non-Veg,449
+I0048,Paneer Seekh Kebab,Kebab,Veg,299
+I0049,Grilled Chicken,Grill,Non-Veg,449
+I0050,Peri Peri Chicken,Grill,Non-Veg,429
+I0051,Chicken Wings,Grill,Non-Veg,329
+I0052,Grilled Paneer,Grill,Veg,299
+I0053,Crispy Fried Chicken,Fried Chicken,Non-Veg,249
+I0054,Chicken Popcorn,Fried Chicken,Non-Veg,229
+I0055,Chicken Strips,Fried Chicken,Non-Veg,279
+I0056,Spicy Chicken Wings,Fried Chicken,Non-Veg,299
+I0057,Chicken Bucket,Fried Chicken,Non-Veg,599
+I0058,Margherita Pizza,Pizza,Veg,249
+I0059,Farmhouse Pizza,Pizza,Veg,399
+I0060,Paneer Tikka Pizza,Pizza,Veg,449
+I0061,Chicken Tikka Pizza,Pizza,Non-Veg,499
+I0062,Chicken Pepperoni Pizza,Pizza,Non-Veg,549
+I0063,Double Cheese Pizza,Pizza,Veg,349
+I0064,Veg Supreme Pizza,Pizza,Veg,449
+I0065,BBQ Chicken Pizza,Pizza,Non-Veg,499
+I0066,Classic Veg Burger,Burger,Veg,129
+I0067,Classic Chicken Burger,Burger,Non-Veg,179
+I0068,Crispy Chicken Burger,Burger,Non-Veg,229
+I0069,Chicken Tikka Burger,Burger,Non-Veg,249
+I0070,Paneer Burger,Burger,Veg,199
+I0071,Double Chicken Burger,Burger,Non-Veg,299
+I0072,Veg Momos,Momos,Veg,129
+I0073,Paneer Momos,Momos,Veg,159
+I0074,Chicken Momos,Momos,Non-Veg,179
+I0075,Chicken Tandoori Momos,Momos,Non-Veg,229
+I0076,Fried Chicken Momos,Momos,Non-Veg,199
+I0077,Chicken Kathi Roll,Rolls,Non-Veg,199
+I0078,Double Chicken Kathi Roll,Rolls,Non-Veg,249
+I0079,Paneer Kathi Roll,Rolls,Veg,179
+I0080,Egg Kathi Roll,Rolls,Egg,149
+I0081,Chicken Seekh Roll,Rolls,Non-Veg,219
+I0082,Chicken Shawarma Wrap,Wraps,Non-Veg,199
+I0083,Chicken Tikka Wrap,Wraps,Non-Veg,229
+I0084,Paneer Tikka Wrap,Wraps,Veg,199
+I0085,Veggie Wrap,Wraps,Veg,149
+I0086,Masala Dosa,South Indian,Veg,149
+I0087,Mysore Masala Dosa,South Indian,Veg,179
+I0088,Paneer Dosa,South Indian,Veg,199
+I0089,Plain Dosa,South Indian,Veg,119
+I0090,Idli Sambar,South Indian,Veg,99
+I0091,Medu Vada,South Indian,Veg,109
+I0092,Masala Uttapam,South Indian,Veg,159
+I0093,Veg Hakka Noodles,Chinese,Veg,199
+I0094,Chicken Hakka Noodles,Chinese,Non-Veg,249
+I0095,Chicken Fried Rice,Chinese,Non-Veg,269
+I0096,Veg Fried Rice,Chinese,Veg,199
+I0097,Chilli Chicken,Chinese,Non-Veg,299
+I0098,Chicken Manchurian,Chinese,Non-Veg,299
+I0099,Paneer Chilli,Chinese,Veg,249
+I0100,Chicken Hakka Noodles,Indian Chinese,Non-Veg,249
+I0101,Chicken Chilli,Indian Chinese,Non-Veg,299
+I0102,Chicken Fried Rice,Indian Chinese,Non-Veg,269
+I0103,Paneer Chilli,Indian Chinese,Veg,249
+I0104,Schezwan Noodles,Indian Chinese,Veg,229
+I0105,Arrabbiata Pasta,Pasta,Veg,249
+I0106,Alfredo Pasta,Pasta,Veg,279
+I0107,Chicken Alfredo Pasta,Pasta,Non-Veg,329
+I0108,Chicken Arrabbiata Pasta,Pasta,Non-Veg,349
+I0109,Paneer Sandwich,Cafe,Veg,179
+I0110,Chicken Sandwich,Cafe,Non-Veg,219
+I0111,Veg Grilled Sandwich,Cafe,Veg,159
+I0112,Chicken Club Sandwich,Cafe,Non-Veg,249
+I0113,Cheese Maggi,Cafe,Veg,149
+I0114,Veg Thali,Thali,Veg,249
+I0115,Punjabi Thali,Thali,Veg,299
+I0116,North Indian Thali,Thali,Veg,299
+I0117,Chicken Thali,Thali,Non-Veg,399
+I0118,Dal Baati Churma,Rajasthani,Veg,299
+I0119,Gatte Ki Sabzi,Rajasthani,Veg,229
+I0120,Rajasthani Thali,Rajasthani,Veg,349
+I0121,Pyaz Kachori,Rajasthani,Veg,99
+I0122,Kolkata Chicken Biryani,Bengali,Non-Veg,399
+I0123,Chicken Kosha,Bengali,Non-Veg,399
+I0124,Mutton Kosha,Bengali,Non-Veg,499
+I0125,Shorshe Paneer,Bengali,Veg,299
+I0126,Gujarati Thali,Gujarati,Veg,299
+I0127,Dhokla,Gujarati,Veg,99
+I0128,Khandvi,Gujarati,Veg,129
+I0129,Thepla,Gujarati,Veg,99
+I0130,Kerala Parotta,Kerala,Veg,79
+I0131,Kerala Chicken Curry,Kerala,Non-Veg,349
+I0132,Malabar Chicken Biryani,Kerala,Non-Veg,399
+I0133,Appam with Stew,Kerala,Non-Veg,299
+I0134,Andhra Chicken Biryani,Andhra,Non-Veg,399
+I0135,Andhra Chicken Curry,Andhra,Non-Veg,379
+I0136,Gongura Chicken,Andhra,Non-Veg,399
+I0137,Paneer Andhra Curry,Andhra,Veg,299
+I0138,Pav Bhaji,Street Food,Veg,149
+I0139,Vada Pav,Street Food,Veg,79
+I0140,Aloo Tikki Chaat,Street Food,Veg,99
+I0141,Samosa Chaat,Street Food,Veg,109
+I0142,Chicken Roll,Street Food,Non-Veg,199
+I0143,Special Chicken Biryani,Indian Food,Non-Veg,179
+I0144,Classic Chicken Biryani,Indian Food,Non-Veg,329
+I0145,Royal Chicken Biryani,Indian Food,Non-Veg,349
+I0146,Spicy Chicken Biryani,Indian Food,Non-Veg,499
+I0147,Tandoori Chicken Biryani,Indian Food,Non-Veg,279
+I0148,Chef's Chicken Biryani,Indian Food,Non-Veg,499
+I0149,Family Chicken Biryani,Indian Food,Non-Veg,199
+I0150,Deluxe Chicken Biryani,Indian Food,Non-Veg,199
+I0151,House Chicken Biryani,Indian Food,Non-Veg,199
+I0152,Afghani Chicken Biryani,Indian Food,Non-Veg,229
+I0153,Peri Peri Chicken Biryani,Indian Food,Non-Veg,279
+I0154,Hyderabadi Chicken Biryani,Indian Food,Non-Veg,249
+I0155,Lucknowi Chicken Biryani,Indian Food,Non-Veg,249
+I0156,Punjabi Chicken Biryani,Indian Food,Non-Veg,179
+I0157,Mughlai Chicken Biryani,Indian Food,Non-Veg,149
+I0158,Special Mutton Biryani,Biryani,Non-Veg,129
+I0159,Classic Mutton Biryani,Biryani,Non-Veg,499
+I0160,Royal Mutton Biryani,Biryani,Non-Veg,129
+I0161,Spicy Mutton Biryani,Biryani,Non-Veg,499
+I0162,Tandoori Mutton Biryani,Biryani,Non-Veg,149
+I0163,Chef's Mutton Biryani,Biryani,Non-Veg,129
+I0164,Family Mutton Biryani,Biryani,Non-Veg,279
+I0165,Deluxe Mutton Biryani,Biryani,Non-Veg,399
+I0166,House Mutton Biryani,Biryani,Non-Veg,229
+I0167,Afghani Mutton Biryani,Biryani,Non-Veg,129
+I0168,Peri Peri Mutton Biryani,Biryani,Non-Veg,449
+I0169,Hyderabadi Mutton Biryani,Biryani,Non-Veg,349
+I0170,Lucknowi Mutton Biryani,Biryani,Non-Veg,299
+I0171,Punjabi Mutton Biryani,Biryani,Non-Veg,449
+I0172,Mughlai Mutton Biryani,Biryani,Non-Veg,129
+I0173,Special Veg Biryani,Indian Food,Veg,129
+I0174,Classic Veg Biryani,Indian Food,Veg,149
+I0175,Royal Veg Biryani,Indian Food,Veg,279
+I0176,Spicy Veg Biryani,Indian Food,Veg,199
+I0177,Tandoori Veg Biryani,Indian Food,Veg,499
+I0178,Chef's Veg Biryani,Indian Food,Veg,149
+I0179,Family Veg Biryani,Indian Food,Veg,449
+I0180,Deluxe Veg Biryani,Indian Food,Veg,279
+I0181,House Veg Biryani,Indian Food,Veg,299
+I0182,Afghani Veg Biryani,Indian Food,Veg,499
+I0183,Peri Peri Veg Biryani,Indian Food,Veg,349
+I0184,Hyderabadi Veg Biryani,Indian Food,Veg,349
+I0185,Lucknowi Veg Biryani,Indian Food,Veg,249
+I0186,Punjabi Veg Biryani,Indian Food,Veg,449
+I0187,Mughlai Veg Biryani,Indian Food,Veg,449
+I0188,Special Paneer Biryani,Biryani,Veg,299
+I0189,Classic Paneer Biryani,Biryani,Veg,449
+I0190,Royal Paneer Biryani,Biryani,Veg,299
+I0191,Spicy Paneer Biryani,Biryani,Veg,499
+I0192,Tandoori Paneer Biryani,Biryani,Veg,249
+I0193,Chef's Paneer Biryani,Biryani,Veg,299
+I0194,Family Paneer Biryani,Biryani,Veg,449
+I0195,Deluxe Paneer Biryani,Biryani,Veg,329
+I0196,House Paneer Biryani,Biryani,Veg,399
+I0197,Afghani Paneer Biryani,Biryani,Veg,499
+I0198,Peri Peri Paneer Biryani,Biryani,Veg,249
+I0199,Hyderabadi Paneer Biryani,Biryani,Veg,199
+I0200,Lucknowi Paneer Biryani,Biryani,Veg,149
+I0201,Punjabi Paneer Biryani,Biryani,Veg,129
+I0202,Mughlai Paneer Biryani,Biryani,Veg,329
+I0203,Special Chicken Pizza,Indian Food,Non-Veg,149
+I0204,Classic Chicken Pizza,Indian Food,Non-Veg,279
+I0205,Royal Chicken Pizza,Indian Food,Non-Veg,179
+I0206,Spicy Chicken Pizza,Indian Food,Non-Veg,129
+I0207,Tandoori Chicken Pizza,Indian Food,Non-Veg,349
+I0208,Chef's Chicken Pizza,Indian Food,Non-Veg,329
+I0209,Family Chicken Pizza,Indian Food,Non-Veg,399
+I0210,Deluxe Chicken Pizza,Indian Food,Non-Veg,499
+I0211,House Chicken Pizza,Indian Food,Non-Veg,449
+I0212,Afghani Chicken Pizza,Indian Food,Non-Veg,249
+I0213,Peri Peri Chicken Pizza,Indian Food,Non-Veg,279
+I0214,Hyderabadi Chicken Pizza,Indian Food,Non-Veg,129
+I0215,Lucknowi Chicken Pizza,Indian Food,Non-Veg,299
+I0216,Punjabi Chicken Pizza,Indian Food,Non-Veg,299
+I0217,Mughlai Chicken Pizza,Indian Food,Non-Veg,149
+I0218,Special Paneer Pizza,Indian Food,Veg,499
+I0219,Classic Paneer Pizza,Indian Food,Veg,229
+I0220,Royal Paneer Pizza,Indian Food,Veg,399
+I0221,Spicy Paneer Pizza,Indian Food,Veg,279
+I0222,Tandoori Paneer Pizza,Indian Food,Veg,229
+I0223,Chef's Paneer Pizza,Indian Food,Veg,299
+I0224,Family Paneer Pizza,Indian Food,Veg,179
+I0225,Deluxe Paneer Pizza,Indian Food,Veg,329
+I0226,House Paneer Pizza,Indian Food,Veg,299
+I0227,Afghani Paneer Pizza,Indian Food,Veg,279
+I0228,Peri Peri Paneer Pizza,Indian Food,Veg,229
+I0229,Hyderabadi Paneer Pizza,Indian Food,Veg,229
+I0230,Lucknowi Paneer Pizza,Indian Food,Veg,399
+I0231,Punjabi Paneer Pizza,Indian Food,Veg,199
+I0232,Mughlai Paneer Pizza,Indian Food,Veg,249
+I0233,Special Veg Pizza,Indian Food,Veg,349
+I0234,Classic Veg Pizza,Indian Food,Veg,179
+I0235,Royal Veg Pizza,Indian Food,Veg,329
+I0236,Spicy Veg Pizza,Indian Food,Veg,499
+I0237,Tandoori Veg Pizza,Indian Food,Veg,329
+I0238,Chef's Veg Pizza,Indian Food,Veg,299
+I0239,Family Veg Pizza,Indian Food,Veg,229
+I0240,Deluxe Veg Pizza,Indian Food,Veg,129
+I0241,House Veg Pizza,Indian Food,Veg,349
+I0242,Afghani Veg Pizza,Indian Food,Veg,249
+I0243,Peri Peri Veg Pizza,Indian Food,Veg,279
+I0244,Hyderabadi Veg Pizza,Indian Food,Veg,279
+I0245,Lucknowi Veg Pizza,Indian Food,Veg,299
+I0246,Punjabi Veg Pizza,Indian Food,Veg,179
+I0247,Mughlai Veg Pizza,Indian Food,Veg,179
+I0248,Special Chicken Burger,Indian Food,Non-Veg,229
+I0249,Classic Chicken Burger,Indian Food,Non-Veg,299
+I0250,Royal Chicken Burger,Indian Food,Non-Veg,499
+I0251,Spicy Chicken Burger,Indian Food,Non-Veg,449
+I0252,Tandoori Chicken Burger,Indian Food,Non-Veg,299
+I0253,Chef's Chicken Burger,Indian Food,Non-Veg,299
+I0254,Family Chicken Burger,Indian Food,Non-Veg,249
+I0255,Deluxe Chicken Burger,Indian Food,Non-Veg,249
+I0256,House Chicken Burger,Indian Food,Non-Veg,279
+I0257,Afghani Chicken Burger,Indian Food,Non-Veg,399
+I0258,Peri Peri Chicken Burger,Indian Food,Non-Veg,279
+I0259,Hyderabadi Chicken Burger,Indian Food,Non-Veg,229
+I0260,Lucknowi Chicken Burger,Indian Food,Non-Veg,179
+I0261,Punjabi Chicken Burger,Indian Food,Non-Veg,399
+I0262,Mughlai Chicken Burger,Indian Food,Non-Veg,149
+I0263,Special Paneer Burger,Burger,Veg,329
+I0264,Classic Paneer Burger,Burger,Veg,299
+I0265,Royal Paneer Burger,Burger,Veg,179
+I0266,Spicy Paneer Burger,Burger,Veg,349
+I0267,Tandoori Paneer Burger,Burger,Veg,149
+I0268,Chef's Paneer Burger,Burger,Veg,279
+I0269,Family Paneer Burger,Burger,Veg,179
+I0270,Deluxe Paneer Burger,Burger,Veg,279
+I0271,House Paneer Burger,Burger,Veg,229
+I0272,Afghani Paneer Burger,Burger,Veg,499
+I0273,Peri Peri Paneer Burger,Burger,Veg,329
+I0274,Hyderabadi Paneer Burger,Burger,Veg,199
+I0275,Lucknowi Paneer Burger,Burger,Veg,129
+I0276,Punjabi Paneer Burger,Burger,Veg,279
+I0277,Mughlai Paneer Burger,Burger,Veg,399
+I0278,Special Veg Burger,Indian Food,Veg,129
+I0279,Classic Veg Burger,Indian Food,Veg,179
+I0280,Royal Veg Burger,Indian Food,Veg,349
+I0281,Spicy Veg Burger,Indian Food,Veg,449
+I0282,Tandoori Veg Burger,Indian Food,Veg,499
+I0283,Chef's Veg Burger,Indian Food,Veg,299
+I0284,Family Veg Burger,Indian Food,Veg,199
+I0285,Deluxe Veg Burger,Indian Food,Veg,249
+I0286,House Veg Burger,Indian Food,Veg,329
+I0287,Afghani Veg Burger,Indian Food,Veg,299
+I0288,Peri Peri Veg Burger,Indian Food,Veg,279
+I0289,Hyderabadi Veg Burger,Indian Food,Veg,329
+I0290,Lucknowi Veg Burger,Indian Food,Veg,279
+I0291,Punjabi Veg Burger,Indian Food,Veg,229
+I0292,Mughlai Veg Burger,Indian Food,Veg,299
+I0293,Special Chicken Kebab,Indian Food,Non-Veg,229
+I0294,Classic Chicken Kebab,Indian Food,Non-Veg,199
+I0295,Royal Chicken Kebab,Indian Food,Non-Veg,249
+I0296,Spicy Chicken Kebab,Indian Food,Non-Veg,129
+I0297,Tandoori Chicken Kebab,Indian Food,Non-Veg,499
+I0298,Chef's Chicken Kebab,Indian Food,Non-Veg,349
+I0299,Family Chicken Kebab,Indian Food,Non-Veg,349
+I0300,Deluxe Chicken Kebab,Indian Food,Non-Veg,129

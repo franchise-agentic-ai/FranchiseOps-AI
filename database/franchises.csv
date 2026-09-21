@@ -1,0 +1,51 @@
+franchise_id,name,cuisine,total_outlets,status
+F001,Royal Biryani House,Biryani,10,Active
+F002,Hyderabadi Zaika,Biryani,10,Active
+F003,Nawab's Kitchen,Mughlai,10,Active
+F004,Biryani Darbar,Biryani,10,Active
+F005,Spice Route Kitchen,North Indian,10,Active
+F006,Delhi Tadka,North Indian,10,Active
+F007,Punjab Rasoi,Punjabi,10,Active
+F008,Mughal Kitchen,Mughlai,10,Active
+F009,Urban Tandoor,Tandoori,10,Active
+F010,Desi Dastarkhwan,North Indian,10,Active
+F011,Awadhi Zaika,Awadhi,10,Active
+F012,Kebab Junction,Kebab,10,Active
+F013,Grill Nation,Grill,10,Active
+F014,Crispy Chicken Co,Fried Chicken,10,Active
+F015,Pizza Street,Pizza,10,Active
+F016,Oven & Crust,Pizza,10,Active
+F017,Pizza Junction,Pizza,10,Active
+F018,Italian Slice,Pizza,10,Active
+F019,Burger Junction,Burger,10,Active
+F020,Grill Burger Co,Burger,10,Active
+F021,Momo Junction,Momos,10,Active
+F022,Momo Street,Momos,10,Active
+F023,Rolls & Kebab,Rolls,10,Active
+F024,Kathi Roll House,Rolls,10,Active
+F025,Wrap Nation,Wraps,10,Active
+F026,Dosa House,South Indian,10,Active
+F027,South Spice,South Indian,10,Active
+F028,Madras Tiffin,South Indian,10,Active
+F029,Hakka Wok,Chinese,10,Active
+F030,Wok & Spice,Chinese,10,Active
+F031,Chinese Bowl,Chinese,10,Active
+F032,Pasta Point,Pasta,10,Active
+F033,Cafe Saffron,Cafe,10,Active
+F034,Desi Cafe,Cafe,10,Active
+F035,Thali Junction,Thali,10,Active
+F036,Rajasthani Rasoi,Rajasthani,10,Active
+F037,Bengal Kitchen,Bengali,10,Active
+F038,Gujarati Thali House,Gujarati,10,Active
+F039,Kerala Spice,Kerala,10,Active
+F040,Andhra Kitchen,Andhra,10,Active
+F041,Street Food Adda,Street Food,10,Active
+F042,Family Feast,North Indian,10,Active
+F043,Tandoori Trails,Tandoori,10,Active
+F044,Chicken House,Fried Chicken,10,Active
+F045,Momo Masala,Momos,10,Active
+F046,Royal Grill,Grill,10,Active
+F047,Dilli Chulha,North Indian,10,Active
+F048,Spice Garden,Indian Chinese,10,Active
+F049,Desi Zaika,North Indian,10,Active
+F050,Food Street Kitchen,Street Food,10,Active
